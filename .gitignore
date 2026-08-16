@@ -1,0 +1,11 @@
+# Obsidian local/device-specific state — don't sync across machines
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.obsidian/plugins/*/data.json
+.trash/
+
+# OS cruft
+.DS_Store
+Thumbs.db
+desktop.ini
