@@ -3,7 +3,6 @@ title: Fingering Notation
 type: concept
 tags: [glossary, technique]
 ---
-
 # Fingering Notation
 
 How finger positions are marked in the [[PIX Series - Course Overview|PIX Series]] course. **Note this differs from standard classical piano fingering**, where the thumb is always `1` and fingers go `1`(thumb)–`5`(pinky).

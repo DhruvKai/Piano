@@ -16,6 +16,7 @@ Dashboard for my piano notes. Start here.
 - [[Alankar]]
 - [[Sargam]]
 - [[Fingering Notation]]
+- [[Octave]]
 
 ## Practice Log
 <!-- running log of practice sessions, one line per session -->

@@ -7,9 +7,8 @@ channel: PIX Series
 lesson_number: 1
 date: 2026-08-16
 status: in-progress
-tags: [piano, alankar, sargam, fingering, beginner]
+tags: [piano, alankar, sargam, fingering, octave, beginner]
 ---
-
 # Lesson 01 — Basics of Piano & Alankars
 
 > [!info] Source
@@ -17,7 +16,14 @@ tags: [piano, alankar, sargam, fingering, beginner]
 > 📄 Companion PDF: [pixseries.com/lesson-1](https://pixseries.com/lesson-1/)
 
 ## Overview
-First lesson of the series — introduces [[Alankar|Alankars]] (ornamentation exercises from Indian Classical Music) built on the [[Sargam]] scale, plus the finger positions used to play them.
+First lesson of the series — covers [[Octave|Octaves]] and keyboard layout, then introduces [[Alankar|Alankars]] (ornamentation exercises from Indian Classical Music) built on the [[Sargam]] scale, plus the finger positions used to play them.
+
+## Octaves (Saptak)
+- An **octave** (Saptak) = a group of **12 keys**. Black keys run in a repeating 2-3-2-3 pattern; a new octave starts at the white key just below a pair of black keys.
+- Three ranges: **Mandra Saptak** (Lower), **Madhya Saptak** (Middle), **Taar Saptak** (Higher) — as a beginner, **start from the Madhya Saptak (Middle Octave)**.
+- Each octave's 12 keys = 7 Shuddh Swar (natural: Sa Re Ga Ma Pa Dha Ni) + 4 Komal Swar (flat: Re, Ga, Dha, Ni) + 1 Teevra Swar (sharp: Ma).
+- Example: a 61-key keyboard = 5 octaves (60 keys) + 1 extra key.
+- Full breakdown: [[Octave]]
 
 ## Key Concepts
 - [[Alankar]]s embellish/enhance the beauty of a musical phrase — built from the 7 [[Sargam]] notes: `Sa Re Ga Ma Pa Dha Ni Sa`
