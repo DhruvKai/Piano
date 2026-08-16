@@ -3,7 +3,6 @@ title: Sargam
 type: concept
 tags: [glossary, theory, indian-classical]
 ---
-
 # Sargam
 
 **Sargam** is the Indian classical solfège system — the equivalent of Western Do-Re-Mi. It names the 7 notes of a scale:

@@ -3,7 +3,6 @@ title: Octave
 type: concept
 tags: [glossary, theory, keyboard-layout, indian-classical]
 ---
-
 # Octave (Saptak / सप्तक)
 
 An **octave** — called a **Saptak** in Indian classical music — is a group of **12 keys** on the piano.
