@@ -17,7 +17,9 @@ Dashboard for my piano notes. Start here.
 - [[Sargam]]
 - [[Fingering Notation]]
 - [[Octave]]
+- [[Western Note Names]]
 
 ## Practice Log
 <!-- running log of practice sessions, one line per session -->
 - 2026-08-16 — started the vault, began [[PIX Series - Course Overview|PIX Series]] Lesson 01
+- 2026-08-17 — added [[Lesson 02 - Western Notes & Right Hand Exercises|PIX Series Lesson 02]]

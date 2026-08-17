@@ -16,6 +16,7 @@ Free YouTube playlist by **PIX Series** ("Drift Into Music"), Beginner to Advanc
 
 ## Lessons
 - [[Lesson 01 - Basics of Piano & Alankars]]
+- [[Lesson 02 - Western Notes & Right Hand Exercises]]
 
 ## Related
 - [[Home]]
