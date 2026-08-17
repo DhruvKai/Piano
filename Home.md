@@ -19,6 +19,7 @@ Dashboard for my piano notes. Start here.
 - [[Octave]]
 - [[Western Note Names]]
 - [[Sharps & Flats]]
+- [[Metronome]]
 
 ## Practice Log
 <!-- running log of practice sessions, one line per session -->

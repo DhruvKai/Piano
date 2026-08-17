@@ -31,6 +31,8 @@ First lesson of the series — covers [[Octave|Octaves]] and keyboard layout, th
 
 ## The Base Scale & Fingering
 
+![[lesson01-fingering.svg]]
+
 | Note | Sa | Re | Ga | Ma | Pa | Dha | Ni | Sa |
 |------|----|----|----|----|----|----|----|----|
 | Finger | 1 | 2 | Th | 1 | 2 | 3 | Th | 1 |
@@ -50,6 +52,9 @@ All three patterns should also be practiced **in reverse**, using the same finge
 `Sa · Sa Re Ga Ma Re · Re Ga Ma Pa Ga · Ga Ma Pa Dha Ma · Ma Pa Dha Ni Pa · Pa Dha Ni Sa`
 
 ## Exercises / Practice
+> [!tip] Practice with a [[Metronome]]
+> Play all of these along with a slow, steady click rather than at your own pace — see [[Metronome]] for how to ramp up tempo safely.
+
 - [ ] Base scale Sa→Sa with `Th` fingering, ascending and descending
 - [ ] Pattern 1 (pairs) ascending + reverse
 - [ ] Pattern 2 (triplets) ascending + reverse

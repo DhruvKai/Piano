@@ -24,6 +24,8 @@ Introduces the [[Western Note Names]] (C D E F G A B) and moves into right-hand-
 - These exercises stay within a 7-note span (C to B/C) using the right hand only.
 
 ## Right Hand Exercises
+![[keyboard-one-octave.svg]]
+
 Straight from the companion PDF. Each line is one pass — play left-to-right, and repeat until comfortable before moving to the next exercise.
 
 **Exercise 1** — 8-note stepwise up-and-back, shifting up one note each line:
@@ -59,6 +61,9 @@ F C B A G F G A
 > The PDF doesn't mark specific finger numbers for these (unlike Lesson 01's Alankars). Apply the same [[Fingering Notation]] approach — thumb (`Th`) under on the wider jumps — and settle on whatever fingering keeps the hand relaxed.
 
 ## Exercises / Practice
+> [!tip] Practice with a [[Metronome]]
+> Play each exercise along with a slow, steady click rather than at your own pace — see [[Metronome]] for how to ramp up tempo safely.
+
 - [ ] Exercise 1, all 8 lines, right hand only
 - [ ] Exercise 2, all 5 lines, right hand only
 - [ ] Exercise 3, all 4 lines, right hand only
