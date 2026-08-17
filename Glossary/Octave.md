@@ -26,7 +26,7 @@ Each octave's 12 keys break down as:
 | **Komal Swar** (flat notes) | Re, Ga, Dha, Ni | 4 |
 | **Teevra Swar** (sharp note) | Ma | 1 |
 
-7 + 4 + 1 = **12**. (`Sa` and `Pa` are fixed — they have no komal/teevra variant. `Re`, `Ga`, `Dha`, `Ni` each get a komal/flat version; `Ma` is the only note with a teevra/sharp version instead of a komal one.) See [[Sargam]] for what these note names mean.
+7 + 4 + 1 = **12**. (`Sa` and `Pa` are fixed — they have no komal/teevra variant. `Re`, `Ga`, `Dha`, `Ni` each get a komal/flat version; `Ma` is the only note with a teevra/sharp version instead of a komal one.) See [[Sargam]] for what these note names mean, and [[Sharps & Flats]] for the same 12 keys named the Western way (sharps/flats instead of komal/teevra).
 
 ## Worked example
 A 61-key keyboard = **5 full octaves** (5 × 12 = 60 keys) + **1 extra key**.
@@ -35,3 +35,4 @@ A 61-key keyboard = **5 full octaves** (5 × 12 = 60 keys) + **1 extra key**.
 - [[Lesson 01 - Basics of Piano & Alankars]]
 - [[Sargam]]
 - [[Alankar]]
+- [[Sharps & Flats]]

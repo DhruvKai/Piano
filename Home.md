@@ -18,6 +18,7 @@ Dashboard for my piano notes. Start here.
 - [[Fingering Notation]]
 - [[Octave]]
 - [[Western Note Names]]
+- [[Sharps & Flats]]
 
 ## Practice Log
 <!-- running log of practice sessions, one line per session -->

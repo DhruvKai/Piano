@@ -17,7 +17,11 @@ This course maps `Sa = C` as the beginner default, giving:
 |--------|----|----|----|----|----|----|----|----|
 | Letter name | C | D | E | F | G | A | B | C |
 
+## The black keys
+C D E F G A B only names the 7 white keys — for the 5 black keys in between (sharps and flats), see [[Sharps & Flats]].
+
 ## Used in
 - [[Lesson 02 - Western Notes & Right Hand Exercises]]
 - [[Octave]]
 - [[Sargam]]
+- [[Sharps & Flats]]
