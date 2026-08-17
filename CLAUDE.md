@@ -34,6 +34,7 @@ An [Obsidian](https://obsidian.md) vault used as a personal learning journal for
 - Tags live in frontmatter as a YAML array, not inline `#hashtags`, so Obsidian's tag pane stays clean.
 - Use Obsidian callouts (`> [!info]`, `> [!tip]`) for source links / asides — they render as boxes in Obsidian and degrade gracefully to blockquotes elsewhere.
 - A new concept, technique, or notation the courses introduce gets its own note under `Glossary/` and gets linked wherever it's used, rather than re-defined inline every time.
+- Before writing a concept note, check `Glossary/` for one that already covers it (or overlaps closely). If it exists, don't re-explain or duplicate it — just `[[link]]` to the existing note from wherever the concept comes up. Only write a new note when the concept genuinely isn't covered yet.
 - File naming: `Lesson NN - <Title>.md` with zero-padded two-digit lesson numbers, so files sort correctly in the file explorer.
 
 ## Workflow: taking notes from a YouTube video
