@@ -6,6 +6,8 @@ tags: [glossary, theory, keyboard-layout]
 
 # Sharps & Flats (Accidentals)
 
+![[keyboard-one-octave.svg]]
+
 Recap: the white keys are the 7 [[Western Note Names|C D E F G A B]] notes, sitting inside an [[Octave]] of 12 keys total. The other **5 keys are black**, and they're named using **sharps (#)** and **flats (b)**.
 
 ## What sharp and flat actually mean

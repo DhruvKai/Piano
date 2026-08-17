@@ -14,6 +14,7 @@ An [Obsidian](https://obsidian.md) vault used as a personal learning journal for
 - `<Course Name>/` — one folder per course/source, e.g. `PIX Series YouTube Course/`. Each has a `<Course Name> - Course Overview.md` that links to all of its lesson notes.
 - `Glossary/` — atomic, single-concept reference notes (e.g. `Alankar.md`, `Sargam.md`) that lesson notes link to via `[[wikilink]]` instead of re-explaining the concept every time.
 - `Templates/Lesson Note Template.md` — starting point for a new lesson note.
+- `Assets/` — images referenced by notes (e.g. keyboard diagrams), embedded via `![[filename.svg]]`. Prefer self-drawn SVG diagrams over fetched/downloaded images to avoid licensing issues.
 - `Paid Course/` — not created yet. Add it (see below) once a paid course actually starts.
 
 ## Note conventions (must stay Obsidian-compatible)
