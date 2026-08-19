@@ -5,6 +5,9 @@
 .obsidian/plugins/*/data.json
 .trash/
 
+# Local-only PDF backups — never pushed to GitHub (see chat: kept off the public repo intentionally)
+/PDF Backups (local only)/
+
 # OS cruft
 .DS_Store
 Thumbs.db
