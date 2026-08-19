@@ -3,7 +3,6 @@ title: Major Scale
 type: concept
 tags: [glossary, theory, scale-formula]
 ---
-
 # Major Scale
 
 A **major scale** is 8 notes, picked from the 12 keys in an [[Octave]], using one fixed pattern of whole steps and half steps (see [[Sharps & Flats]] for what those mean). That pattern is:
@@ -54,3 +53,4 @@ A **minor scale** uses a different pattern of whole/half steps starting from the
 - [[Sharps & Flats]]
 - [[Sargam]]
 - [[Root Note]]
+- [[Remembering Major Scales]]

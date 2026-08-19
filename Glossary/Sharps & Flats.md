@@ -3,7 +3,6 @@ title: Sharps & Flats
 type: concept
 tags: [glossary, theory, keyboard-layout]
 ---
-
 # Sharps & Flats (Accidentals)
 
 ![[keyboard-one-octave.svg]]

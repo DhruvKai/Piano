@@ -28,39 +28,120 @@ Teaches the [[Major Scale]] formula (T-T-ST-T-T-T-ST) and applies it to all 12 p
 > This lesson uses **standard piano fingering**: thumb = `1`, index = `2`, middle = `3`, ring = `4`, pinky = `5`. This is different from Lesson 01's Alankar fingering, which used `Th` for thumb and only `1`/`2`/`3` for the other fingers. See [[Fingering Notation]] for both systems side by side.
 
 ## All 12 Major Scales
-Grouped the way the source material groups them — scales starting on C/G/D/A/E/B share one fingering pattern; the rest (more black keys involved) each need their own.
+Grouped the way the source material groups them — scales starting on C/G/D/A/E/B share one fingering pattern; the rest (more black keys involved) each need their own. Every scale follows the same **[[Major Scale|T-T-ST-T-T-T-ST]]** step pattern (shown as its own row below) — see [[Major Scale]] for the scale-degree names behind each column.
 
 ### Group 1 — same fingering (RH: 1 2 3 1 2 3 4 5)
 
-| Scale | Notes |
-|-------|-------|
-| C Major | C – D – E – F – G – A – B – C |
-| G Major | G – A – B – C – D – E – F# – G |
-| D Major | D – E – F# – G – A – B – C# – D |
-| A Major | A – B – C# – D – E – F# – G# – A |
-| E Major | E – F# – G# – A – B – C# – D# – E |
-| B Major | B – C# – D# – E – F# – G# – A# – B |
+**C Major**
 
-All six share the exact same T-T-ST-T-T-T-ST shape and the exact same fingering — only the notes shift.
+| | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+|---|---|---|---|---|---|---|---|---|
+| Note | C | D | E | F | G | A | B | C |
+| Step | – | T | T | ST | T | T | T | ST |
+| Finger (RH) | 1 | 2 | 3 | 1 | 2 | 3 | 4 | 5 |
+
+**G Major**
+
+| | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+|---|---|---|---|---|---|---|---|---|
+| Note | G | A | B | C | D | E | F# | G |
+| Step | – | T | T | ST | T | T | T | ST |
+| Finger (RH) | 1 | 2 | 3 | 1 | 2 | 3 | 4 | 5 |
+
+**D Major**
+
+| | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+|---|---|---|---|---|---|---|---|---|
+| Note | D | E | F# | G | A | B | C# | D |
+| Step | – | T | T | ST | T | T | T | ST |
+| Finger (RH) | 1 | 2 | 3 | 1 | 2 | 3 | 4 | 5 |
+
+**A Major**
+
+| | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+|---|---|---|---|---|---|---|---|---|
+| Note | A | B | C# | D | E | F# | G# | A |
+| Step | – | T | T | ST | T | T | T | ST |
+| Finger (RH) | 1 | 2 | 3 | 1 | 2 | 3 | 4 | 5 |
+
+**E Major**
+
+| | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+|---|---|---|---|---|---|---|---|---|
+| Note | E | F# | G# | A | B | C# | D# | E |
+| Step | – | T | T | ST | T | T | T | ST |
+| Finger (RH) | 1 | 2 | 3 | 1 | 2 | 3 | 4 | 5 |
+
+**B Major**
+
+| | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+|---|---|---|---|---|---|---|---|---|
+| Note | B | C# | D# | E | F# | G# | A# | B |
+| Step | – | T | T | ST | T | T | T | ST |
+| Finger (RH) | 1 | 2 | 3 | 1 | 2 | 3 | 4 | 5 |
+
+All six share the exact same step row and the exact same fingering — only the notes shift.
 
 ### Group 2 — scale-specific fingering
 
-| Scale | Notes | RH Fingering |
-|-------|-------|---------------|
-| F# Major | F# – G# – A# – B – C# – D# – F* – F# | 2 3 4 1 2 3 1 2 |
-| F Major | F – G – A – Bb – C – D – E – F | 1 2 3 4 1 2 3 4 |
-| Bb Major | Bb – C – D – Eb – F – G – A – Bb | 2 1 2 3 1 2 3 4 |
-| Eb Major | Eb – F – G – Ab – Bb – C – D – Eb | 2 1 2 3 4 1 2 3 |
-| Ab Major | Ab – Bb – C – Db – Eb – F – G – Ab | 2 3 1 2 3 1 2 3 |
-| Db Major | Db – Eb – F – Gb – Ab – Bb – C – Db | 2 3 1 2 3 4 1 2 |
+**F# Major**
 
-*\*F# major's 7th note is written as "F" in the source material — enharmonically the same key as E#, just simpler to read.*
+| | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+|---|---|---|---|---|---|---|---|---|
+| Note | F# | G# | A# | B | C# | D# | F* | F# |
+| Step | – | T | T | ST | T | T | T | ST |
+| Finger (RH) | 2 | 3 | 4 | 1 | 2 | 3 | 1 | 2 |
+
+*\*Written as "F" in the source material — enharmonically the same key as E#, just simpler to read.*
+
+**F Major**
+
+| | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+|---|---|---|---|---|---|---|---|---|
+| Note | F | G | A | Bb | C | D | E | F |
+| Step | – | T | T | ST | T | T | T | ST |
+| Finger (RH) | 1 | 2 | 3 | 4 | 1 | 2 | 3 | 4 |
+
+**Bb Major**
+
+| | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+|---|---|---|---|---|---|---|---|---|
+| Note | Bb | C | D | Eb | F | G | A | Bb |
+| Step | – | T | T | ST | T | T | T | ST |
+| Finger (RH) | 2 | 1 | 2 | 3 | 1 | 2 | 3 | 4 |
+
+**Eb Major**
+
+| | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+|---|---|---|---|---|---|---|---|---|
+| Note | Eb | F | G | Ab | Bb | C | D | Eb |
+| Step | – | T | T | ST | T | T | T | ST |
+| Finger (RH) | 2 | 1 | 2 | 3 | 4 | 1 | 2 | 3 |
+
+**Ab Major**
+
+| | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+|---|---|---|---|---|---|---|---|---|
+| Note | Ab | Bb | C | Db | Eb | F | G | Ab |
+| Step | – | T | T | ST | T | T | T | ST |
+| Finger (RH) | 2 | 3 | 1 | 2 | 3 | 1 | 2 | 3 |
+
+**Db Major**
+
+| | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+|---|---|---|---|---|---|---|---|---|
+| Note | Db | Eb | F | Gb | Ab | Bb | C | Db |
+| Step | – | T | T | ST | T | T | T | ST |
+| Finger (RH) | 2 | 3 | 1 | 2 | 3 | 4 | 1 | 2 |
 
 Why the fingering changes between the two groups: on a piano, the thumb generally avoids landing on a black key where possible (it's short and sits further back), so scales with more black keys swap in a different starting finger to keep the thumb on white keys as much as it can.
 
 ## Exercises / Practice
 > [!tip] Practice with a [[Metronome]]
 > Go slow, one scale at a time, ascending and descending, both hands eventually — see [[Metronome]] for the tempo ramp-up method.
+
+> [!tip] Struggling to keep all 12 straight? See [[Remembering Major Scales]]
+> Circle of fifths, fingering shortcuts, and mnemonics for the sharp/flat order.
 
 - [ ] Group 1 scales (C, G, D, A, E, B) — ascending + descending, RH only
 - [ ] F# Major — ascending + descending, RH only
@@ -74,4 +155,5 @@ Why the fingering changes between the two groups: on a piano, the thumb generall
 - [[PIX Series - Course Overview]]
 - [[Lesson 02 - Western Notes & Right Hand Exercises]]
 - [[Major Scale]]
+- [[Remembering Major Scales]]
 - [[Home]]

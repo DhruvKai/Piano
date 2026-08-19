@@ -22,6 +22,7 @@ Dashboard for my piano notes. Start here.
 - [[Metronome]]
 - [[Major Scale]]
 - [[Root Note]]
+- [[Remembering Major Scales]]
 
 ## Practice Log
 <!-- running log of practice sessions, one line per session -->
