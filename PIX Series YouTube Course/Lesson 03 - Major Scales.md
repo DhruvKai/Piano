@@ -36,49 +36,49 @@ Grouped the way the source material groups them — scales starting on C/G/D/A/E
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
 |---|---|---|---|---|---|---|---|---|
-| Note | C | D | E | F | G | A | B | C |
-| Step | – | T | T | ST | T | T | T | ST |
-| Finger (RH) | 1 | 2 | 3 | 1 | 2 | 3 | 4 | 5 |
+| <span style="color:#2c6fbb">Note</span> | C | D | E | F | G | A | B | C |
+| <span style="color:#c9622a">Step</span> | – | T | T | ST | T | T | T | ST |
+| <span style="color:#3a8f5c">Finger (RH)</span> | 1 | 2 | 3 | 1 | 2 | 3 | 4 | 5 |
 
 **G Major**
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
 |---|---|---|---|---|---|---|---|---|
-| Note | G | A | B | C | D | E | F# | G |
-| Step | – | T | T | ST | T | T | T | ST |
-| Finger (RH) | 1 | 2 | 3 | 1 | 2 | 3 | 4 | 5 |
+| <span style="color:#2c6fbb">Note</span> | G | A | B | C | D | E | F# | G |
+| <span style="color:#c9622a">Step</span> | – | T | T | ST | T | T | T | ST |
+| <span style="color:#3a8f5c">Finger (RH)</span> | 1 | 2 | 3 | 1 | 2 | 3 | 4 | 5 |
 
 **D Major**
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
 |---|---|---|---|---|---|---|---|---|
-| Note | D | E | F# | G | A | B | C# | D |
-| Step | – | T | T | ST | T | T | T | ST |
-| Finger (RH) | 1 | 2 | 3 | 1 | 2 | 3 | 4 | 5 |
+| <span style="color:#2c6fbb">Note</span> | D | E | F# | G | A | B | C# | D |
+| <span style="color:#c9622a">Step</span> | – | T | T | ST | T | T | T | ST |
+| <span style="color:#3a8f5c">Finger (RH)</span> | 1 | 2 | 3 | 1 | 2 | 3 | 4 | 5 |
 
 **A Major**
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
 |---|---|---|---|---|---|---|---|---|
-| Note | A | B | C# | D | E | F# | G# | A |
-| Step | – | T | T | ST | T | T | T | ST |
-| Finger (RH) | 1 | 2 | 3 | 1 | 2 | 3 | 4 | 5 |
+| <span style="color:#2c6fbb">Note</span> | A | B | C# | D | E | F# | G# | A |
+| <span style="color:#c9622a">Step</span> | – | T | T | ST | T | T | T | ST |
+| <span style="color:#3a8f5c">Finger (RH)</span> | 1 | 2 | 3 | 1 | 2 | 3 | 4 | 5 |
 
 **E Major**
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
 |---|---|---|---|---|---|---|---|---|
-| Note | E | F# | G# | A | B | C# | D# | E |
-| Step | – | T | T | ST | T | T | T | ST |
-| Finger (RH) | 1 | 2 | 3 | 1 | 2 | 3 | 4 | 5 |
+| <span style="color:#2c6fbb">Note</span> | E | F# | G# | A | B | C# | D# | E |
+| <span style="color:#c9622a">Step</span> | – | T | T | ST | T | T | T | ST |
+| <span style="color:#3a8f5c">Finger (RH)</span> | 1 | 2 | 3 | 1 | 2 | 3 | 4 | 5 |
 
 **B Major**
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
 |---|---|---|---|---|---|---|---|---|
-| Note | B | C# | D# | E | F# | G# | A# | B |
-| Step | – | T | T | ST | T | T | T | ST |
-| Finger (RH) | 1 | 2 | 3 | 1 | 2 | 3 | 4 | 5 |
+| <span style="color:#2c6fbb">Note</span> | B | C# | D# | E | F# | G# | A# | B |
+| <span style="color:#c9622a">Step</span> | – | T | T | ST | T | T | T | ST |
+| <span style="color:#3a8f5c">Finger (RH)</span> | 1 | 2 | 3 | 1 | 2 | 3 | 4 | 5 |
 
 All six share the exact same step row and the exact same fingering — only the notes shift.
 
@@ -88,9 +88,9 @@ All six share the exact same step row and the exact same fingering — only the 
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
 |---|---|---|---|---|---|---|---|---|
-| Note | F# | G# | A# | B | C# | D# | F* | F# |
-| Step | – | T | T | ST | T | T | T | ST |
-| Finger (RH) | 2 | 3 | 4 | 1 | 2 | 3 | 1 | 2 |
+| <span style="color:#2c6fbb">Note</span> | F# | G# | A# | B | C# | D# | F* | F# |
+| <span style="color:#c9622a">Step</span> | – | T | T | ST | T | T | T | ST |
+| <span style="color:#3a8f5c">Finger (RH)</span> | 2 | 3 | 4 | 1 | 2 | 3 | 1 | 2 |
 
 *\*Written as "F" in the source material — enharmonically the same key as E#, just simpler to read.*
 
@@ -98,41 +98,41 @@ All six share the exact same step row and the exact same fingering — only the 
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
 |---|---|---|---|---|---|---|---|---|
-| Note | F | G | A | Bb | C | D | E | F |
-| Step | – | T | T | ST | T | T | T | ST |
-| Finger (RH) | 1 | 2 | 3 | 4 | 1 | 2 | 3 | 4 |
+| <span style="color:#2c6fbb">Note</span> | F | G | A | Bb | C | D | E | F |
+| <span style="color:#c9622a">Step</span> | – | T | T | ST | T | T | T | ST |
+| <span style="color:#3a8f5c">Finger (RH)</span> | 1 | 2 | 3 | 4 | 1 | 2 | 3 | 4 |
 
 **Bb Major**
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
 |---|---|---|---|---|---|---|---|---|
-| Note | Bb | C | D | Eb | F | G | A | Bb |
-| Step | – | T | T | ST | T | T | T | ST |
-| Finger (RH) | 2 | 1 | 2 | 3 | 1 | 2 | 3 | 4 |
+| <span style="color:#2c6fbb">Note</span> | Bb | C | D | Eb | F | G | A | Bb |
+| <span style="color:#c9622a">Step</span> | – | T | T | ST | T | T | T | ST |
+| <span style="color:#3a8f5c">Finger (RH)</span> | 2 | 1 | 2 | 3 | 1 | 2 | 3 | 4 |
 
 **Eb Major**
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
 |---|---|---|---|---|---|---|---|---|
-| Note | Eb | F | G | Ab | Bb | C | D | Eb |
-| Step | – | T | T | ST | T | T | T | ST |
-| Finger (RH) | 2 | 1 | 2 | 3 | 4 | 1 | 2 | 3 |
+| <span style="color:#2c6fbb">Note</span> | Eb | F | G | Ab | Bb | C | D | Eb |
+| <span style="color:#c9622a">Step</span> | – | T | T | ST | T | T | T | ST |
+| <span style="color:#3a8f5c">Finger (RH)</span> | 2 | 1 | 2 | 3 | 4 | 1 | 2 | 3 |
 
 **Ab Major**
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
 |---|---|---|---|---|---|---|---|---|
-| Note | Ab | Bb | C | Db | Eb | F | G | Ab |
-| Step | – | T | T | ST | T | T | T | ST |
-| Finger (RH) | 2 | 3 | 1 | 2 | 3 | 1 | 2 | 3 |
+| <span style="color:#2c6fbb">Note</span> | Ab | Bb | C | Db | Eb | F | G | Ab |
+| <span style="color:#c9622a">Step</span> | – | T | T | ST | T | T | T | ST |
+| <span style="color:#3a8f5c">Finger (RH)</span> | 2 | 3 | 1 | 2 | 3 | 1 | 2 | 3 |
 
 **Db Major**
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
 |---|---|---|---|---|---|---|---|---|
-| Note | Db | Eb | F | Gb | Ab | Bb | C | Db |
-| Step | – | T | T | ST | T | T | T | ST |
-| Finger (RH) | 2 | 3 | 1 | 2 | 3 | 4 | 1 | 2 |
+| <span style="color:#2c6fbb">Note</span> | Db | Eb | F | Gb | Ab | Bb | C | Db |
+| <span style="color:#c9622a">Step</span> | – | T | T | ST | T | T | T | ST |
+| <span style="color:#3a8f5c">Finger (RH)</span> | 2 | 3 | 1 | 2 | 3 | 4 | 1 | 2 |
 
 Why the fingering changes between the two groups: on a piano, the thumb generally avoids landing on a black key where possible (it's short and sits further back), so scales with more black keys swap in a different starting finger to keep the thumb on white keys as much as it can.
 
