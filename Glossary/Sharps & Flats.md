@@ -17,6 +17,16 @@ Recap: the white keys are the 7 [[Western Note Names|C D E F G A B]] notes, sitt
 
 So `C#` means "one half step above C", and `Db` means "one half step below D". On a piano these land on **the exact same physical key** — just two different names for it. That's called an **enharmonic equivalent**.
 
+### Semitone and Tone, highlighted
+![[semitone-vs-tone.svg]]
+
+**Semitone** (half step) — the smallest possible distance on the keyboard: one key straight to the very next key, black or white, with nothing in between. `C → C#` is a semitone.
+
+**Tone** (whole step) — two semitones stacked together, i.e. one key skipped. `C → D` is a tone: it passes right over `C#` to get there.
+
+> [!info] Other names for the same thing
+> **Semitone = half step**, **Tone = whole step** — same distances, different words for them. [[Lesson 03 - Major Scales|Later lessons]] abbreviate these as **ST** and **T** — see [[Major Scale]], where this exact distance is what the whole major-scale formula is built from.
+
 ## Why only 5 black keys, not 7?
 Every white key is a whole step from its neighbor — **except E→F and B→C**, which are already just a half step apart, so there's no room for a black key to sit between them. This gap is exactly why the black keys come in [[Octave|groups of 2 and 3]] instead of being evenly spaced.
 
@@ -70,3 +80,4 @@ The [[Sargam]] system already names this same idea from the Indian classical sid
 ## Used in
 - [[Western Note Names]]
 - [[Octave]]
+- [[Major Scale]]

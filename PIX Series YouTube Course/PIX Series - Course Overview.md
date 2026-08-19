@@ -17,6 +17,7 @@ Free YouTube playlist by **PIX Series** ("Drift Into Music"), Beginner to Advanc
 ## Lessons
 - [[Lesson 01 - Basics of Piano & Alankars]]
 - [[Lesson 02 - Western Notes & Right Hand Exercises]]
+- [[Lesson 03 - Major Scales]]
 
 ## Companion PDFs (on pixseries.com)
 Free notation sheets PIX Series publishes per lesson — linking out rather than storing copies here, since they're PIX Series' own branded material.

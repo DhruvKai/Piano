@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 260" font-family="sans-serif">
+  <text x="160" y="16" text-anchor="middle" font-size="13" fill="#333">Why G Major needs F# (not F)</text>
+
+  <g transform="translate(0,24)">
+    <!-- white keys: G A B C D E F G -->
+    <g stroke="#333" stroke-width="1.5">
+      <rect x="0"   y="0" width="40" height="200" fill="#ffffff"/>
+      <rect x="40"  y="0" width="40" height="200" fill="#ffffff"/>
+      <rect x="80"  y="0" width="40" height="200" fill="#ffffff"/>
+      <rect x="120" y="0" width="40" height="200" fill="#ffffff"/>
+      <rect x="160" y="0" width="40" height="200" fill="#ffffff"/>
+      <rect x="200" y="0" width="40" height="200" fill="#ffffff"/>
+      <rect x="240" y="0" width="40" height="200" fill="#eeeeee"/> <!-- F, unused by this scale -->
+      <rect x="280" y="0" width="40" height="200" fill="#ffffff"/>
+    </g>
+
+    <!-- black keys: G# A# (no black between B-C) C# D# (no black between E-F) F# -->
+    <g stroke="#000" stroke-width="1">
+      <rect x="28"  y="0" width="24" height="120" fill="#222222"/> <!-- G# / Ab, unused -->
+      <rect x="68"  y="0" width="24" height="120" fill="#222222"/> <!-- A# / Bb, unused -->
+      <rect x="148" y="0" width="24" height="120" fill="#222222"/> <!-- C# / Db, unused -->
+      <rect x="188" y="0" width="24" height="120" fill="#222222"/> <!-- D# / Eb, unused -->
+      <rect x="268" y="0" width="24" height="120" fill="#c9622a"/> <!-- F# / Gb, USED -->
+    </g>
+
+    <!-- letter names -->
+    <g font-size="13" text-anchor="middle">
+      <text x="20"  y="150" fill="#666">G</text>
+      <text x="60"  y="150" fill="#666">A</text>
+      <text x="100" y="150" fill="#666">B</text>
+      <text x="140" y="150" fill="#666">C</text>
+      <text x="180" y="150" fill="#666">D</text>
+      <text x="220" y="150" fill="#666">E</text>
+      <text x="260" y="150" fill="#aaaaaa">F</text>
+      <text x="300" y="150" fill="#666">G</text>
+    </g>
+
+    <!-- F# label on its black key -->
+    <text x="280" y="75" font-size="10" fill="#ffffff" text-anchor="middle" font-weight="bold">F#</text>
+
+    <!-- scale degree badges: white keys in the scale -->
+    <g>
+      <circle cx="20"  cy="175" r="15" fill="#3a8f5c"/>
+      <circle cx="60"  cy="175" r="15" fill="#2c6fbb"/>
+      <circle cx="100" cy="175" r="15" fill="#2c6fbb"/>
+      <circle cx="140" cy="175" r="15" fill="#2c6fbb"/>
+      <circle cx="180" cy="175" r="15" fill="#2c6fbb"/>
+      <circle cx="220" cy="175" r="15" fill="#2c6fbb"/>
+      <circle cx="280" cy="100" r="15" fill="#c9622a"/> <!-- F# badge, on the black key -->
+      <circle cx="300" cy="175" r="15" fill="#3a8f5c"/>
+    </g>
+    <g fill="#ffffff" font-size="13" font-weight="bold" text-anchor="middle">
+      <text x="20"  y="180">1</text>
+      <text x="60"  y="180">2</text>
+      <text x="100" y="180">3</text>
+      <text x="140" y="180">4</text>
+      <text x="180" y="180">5</text>
+      <text x="220" y="180">6</text>
+      <text x="280" y="105">7</text>
+      <text x="300" y="180">8</text>
+    </g>
+
+    <!-- crossed-out marker on the unused white F -->
+    <g stroke="#bbbbbb" stroke-width="2">
+      <line x1="248" y1="165" x2="272" y2="185"/>
+      <line x1="272" y1="165" x2="248" y2="185"/>
+    </g>
+  </g>
+
+  <text x="160" y="238" text-anchor="middle" font-size="11" fill="#666">Degree 7 must be a half step below G. That's the black key F# — using white F would make the last step a whole step, breaking the T-T-ST-T-T-T-ST formula.</text>
+</svg>
