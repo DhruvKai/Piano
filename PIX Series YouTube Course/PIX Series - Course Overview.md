@@ -18,6 +18,14 @@ Free YouTube playlist by **PIX Series** ("Drift Into Music"), Beginner to Advanc
 - [[Lesson 01 - Basics of Piano & Alankars]]
 - [[Lesson 02 - Western Notes & Right Hand Exercises]]
 - [[Lesson 03 - Major Scales]]
+- [[Lesson 04 - Minor Scales]]
+- [[Lesson 05 - Chords]]
+- [[Lesson 06 - Playing With Both Hands]]
+- [[Lesson 07 - Basic Arpeggios]]
+- [[Lesson 08 - Advanced Arpeggios]]
+
+> [!warning] Boilerplate pass
+> Lessons 4–8 were built from the companion PDFs only (all verified, downloaded locally) — exact YouTube video links for these aren't confirmed, since their titles don't follow the "Lesson #N" pattern lessons 1–3 used and didn't surface reliably in search. Each note flags this individually. Content, tables, and structure are ready to be reviewed/edited.
 
 ## Companion PDFs (on pixseries.com)
 Free notation sheets PIX Series publishes per lesson — linking out rather than storing copies here, since they're PIX Series' own branded material.
