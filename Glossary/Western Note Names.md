@@ -15,9 +15,9 @@ This is a different system from Western **solfège** (Do Re Mi Fa Sol La Ti Do):
 ## Relationship to Sargam
 This course maps `Sa = C` as the beginner default, giving:
 
-| Sargam | Sa | Re | Ga | Ma | Pa | Dha | Ni | Sa |
+| <span style="background-color:#2c6fbb;color:#fff;padding:1px 6px;border-radius:3px;">Sargam</span> | Sa | Re | Ga | Ma | Pa | Dha | Ni | Sa |
 |--------|----|----|----|----|----|----|----|----|
-| Letter name | C | D | E | F | G | A | B | C |
+| <span style="background-color:#c9622a;color:#fff;padding:1px 6px;border-radius:3px;">Letter name</span> | C | D | E | F | G | A | B | C |
 
 ## The black keys
 C D E F G A B only names the 7 white keys — for the 5 black keys in between (sharps and flats), see [[Sharps & Flats]].

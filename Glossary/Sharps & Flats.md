@@ -17,7 +17,7 @@ Recap: the white keys are the 7 [[Western Note Names|C D E F G A B]] notes, sitt
 So `C#` means "one half step above C", and `Db` means "one half step below D". On a piano these land on **the exact same physical key** — just two different names for it. That's called an **enharmonic equivalent**.
 
 ### Semitone and Tone, highlighted
-![[semitone-vs-tone.svg]]
+![[semitone-vs-tone.svg|350]]
 
 **Semitone** (half step) — the smallest possible distance on the keyboard: one key straight to the very next key, black or white, with nothing in between. `C → C#` is a semitone.
 
@@ -60,7 +60,7 @@ Light nodes = white keys, dark nodes = black keys. Notice the two spots (E→F, 
 
 ## All 12 notes, both spellings
 
-| White key | Black key right after it | Enharmonic pair |
+| <span style="background-color:#2c6fbb;color:#fff;padding:1px 6px;border-radius:3px;">White key</span> | <span style="background-color:#c9622a;color:#fff;padding:1px 6px;border-radius:3px;">Black key right after it</span> | <span style="background-color:#3a8f5c;color:#fff;padding:1px 6px;border-radius:3px;">Enharmonic pair</span> |
 |-----------|--------------------------|------------------|
 | C | Yes | C# / Db |
 | D | Yes | D# / Eb |

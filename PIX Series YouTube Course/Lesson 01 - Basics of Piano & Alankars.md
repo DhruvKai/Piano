@@ -33,9 +33,9 @@ First lesson of the series — covers [[Octave|Octaves]] and keyboard layout, th
 
 ![[lesson01-fingering.svg]]
 
-| Note | Sa | Re | Ga | Ma | Pa | Dha | Ni | Sa |
+| <span style="background-color:#2c6fbb;color:#fff;padding:1px 6px;border-radius:3px;">Note</span> | Sa | Re | Ga | Ma | Pa | Dha | Ni | Sa |
 |------|----|----|----|----|----|----|----|----|
-| Finger | 1 | 2 | Th | 1 | 2 | 3 | Th | 1 |
+| <span style="background-color:#c9622a;color:#fff;padding:1px 6px;border-radius:3px;">Finger</span> | 1 | 2 | Th | 1 | 2 | 3 | Th | 1 |
 
 (`Th` = thumb tucks under the hand — see [[Fingering Notation]] for the full labeling scheme.)
 

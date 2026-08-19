@@ -31,10 +31,10 @@ graph LR
 ## Scale degrees
 Each note in the scale has a position number (and a formal name, rarely used by beginners but good to recognize):
 
-| Degree | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+| <span style="background-color:#2c6fbb;color:#fff;padding:1px 6px;border-radius:3px;">Degree</span> | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
 |--------|---|---|---|---|---|---|---|---|
-| C major note | C | D | E | F | G | A | B | C |
-| Name | Tonic | Supertonic | Mediant | Subdominant | Dominant | Submediant | Leading Tone | Tonic |
+| <span style="background-color:#c9622a;color:#fff;padding:1px 6px;border-radius:3px;">C major note</span> | C | D | E | F | G | A | B | C |
+| <span style="background-color:#3a8f5c;color:#fff;padding:1px 6px;border-radius:3px;">Name</span> | Tonic | Supertonic | Mediant | Subdominant | Dominant | Submediant | Leading Tone | Tonic |
 
 Degree 1 (**tonic**) is the [[Root Note]] — the "home" note the scale is named after and built from.
 

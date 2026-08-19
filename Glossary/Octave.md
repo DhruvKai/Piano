@@ -11,7 +11,7 @@ An **octave** — called a **Saptak** in Indian classical music — is a group o
 Black keys always run in a repeating **2, 3, 2, 3...** pattern across the keyboard. Find any group of **two black keys** — the white key directly underneath that pair is where an octave starts. Counting from that white key up to the next occurrence of the same pattern (the same white key one octave higher) covers exactly 12 keys.
 
 ## The three named ranges
-| Hindi | English | Position |
+| <span style="background-color:#2c6fbb;color:#fff;padding:1px 6px;border-radius:3px;">Hindi</span> | <span style="background-color:#c9622a;color:#fff;padding:1px 6px;border-radius:3px;">English</span> | <span style="background-color:#3a8f5c;color:#fff;padding:1px 6px;border-radius:3px;">Position</span> |
 |-------|---------|----------|
 | Mandra Saptak (मंद्र सप्तक) | Lower Octave | Lowest range |
 | Madhya Saptak (मध्य सप्तक) | Middle Octave | Middle range — **start here as a beginner** |
@@ -20,11 +20,11 @@ Black keys always run in a repeating **2, 3, 2, 3...** pattern across the keyboa
 ## The 12 notes inside one octave
 Each octave's 12 keys break down as:
 
-| Category | Notes | Count |
+| <span style="background-color:#2c6fbb;color:#fff;padding:1px 6px;border-radius:3px;">Category</span> | <span style="background-color:#c9622a;color:#fff;padding:1px 6px;border-radius:3px;">Notes</span> | <span style="background-color:#3a8f5c;color:#fff;padding:1px 6px;border-radius:3px;">Count</span> |
 |----------|-------|-------|
-| **Shuddh Swar** (natural notes) | Sa, Re, Ga, Ma, Pa, Dha, Ni | 7 |
-| **Komal Swar** (flat notes) | Re, Ga, Dha, Ni | 4 |
-| **Teevra Swar** (sharp note) | Ma | 1 |
+| Shuddh Swar (natural notes) | Sa, Re, Ga, Ma, Pa, Dha, Ni | 7 |
+| Komal Swar (flat notes) | Re, Ga, Dha, Ni | 4 |
+| Teevra Swar (sharp note) | Ma | 1 |
 
 7 + 4 + 1 = **12**. (`Sa` and `Pa` are fixed — they have no komal/teevra variant. `Re`, `Ga`, `Dha`, `Ni` each get a komal/flat version; `Ma` is the only note with a teevra/sharp version instead of a komal one.) See [[Sargam]] for what these note names mean, and [[Sharps & Flats]] for the same 12 keys named the Western way (sharps/flats instead of komal/teevra).
 
