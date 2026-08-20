@@ -36,6 +36,8 @@ Grouped the way the source material groups them — scales starting on C/G/D/A/E
 
 **C Major**
 
+![[lesson03-c-major.svg]]
+
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
 |---|---|---|---|---|---|---|---|---|
 | <span style="color:#2c6fbb">Note</span> | C | D | E | F | G | A | B | C |
@@ -43,6 +45,8 @@ Grouped the way the source material groups them — scales starting on C/G/D/A/E
 | <span style="color:#3a8f5c">Finger (RH)</span> | 1 | 2 | 3 | 1 | 2 | 3 | 4 | 5 |
 
 **G Major**
+
+![[lesson03-g-major.svg]]
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
 |---|---|---|---|---|---|---|---|---|
@@ -52,6 +56,8 @@ Grouped the way the source material groups them — scales starting on C/G/D/A/E
 
 **D Major**
 
+![[lesson03-d-major.svg]]
+
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
 |---|---|---|---|---|---|---|---|---|
 | <span style="color:#2c6fbb">Note</span> | D | E | F# | G | A | B | C# | D |
@@ -59,6 +65,8 @@ Grouped the way the source material groups them — scales starting on C/G/D/A/E
 | <span style="color:#3a8f5c">Finger (RH)</span> | 1 | 2 | 3 | 1 | 2 | 3 | 4 | 5 |
 
 **A Major**
+
+![[lesson03-a-major.svg]]
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
 |---|---|---|---|---|---|---|---|---|
@@ -68,6 +76,8 @@ Grouped the way the source material groups them — scales starting on C/G/D/A/E
 
 **E Major**
 
+![[lesson03-e-major.svg]]
+
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
 |---|---|---|---|---|---|---|---|---|
 | <span style="color:#2c6fbb">Note</span> | E | F# | G# | A | B | C# | D# | E |
@@ -75,6 +85,8 @@ Grouped the way the source material groups them — scales starting on C/G/D/A/E
 | <span style="color:#3a8f5c">Finger (RH)</span> | 1 | 2 | 3 | 1 | 2 | 3 | 4 | 5 |
 
 **B Major**
+
+![[lesson03-b-major.svg]]
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
 |---|---|---|---|---|---|---|---|---|
@@ -88,6 +100,8 @@ All six share the exact same step row and the exact same fingering — only the 
 
 **F# Major**
 
+![[lesson03-f-sharp-major.svg]]
+
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
 |---|---|---|---|---|---|---|---|---|
 | <span style="color:#2c6fbb">Note</span> | F# | G# | A# | B | C# | D# | F | F# |
@@ -98,6 +112,8 @@ All six share the exact same step row and the exact same fingering — only the 
 
 **F Major**
 
+![[lesson03-f-major.svg]]
+
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
 |---|---|---|---|---|---|---|---|---|
 | <span style="color:#2c6fbb">Note</span> | F | G | A | A# | C | D | E | F |
@@ -105,6 +121,8 @@ All six share the exact same step row and the exact same fingering — only the 
 | <span style="color:#3a8f5c">Finger (RH)</span> | 1 | 2 | 3 | 4 | 1 | 2 | 3 | 4 |
 
 **A# Major** *(keyboard-sharp name — formally B-flat major)*
+
+![[lesson03-a-sharp-major.svg]]
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
 |---|---|---|---|---|---|---|---|---|
@@ -114,6 +132,8 @@ All six share the exact same step row and the exact same fingering — only the 
 
 **D# Major** *(keyboard-sharp name — formally E-flat major)*
 
+![[lesson03-d-sharp-major.svg]]
+
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
 |---|---|---|---|---|---|---|---|---|
 | <span style="color:#2c6fbb">Note</span> | D# | F | G | G# | A# | C | D | D# |
@@ -122,6 +142,8 @@ All six share the exact same step row and the exact same fingering — only the 
 
 **G# Major** *(keyboard-sharp name — formally A-flat major)*
 
+![[lesson03-g-sharp-major.svg]]
+
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
 |---|---|---|---|---|---|---|---|---|
 | <span style="color:#2c6fbb">Note</span> | G# | A# | C | C# | D# | F | G | G# |
@@ -129,6 +151,8 @@ All six share the exact same step row and the exact same fingering — only the 
 | <span style="color:#3a8f5c">Finger (RH)</span> | 2 | 3 | 1 | 2 | 3 | 1 | 2 | 3 |
 
 **C# Major** *(keyboard-sharp name — formally D-flat major)*
+
+![[lesson03-c-sharp-major.svg]]
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
 |---|---|---|---|---|---|---|---|---|
