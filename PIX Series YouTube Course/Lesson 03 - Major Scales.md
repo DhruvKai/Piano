@@ -9,7 +9,6 @@ date: 2026-08-19
 status: in-progress
 tags: [piano, major-scale, scale-formula, fingering, beginner]
 ---
-
 # Lesson 03 — Major Scales
 
 > [!info] Source
@@ -26,6 +25,9 @@ Teaches the [[Major Scale]] formula (T-T-ST-T-T-T-ST) and applies it to all 12 p
 
 > [!warning] Fingering system change
 > This lesson uses **standard piano fingering**: thumb = `1`, index = `2`, middle = `3`, ring = `4`, pinky = `5`. This is different from Lesson 01's Alankar fingering, which used `Th` for thumb and only `1`/`2`/`3` for the other fingers. See [[Fingering Notation]] for both systems side by side.
+
+> [!tip] Keyboard-first sharp notation
+> This vault names every black key with a **sharp** (`C#`, `D#`, `F#`, `G#`, `A#`), never a flat — so scales are named by their sharp-key alias (e.g. **A# major** rather than B-flat major). `B#` is shown as `C` and `E#` is shown as `F` for keyboard-reading clarity.
 
 ## All 12 Major Scales
 Grouped the way the source material groups them — scales starting on C/G/D/A/E/B share one fingering pattern; the rest (more black keys involved) each need their own. Every scale follows the same **[[Major Scale|T-T-ST-T-T-T-ST]]** step pattern (shown as its own row below) — see [[Major Scale]] for the scale-degree names behind each column.
@@ -88,49 +90,49 @@ All six share the exact same step row and the exact same fingering — only the 
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
 |---|---|---|---|---|---|---|---|---|
-| <span style="color:#2c6fbb">Note</span> | F# | G# | A# | B | C# | D# | F* | F# |
+| <span style="color:#2c6fbb">Note</span> | F# | G# | A# | B | C# | D# | F | F# |
 | <span style="color:#c9622a">Step</span> | – | T | T | ST | T | T | T | ST |
 | <span style="color:#3a8f5c">Finger (RH)</span> | 2 | 3 | 4 | 1 | 2 | 3 | 1 | 2 |
 
-*\*Written as "F" in the source material — enharmonically the same key as E#, just simpler to read.*
+*The white key shown as `F` is formally spelled `E#` in F# major; shown as `F` here per the keyboard-first sharp convention above.*
 
 **F Major**
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
 |---|---|---|---|---|---|---|---|---|
-| <span style="color:#2c6fbb">Note</span> | F | G | A | Bb | C | D | E | F |
+| <span style="color:#2c6fbb">Note</span> | F | G | A | A# | C | D | E | F |
 | <span style="color:#c9622a">Step</span> | – | T | T | ST | T | T | T | ST |
 | <span style="color:#3a8f5c">Finger (RH)</span> | 1 | 2 | 3 | 4 | 1 | 2 | 3 | 4 |
 
-**Bb Major**
+**A# Major** *(keyboard-sharp name — formally B-flat major)*
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
 |---|---|---|---|---|---|---|---|---|
-| <span style="color:#2c6fbb">Note</span> | Bb | C | D | Eb | F | G | A | Bb |
+| <span style="color:#2c6fbb">Note</span> | A# | C | D | D# | F | G | A | A# |
 | <span style="color:#c9622a">Step</span> | – | T | T | ST | T | T | T | ST |
 | <span style="color:#3a8f5c">Finger (RH)</span> | 2 | 1 | 2 | 3 | 1 | 2 | 3 | 4 |
 
-**Eb Major**
+**D# Major** *(keyboard-sharp name — formally E-flat major)*
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
 |---|---|---|---|---|---|---|---|---|
-| <span style="color:#2c6fbb">Note</span> | Eb | F | G | Ab | Bb | C | D | Eb |
+| <span style="color:#2c6fbb">Note</span> | D# | F | G | G# | A# | C | D | D# |
 | <span style="color:#c9622a">Step</span> | – | T | T | ST | T | T | T | ST |
 | <span style="color:#3a8f5c">Finger (RH)</span> | 2 | 1 | 2 | 3 | 4 | 1 | 2 | 3 |
 
-**Ab Major**
+**G# Major** *(keyboard-sharp name — formally A-flat major)*
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
 |---|---|---|---|---|---|---|---|---|
-| <span style="color:#2c6fbb">Note</span> | Ab | Bb | C | Db | Eb | F | G | Ab |
+| <span style="color:#2c6fbb">Note</span> | G# | A# | C | C# | D# | F | G | G# |
 | <span style="color:#c9622a">Step</span> | – | T | T | ST | T | T | T | ST |
 | <span style="color:#3a8f5c">Finger (RH)</span> | 2 | 3 | 1 | 2 | 3 | 1 | 2 | 3 |
 
-**Db Major**
+**C# Major** *(keyboard-sharp name — formally D-flat major)*
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
 |---|---|---|---|---|---|---|---|---|
-| <span style="color:#2c6fbb">Note</span> | Db | Eb | F | Gb | Ab | Bb | C | Db |
+| <span style="color:#2c6fbb">Note</span> | C# | D# | F | F# | G# | A# | C | C# |
 | <span style="color:#c9622a">Step</span> | – | T | T | ST | T | T | T | ST |
 | <span style="color:#3a8f5c">Finger (RH)</span> | 2 | 3 | 1 | 2 | 3 | 4 | 1 | 2 |
 
@@ -145,7 +147,7 @@ Why the fingering changes between the two groups: on a piano, the thumb generall
 
 - [ ] Group 1 scales (C, G, D, A, E, B) — ascending + descending, RH only
 - [ ] F# Major — ascending + descending, RH only
-- [ ] F, Bb, Eb, Ab, Db Major — ascending + descending, RH only
+- [ ] F, A#, D#, G#, C# Major — ascending + descending, RH only
 - [ ] Say the T/ST pattern out loud while playing each scale
 
 ## My Reflections

@@ -26,6 +26,7 @@ Dashboard for my piano notes. Start here.
 - [[Minor Scale]]
 - [[Chord]]
 - [[Arpeggio]]
+- [[Remembering Chord Fingering]]
 
 ## Practice Log
 <!-- running log of practice sessions, one line per session -->

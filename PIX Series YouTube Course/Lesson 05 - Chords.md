@@ -65,6 +65,9 @@ All 12 use RH 1-3-5 / LH 5-3-1, no exceptions.
 > [!tip] Practice with a [[Metronome]]
 > Play each chord broken (one note at a time, i.e. as an [[Arpeggio]]) before playing it solid, at a slow steady tempo.
 
+> [!tip] Struggling with the fingering? See [[Remembering Chord Fingering]]
+> Why the hand shape barely changes between chords, and the "move finger 3" trick for major ↔ minor.
+
 - [ ] All 12 major chords, both hands
 - [ ] All 12 minor chords, both hands
 - [ ] Compare a major/minor pair (e.g. C major vs C minor) back to back — hear the one-note difference
@@ -76,4 +79,5 @@ All 12 use RH 1-3-5 / LH 5-3-1, no exceptions.
 - [[PIX Series - Course Overview]]
 - [[Lesson 04 - Minor Scales]]
 - [[Chord]]
+- [[Remembering Chord Fingering]]
 - [[Home]]

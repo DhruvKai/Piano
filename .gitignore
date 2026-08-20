@@ -8,6 +8,9 @@
 # Local-only PDF backups — never pushed to GitHub (see chat: kept off the public repo intentionally)
 /PDF Backups (local only)/
 
+# Editor-local config, not vault content
+.vscode/
+
 # OS cruft
 .DS_Store
 Thumbs.db

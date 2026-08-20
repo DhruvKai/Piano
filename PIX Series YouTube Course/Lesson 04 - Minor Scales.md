@@ -79,35 +79,35 @@ Teaches the [[Minor Scale]] formula (T-ST-T-T-ST-T-T) and applies it to all 12 s
 
 **G Minor**
 
-| <span style="background-color:#2c6fbb;color:#fff;padding:1px 6px;border-radius:3px;">Note</span> | G | A | Bb | C | D | Eb | F | G |
+| <span style="background-color:#2c6fbb;color:#fff;padding:1px 6px;border-radius:3px;">Note</span> | G | A | A# | C | D | D# | F | G |
 |---|---|---|---|---|---|---|---|---|
 | <span style="background-color:#c9622a;color:#fff;padding:1px 6px;border-radius:3px;">Step</span> | – | T | ST | T | T | ST | T | T |
 | <span style="background-color:#3a8f5c;color:#fff;padding:1px 6px;border-radius:3px;">Finger (RH)</span> | 1 | 2 | 3 | 1 | 2 | 3 | 4 | 5 |
 
 **D Minor**
 
-| <span style="background-color:#2c6fbb;color:#fff;padding:1px 6px;border-radius:3px;">Note</span> | D | E | F | G | A | Bb | C | D |
+| <span style="background-color:#2c6fbb;color:#fff;padding:1px 6px;border-radius:3px;">Note</span> | D | E | F | G | A | A# | C | D |
 |---|---|---|---|---|---|---|---|---|
 | <span style="background-color:#c9622a;color:#fff;padding:1px 6px;border-radius:3px;">Step</span> | – | T | ST | T | T | ST | T | T |
 | <span style="background-color:#3a8f5c;color:#fff;padding:1px 6px;border-radius:3px;">Finger (RH)</span> | 1 | 2 | 3 | 1 | 2 | 3 | 4 | 5 |
 
 **C Minor**
 
-| <span style="background-color:#2c6fbb;color:#fff;padding:1px 6px;border-radius:3px;">Note</span> | C | D | Eb | F | G | Ab | Bb | C |
+| <span style="background-color:#2c6fbb;color:#fff;padding:1px 6px;border-radius:3px;">Note</span> | C | D | D# | F | G | G# | A# | C |
 |---|---|---|---|---|---|---|---|---|
 | <span style="background-color:#c9622a;color:#fff;padding:1px 6px;border-radius:3px;">Step</span> | – | T | ST | T | T | ST | T | T |
 | <span style="background-color:#3a8f5c;color:#fff;padding:1px 6px;border-radius:3px;">Finger (RH)</span> | 1 | 2 | 3 | 1 | 2 | 3 | 4 | 5 |
 
 **F Minor**
 
-| <span style="background-color:#2c6fbb;color:#fff;padding:1px 6px;border-radius:3px;">Note</span> | F | G | Ab | Bb | C | Db | Eb | F |
+| <span style="background-color:#2c6fbb;color:#fff;padding:1px 6px;border-radius:3px;">Note</span> | F | G | G# | A# | C | C# | D# | F |
 |---|---|---|---|---|---|---|---|---|
 | <span style="background-color:#c9622a;color:#fff;padding:1px 6px;border-radius:3px;">Step</span> | – | T | ST | T | T | ST | T | T |
 | <span style="background-color:#3a8f5c;color:#fff;padding:1px 6px;border-radius:3px;">Finger (RH)</span> | 1 | 2 | 3 | 4 | 1 | 2 | 3 | 4 |
 
-**Bb Minor**
+**A# Minor** *(keyboard-sharp name — formally B-flat minor)*
 
-| <span style="background-color:#2c6fbb;color:#fff;padding:1px 6px;border-radius:3px;">Note</span> | Bb | C | Db | Eb | F | Gb | Ab | Bb |
+| <span style="background-color:#2c6fbb;color:#fff;padding:1px 6px;border-radius:3px;">Note</span> | A# | C | C# | D# | F | F# | G# | A# |
 |---|---|---|---|---|---|---|---|---|
 | <span style="background-color:#c9622a;color:#fff;padding:1px 6px;border-radius:3px;">Step</span> | – | T | ST | T | T | ST | T | T |
 | <span style="background-color:#3a8f5c;color:#fff;padding:1px 6px;border-radius:3px;">Finger (RH)</span> | 2 | 1 | 2 | 3 | 1 | 2 | 3 | 4 |
@@ -119,7 +119,7 @@ Teaches the [[Minor Scale]] formula (T-ST-T-T-ST-T-T) and applies it to all 12 s
 - [ ] A, E, B Minor — ascending + descending, RH only
 - [ ] F#, C#, G# Minor — ascending + descending, RH only
 - [ ] D#, G, D Minor — ascending + descending, RH only
-- [ ] C, F, Bb Minor — ascending + descending, RH only
+- [ ] C, F, A# Minor — ascending + descending, RH only
 - [ ] Compare A minor side by side with C major — same notes, different root
 
 ## My Reflections
