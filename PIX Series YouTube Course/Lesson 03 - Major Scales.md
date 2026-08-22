@@ -46,11 +46,11 @@ Grouped the way the source material groups them — scales starting on C/G/D/A/E
 
 ![[Assets/PIX Series YouTube Course/Lesson 03/lesson03-c-major.svg]]
 
-| | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
-|---|---|---|---|---|---|---|---|---|
-| <span style="color:#2c6fbb">Note</span> | C | D | E | F | G | A | B | C |
-| <span style="color:#c9622a">Step</span> | – | T | T | ST | T | T | T | ST |
-| <span style="color:#3a8f5c">Finger (RH)</span> | 1 | 2 | 3 | 1 | 2 | 3 | 4 | 5 |
+|                                                | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   |
+| ---------------------------------------------- | --- | --- | --- | --- | --- | --- | --- | --- |
+| <span style="color:#2c6fbb">Note</span>        | C   | D   | E   | F   | G   | A   | B   | C   |
+| <span style="color:#c9622a">Step</span>        | –   | T   | T   | ST  | T   | T   | T   | ST  |
+| <span style="color:#3a8f5c">Finger (RH)</span> | 1   | 2   | 3   | 1   | 2   | 3   | 4   | 5   |
 
 **G Major**
 
@@ -66,11 +66,11 @@ Grouped the way the source material groups them — scales starting on C/G/D/A/E
 
 ![[Assets/PIX Series YouTube Course/Lesson 03/lesson03-d-major.svg]]
 
-| | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
-|---|---|---|---|---|---|---|---|---|
-| <span style="color:#2c6fbb">Note</span> | D | E | F# | G | A | B | C# | D |
-| <span style="color:#c9622a">Step</span> | – | T | T | ST | T | T | T | ST |
-| <span style="color:#3a8f5c">Finger (RH)</span> | 1 | 2 | 3 | 1 | 2 | 3 | 4 | 5 |
+|                                                | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   |
+| ---------------------------------------------- | --- | --- | --- | --- | --- | --- | --- | --- |
+| <span style="color:#2c6fbb">Note</span>        | D   | E   | F#  | G   | A   | B   | C#  | D   |
+| <span style="color:#c9622a">Step</span>        | –   | T   | T   | ST  | T   | T   | T   | ST  |
+| <span style="color:#3a8f5c">Finger (RH)</span> | 1   | 2   | 3   | 1   | 2   | 3   | 4   | 5   |
 
 **A Major**
 
