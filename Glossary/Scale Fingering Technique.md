@@ -3,7 +3,6 @@ title: Scale Fingering Technique
 type: concept
 tags: [glossary, technique, practice, fingering]
 ---
-
 # Scale Fingering Technique
 
 The single most useful thing to know before practicing this: **descending is not a second thing to learn.** The same fingers land on the same keys going down as going up — you're just walking the identical map backwards. If reversing a scale feels like memorizing a whole new sequence, that's the misconception to drop first; everything below is built around that one idea.
