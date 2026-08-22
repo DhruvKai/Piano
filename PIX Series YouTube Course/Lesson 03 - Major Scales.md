@@ -15,6 +15,14 @@ tags: [piano, major-scale, scale-formula, fingering, beginner]
 > 🎥 [Lesson #3: Learn MAJOR Scales With Formulas | Play All Scales Easily With Right Fingers](https://www.youtube.com/watch?v=owk3F0EbAY8&list=PL-C4jgLVkaodZP587mztVMk0hd7vGwGVS&index=4) — **PIX Series**
 > 📄 Companion PDF: [Major Scales](https://pixseries.com/wp-content/uploads/2022/03/Lesson-3-Major-Scales.pdf) via [pixseries.com/lesson-3](https://pixseries.com/lesson-3/)
 
+> [!info] At a glance — the [[Major Scale]] formula
+> | <span style="background-color:#666;color:#fff;padding:1px 6px;border-radius:3px;">Degree</span> | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+> |---|---|---|---|---|---|---|---|---|
+> | <span style="background-color:#2c6fbb;color:#fff;padding:1px 6px;border-radius:3px;">Major step</span> | – | T | **T** | **ST** | T | **T** | T | **ST** |
+> | <span style="background-color:#c9622a;color:#fff;padding:1px 6px;border-radius:3px;">Minor step</span> | – | T | **ST** | **T** | T | **ST** | T | **T** |
+>
+> Bold = where major and [[Minor Scale|minor]] diverge. Same formula, every root, every scale below.
+
 ## Overview
 Teaches the [[Major Scale]] formula (T-T-ST-T-T-T-ST) and applies it to all 12 possible starting notes, with right-hand fingering for each. This is the first lesson to use **standard classical fingering** (thumb = 1) rather than Lesson 01's Th/1/2/3/4 labeling — see the fingering note below.
 

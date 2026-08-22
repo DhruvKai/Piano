@@ -5,6 +5,14 @@ tags: [glossary, theory, scale-formula]
 ---
 # Major Scale
 
+> [!info] At a glance — Major vs [[Minor Scale]]
+> | <span style="background-color:#666;color:#fff;padding:1px 6px;border-radius:3px;">Degree</span> | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+> |---|---|---|---|---|---|---|---|---|
+> | <span style="background-color:#2c6fbb;color:#fff;padding:1px 6px;border-radius:3px;">Major step</span> | – | T | **T** | **ST** | T | **T** | T | **ST** |
+> | <span style="background-color:#c9622a;color:#fff;padding:1px 6px;border-radius:3px;">Minor step</span> | – | T | **ST** | **T** | T | **ST** | T | **T** |
+>
+> Bold = where they differ. Everywhere else, major and minor step identically.
+
 A **major scale** is 8 notes, picked from the 12 keys in an [[Octave]], using one fixed pattern of whole steps and half steps (see [[Sharps & Flats]] for what those mean). That pattern is:
 
 **T T ST T T T ST**

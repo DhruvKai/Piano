@@ -6,6 +6,14 @@ tags: [glossary, theory, scale-formula]
 
 # Minor Scale
 
+> [!info] At a glance — Minor vs [[Major Scale]]
+> | <span style="background-color:#666;color:#fff;padding:1px 6px;border-radius:3px;">Degree</span> | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+> |---|---|---|---|---|---|---|---|---|
+> | <span style="background-color:#c9622a;color:#fff;padding:1px 6px;border-radius:3px;">Minor step</span> | – | T | **ST** | **T** | T | **ST** | T | **T** |
+> | <span style="background-color:#2c6fbb;color:#fff;padding:1px 6px;border-radius:3px;">Major step</span> | – | T | **T** | **ST** | T | **T** | T | **ST** |
+>
+> Bold = where they differ. Everywhere else, major and minor step identically.
+
 A **minor scale** (natural minor) is the other half of the [[Major Scale]] picture — same idea (8 notes, a fixed pattern of [[Sharps & Flats|whole/half steps]]), but a different pattern, giving it a darker/sadder sound instead of major's bright one:
 
 **T ST T T ST T T**
