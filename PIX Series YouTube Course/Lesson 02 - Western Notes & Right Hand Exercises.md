@@ -24,7 +24,7 @@ Introduces the [[Western Note Names]] (C D E F G A B) and moves into right-hand-
 - These exercises stay within a 7-note span (C to B/C) using the right hand only.
 
 ## Right Hand Exercises
-![[keyboard-one-octave.svg]]
+![[Assets/Glossary/keyboard-one-octave.svg]]
 
 Straight from the companion PDF. Each line is one pass — play left-to-right, and repeat until comfortable before moving to the next exercise.
 

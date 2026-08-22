@@ -31,7 +31,7 @@ First lesson of the series — covers [[Octave|Octaves]] and keyboard layout, th
 
 ## The Base Scale & Fingering
 
-![[lesson01-fingering.svg]]
+![[Assets/PIX Series YouTube Course/Lesson 01/lesson01-fingering.svg]]
 
 | <span style="background-color:#2c6fbb;color:#fff;padding:1px 6px;border-radius:3px;">Note</span> | Sa | Re | Ga | Ma | Pa | Dha | Ni | Sa |
 |------|----|----|----|----|----|----|----|----|

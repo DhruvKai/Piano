@@ -10,7 +10,7 @@ The **root note** (also called the **tonic**) is the "home" note a scale or chor
 
 Every other note in the scale is really just described *relative to* the root: "a whole step above the root," "a half step below the octave," and so on — see [[Major Scale]] for that formula. Change the root, and the whole scale shifts with it, but the shape relative to the root stays identical.
 
-![[root-note.svg]]
+![[Assets/Glossary/root-note.svg]]
 
 C major's root is C. G major's root is G. F# major's root is F# — a black key works as a root just as well as a white one. Whatever note you start counting from *is* the root.
 

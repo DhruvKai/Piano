@@ -35,7 +35,7 @@ Teaches the [[Minor Scale]] formula (T-ST-T-T-ST-T-T) and applies it to all 12 s
 
 **A Minor**
 
-![[lesson04-a-minor.svg]]
+![[Assets/PIX Series YouTube Course/Lesson 04/lesson04-a-minor.svg]]
 
 | <span style="background-color:#2c6fbb;color:#fff;padding:1px 6px;border-radius:3px;">Note</span> | A | B | C | D | E | F | G | A |
 |---|---|---|---|---|---|---|---|---|
@@ -44,7 +44,7 @@ Teaches the [[Minor Scale]] formula (T-ST-T-T-ST-T-T) and applies it to all 12 s
 
 **E Minor**
 
-![[lesson04-e-minor.svg]]
+![[Assets/PIX Series YouTube Course/Lesson 04/lesson04-e-minor.svg]]
 
 | <span style="background-color:#2c6fbb;color:#fff;padding:1px 6px;border-radius:3px;">Note</span> | E | F# | G | A | B | C | D | E |
 |---|---|---|---|---|---|---|---|---|
@@ -53,7 +53,7 @@ Teaches the [[Minor Scale]] formula (T-ST-T-T-ST-T-T) and applies it to all 12 s
 
 **B Minor**
 
-![[lesson04-b-minor.svg]]
+![[Assets/PIX Series YouTube Course/Lesson 04/lesson04-b-minor.svg]]
 
 | <span style="background-color:#2c6fbb;color:#fff;padding:1px 6px;border-radius:3px;">Note</span> | B | C# | D | E | F# | G | A | B |
 |---|---|---|---|---|---|---|---|---|
@@ -62,7 +62,7 @@ Teaches the [[Minor Scale]] formula (T-ST-T-T-ST-T-T) and applies it to all 12 s
 
 **F# Minor**
 
-![[lesson04-f-sharp-minor.svg]]
+![[Assets/PIX Series YouTube Course/Lesson 04/lesson04-f-sharp-minor.svg]]
 
 | <span style="background-color:#2c6fbb;color:#fff;padding:1px 6px;border-radius:3px;">Note</span> | F# | G# | A | B | C# | D | E | F# |
 |---|---|---|---|---|---|---|---|---|
@@ -71,7 +71,7 @@ Teaches the [[Minor Scale]] formula (T-ST-T-T-ST-T-T) and applies it to all 12 s
 
 **C# Minor**
 
-![[lesson04-c-sharp-minor.svg]]
+![[Assets/PIX Series YouTube Course/Lesson 04/lesson04-c-sharp-minor.svg]]
 
 | <span style="background-color:#2c6fbb;color:#fff;padding:1px 6px;border-radius:3px;">Note</span> | C# | D# | E | F# | G# | A | B | C# |
 |---|---|---|---|---|---|---|---|---|
@@ -80,7 +80,7 @@ Teaches the [[Minor Scale]] formula (T-ST-T-T-ST-T-T) and applies it to all 12 s
 
 **G# Minor**
 
-![[lesson04-g-sharp-minor.svg]]
+![[Assets/PIX Series YouTube Course/Lesson 04/lesson04-g-sharp-minor.svg]]
 
 | <span style="background-color:#2c6fbb;color:#fff;padding:1px 6px;border-radius:3px;">Note</span> | G# | A# | B | C# | D# | E | F# | G# |
 |---|---|---|---|---|---|---|---|---|
@@ -89,7 +89,7 @@ Teaches the [[Minor Scale]] formula (T-ST-T-T-ST-T-T) and applies it to all 12 s
 
 **D# Minor**
 
-![[lesson04-d-sharp-minor.svg]]
+![[Assets/PIX Series YouTube Course/Lesson 04/lesson04-d-sharp-minor.svg]]
 
 | <span style="background-color:#2c6fbb;color:#fff;padding:1px 6px;border-radius:3px;">Note</span> | D# | F* | F# | G# | A# | B | C# | D# |
 |---|---|---|---|---|---|---|---|---|
@@ -100,7 +100,7 @@ Teaches the [[Minor Scale]] formula (T-ST-T-T-ST-T-T) and applies it to all 12 s
 
 **G Minor**
 
-![[lesson04-g-minor.svg]]
+![[Assets/PIX Series YouTube Course/Lesson 04/lesson04-g-minor.svg]]
 
 | <span style="background-color:#2c6fbb;color:#fff;padding:1px 6px;border-radius:3px;">Note</span> | G | A | A# | C | D | D# | F | G |
 |---|---|---|---|---|---|---|---|---|
@@ -109,7 +109,7 @@ Teaches the [[Minor Scale]] formula (T-ST-T-T-ST-T-T) and applies it to all 12 s
 
 **D Minor**
 
-![[lesson04-d-minor.svg]]
+![[Assets/PIX Series YouTube Course/Lesson 04/lesson04-d-minor.svg]]
 
 | <span style="background-color:#2c6fbb;color:#fff;padding:1px 6px;border-radius:3px;">Note</span> | D | E | F | G | A | A# | C | D |
 |---|---|---|---|---|---|---|---|---|
@@ -118,7 +118,7 @@ Teaches the [[Minor Scale]] formula (T-ST-T-T-ST-T-T) and applies it to all 12 s
 
 **C Minor**
 
-![[lesson04-c-minor.svg]]
+![[Assets/PIX Series YouTube Course/Lesson 04/lesson04-c-minor.svg]]
 
 | <span style="background-color:#2c6fbb;color:#fff;padding:1px 6px;border-radius:3px;">Note</span> | C | D | D# | F | G | G# | A# | C |
 |---|---|---|---|---|---|---|---|---|
@@ -127,7 +127,7 @@ Teaches the [[Minor Scale]] formula (T-ST-T-T-ST-T-T) and applies it to all 12 s
 
 **F Minor**
 
-![[lesson04-f-minor.svg]]
+![[Assets/PIX Series YouTube Course/Lesson 04/lesson04-f-minor.svg]]
 
 | <span style="background-color:#2c6fbb;color:#fff;padding:1px 6px;border-radius:3px;">Note</span> | F | G | G# | A# | C | C# | D# | F |
 |---|---|---|---|---|---|---|---|---|
@@ -136,7 +136,7 @@ Teaches the [[Minor Scale]] formula (T-ST-T-T-ST-T-T) and applies it to all 12 s
 
 **A# Minor** *(keyboard-sharp name — formally B-flat minor)*
 
-![[lesson04-a-sharp-minor.svg]]
+![[Assets/PIX Series YouTube Course/Lesson 04/lesson04-a-sharp-minor.svg]]
 
 | <span style="background-color:#2c6fbb;color:#fff;padding:1px 6px;border-radius:3px;">Note</span> | A# | C | C# | D# | F | F# | G# | A# |
 |---|---|---|---|---|---|---|---|---|

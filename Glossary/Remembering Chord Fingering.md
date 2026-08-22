@@ -21,7 +21,7 @@ A triad = root + 3rd + 5th. Counting in [[Sharps & Flats|half steps]] from the r
 
 Both add up to 7 half steps root-to-5th either way — **only the middle finger's target changes.**
 
-![[chord-shape-major-vs-minor.svg]]
+![[Assets/Glossary/chord-shape-major-vs-minor.svg]]
 
 This is the single most useful shortcut for chord fingering: **major → minor is "move finger 3 down one key."** Root (finger 1) and 5th (finger 5) never move.
 

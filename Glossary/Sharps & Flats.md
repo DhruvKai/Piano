@@ -5,7 +5,7 @@ tags: [glossary, theory, keyboard-layout]
 ---
 # Sharps & Flats (Accidentals)
 
-![[keyboard-one-octave.svg]]
+![[Assets/Glossary/keyboard-one-octave.svg]]
 
 Recap: the white keys are the 7 [[Western Note Names|C D E F G A B]] notes, sitting inside an [[Octave]] of 12 keys total. The other **5 keys are black**, and they're named using **sharps (#)** and **flats (b)**.
 
@@ -17,7 +17,7 @@ Recap: the white keys are the 7 [[Western Note Names|C D E F G A B]] notes, sitt
 So `C#` means "one half step above C", and `Db` means "one half step below D". On a piano these land on **the exact same physical key** — just two different names for it. That's called an **enharmonic equivalent**.
 
 ### Semitone and Tone, highlighted
-![[semitone-vs-tone.svg|350]]
+![[Assets/Glossary/semitone-vs-tone.svg|350]]
 
 **Semitone** (half step) — the smallest possible distance on the keyboard: one key straight to the very next key, black or white, with nothing in between. `C → C#` is a semitone.
 

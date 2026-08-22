@@ -14,13 +14,13 @@ The single most useful thing to know before practicing this: **descending is not
 
 Below is [[Lesson 03 - Major Scales|C major]]'s right-hand fingering plotted directly on the keys instead of in a table. Read it left→right for ascending, right→left for descending — it's the same eight badges either way:
 
-![[fingering-c-major.svg]]
+![[Assets/Glossary/fingering-c-major.svg]]
 
 Notice the **two amber badges** — finger 1 (thumb) lands on C *and* F. Every amber badge marks a spot where the thumb crosses. That's the whole pattern: three fingers walk up (or down) together, then the thumb tucks in and the group resets. Everything else — evenness, speed, memorization — is built on getting that one tuck smooth.
 
 Not every scale starts on the thumb, though. [[Lesson 03 - Major Scales|F# major]] uses the exact same *shape*, just phase-shifted — finger 2 opens the scale, and the tuck happens one note later (between finger 4 and finger 1):
 
-![[fingering-f-sharp-major.svg]]
+![[Assets/Glossary/fingering-f-sharp-major.svg]]
 
 Compare this to C major's table in [[Lesson 03 - Major Scales]] and F# major's table in the same note — the amber badges here are exactly the fingering numbers `1` in those tables. Once you can spot where the `1`s fall in a scale's fingering row, you already know where every thumb-crossing is, in both directions, without a separate "descending" row to memorize.
 
@@ -30,11 +30,11 @@ A hand only comfortably spans about 5 keys without shifting. A scale is 8 notes.
 
 **Ascending — thumb tucks under:**
 
-![[thumb-crossing-ascending.svg]]
+![[Assets/Glossary/thumb-crossing-ascending.svg]]
 
 **Descending — a finger crosses over:**
 
-![[thumb-crossing-descending.svg]]
+![[Assets/Glossary/thumb-crossing-descending.svg]]
 
 These are mirror-image moves, not two different techniques:
 - **Ascending:** while fingers 2 and 3 play their notes, finger 1 quietly glides underneath the palm and is already in place by the time it's needed — it should not be a last-moment lunge.

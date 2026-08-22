@@ -44,7 +44,7 @@ Grouped the way the source material groups them — scales starting on C/G/D/A/E
 
 **C Major**
 
-![[lesson03-c-major.svg]]
+![[Assets/PIX Series YouTube Course/Lesson 03/lesson03-c-major.svg]]
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
 |---|---|---|---|---|---|---|---|---|
@@ -54,7 +54,7 @@ Grouped the way the source material groups them — scales starting on C/G/D/A/E
 
 **G Major**
 
-![[lesson03-g-major.svg]]
+![[Assets/PIX Series YouTube Course/Lesson 03/lesson03-g-major.svg]]
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
 |---|---|---|---|---|---|---|---|---|
@@ -64,7 +64,7 @@ Grouped the way the source material groups them — scales starting on C/G/D/A/E
 
 **D Major**
 
-![[lesson03-d-major.svg]]
+![[Assets/PIX Series YouTube Course/Lesson 03/lesson03-d-major.svg]]
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
 |---|---|---|---|---|---|---|---|---|
@@ -74,7 +74,7 @@ Grouped the way the source material groups them — scales starting on C/G/D/A/E
 
 **A Major**
 
-![[lesson03-a-major.svg]]
+![[Assets/PIX Series YouTube Course/Lesson 03/lesson03-a-major.svg]]
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
 |---|---|---|---|---|---|---|---|---|
@@ -84,7 +84,7 @@ Grouped the way the source material groups them — scales starting on C/G/D/A/E
 
 **E Major**
 
-![[lesson03-e-major.svg]]
+![[Assets/PIX Series YouTube Course/Lesson 03/lesson03-e-major.svg]]
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
 |---|---|---|---|---|---|---|---|---|
@@ -94,7 +94,7 @@ Grouped the way the source material groups them — scales starting on C/G/D/A/E
 
 **B Major**
 
-![[lesson03-b-major.svg]]
+![[Assets/PIX Series YouTube Course/Lesson 03/lesson03-b-major.svg]]
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
 |---|---|---|---|---|---|---|---|---|
@@ -108,7 +108,7 @@ All six share the exact same step row and the exact same fingering — only the 
 
 **F# Major**
 
-![[lesson03-f-sharp-major.svg]]
+![[Assets/PIX Series YouTube Course/Lesson 03/lesson03-f-sharp-major.svg]]
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
 |---|---|---|---|---|---|---|---|---|
@@ -120,7 +120,7 @@ All six share the exact same step row and the exact same fingering — only the 
 
 **F Major**
 
-![[lesson03-f-major.svg]]
+![[Assets/PIX Series YouTube Course/Lesson 03/lesson03-f-major.svg]]
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
 |---|---|---|---|---|---|---|---|---|
@@ -130,7 +130,7 @@ All six share the exact same step row and the exact same fingering — only the 
 
 **A# Major** *(keyboard-sharp name — formally B-flat major)*
 
-![[lesson03-a-sharp-major.svg]]
+![[Assets/PIX Series YouTube Course/Lesson 03/lesson03-a-sharp-major.svg]]
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
 |---|---|---|---|---|---|---|---|---|
@@ -140,7 +140,7 @@ All six share the exact same step row and the exact same fingering — only the 
 
 **D# Major** *(keyboard-sharp name — formally E-flat major)*
 
-![[lesson03-d-sharp-major.svg]]
+![[Assets/PIX Series YouTube Course/Lesson 03/lesson03-d-sharp-major.svg]]
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
 |---|---|---|---|---|---|---|---|---|
@@ -150,7 +150,7 @@ All six share the exact same step row and the exact same fingering — only the 
 
 **G# Major** *(keyboard-sharp name — formally A-flat major)*
 
-![[lesson03-g-sharp-major.svg]]
+![[Assets/PIX Series YouTube Course/Lesson 03/lesson03-g-sharp-major.svg]]
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
 |---|---|---|---|---|---|---|---|---|
@@ -160,7 +160,7 @@ All six share the exact same step row and the exact same fingering — only the 
 
 **C# Major** *(keyboard-sharp name — formally D-flat major)*
 
-![[lesson03-c-sharp-major.svg]]
+![[Assets/PIX Series YouTube Course/Lesson 03/lesson03-c-sharp-major.svg]]
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
 |---|---|---|---|---|---|---|---|---|

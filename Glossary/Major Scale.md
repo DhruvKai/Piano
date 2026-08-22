@@ -29,7 +29,7 @@ This single formula is what makes a scale sound "major" (bright, resolved — th
 ## Worked example: C Major
 C major is the clearest way to see the formula, since it lands only on white keys — no sharps or flats needed at all:
 
-![[major-scale-degrees.svg]]
+![[Assets/Glossary/major-scale-degrees.svg]]
 
 ```mermaid
 graph LR
@@ -49,7 +49,7 @@ Degree 1 (**tonic**) is the [[Root Note]] — the "home" note the scale is named
 ## Why some scales need sharps or flats
 The T-T-ST-T-T-T-ST pattern is fixed — so starting from a different note forces different keys into the scale to keep that exact shape. Take **G major**:
 
-![[keyboard-g-major.svg]]
+![[Assets/Glossary/keyboard-g-major.svg]]
 
 Degrees 1–6 (G A B C D E) are all plain white keys. But degree 7 needs to be a **half step** below the octave (G) — and the white key F is a *whole* step below G, not a half step. The only key a half step below G is the black key **F#**. So G major *must* use F#, not F, or the formula breaks. This is exactly why almost every major scale except C ends up with one or more sharps/flats — they're not arbitrary, they're forced by the formula.
 
