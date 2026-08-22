@@ -33,3 +33,4 @@ A minor uses **A B C D E F G** — the exact same 7 notes as C major, just start
 - [[Lesson 04 - Minor Scales]]
 - [[Major Scale]]
 - [[Sharps & Flats]]
+- [[Scale Fingering Technique]]

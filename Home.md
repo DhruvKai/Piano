@@ -27,6 +27,7 @@ Dashboard for my piano notes. Start here.
 - [[Chord]]
 - [[Arpeggio]]
 - [[Remembering Chord Fingering]]
+- [[Scale Fingering Technique]]
 
 ## Practice Log
 <!-- running log of practice sessions, one line per session -->
@@ -34,3 +35,4 @@ Dashboard for my piano notes. Start here.
 - 2026-08-17 — added [[Lesson 02 - Western Notes & Right Hand Exercises|PIX Series Lesson 02]]
 - 2026-08-19 — added [[Lesson 03 - Major Scales|PIX Series Lesson 03]] (all 12 major scales + fingering)
 - 2026-08-19 — boilerplate pass: added Lessons 04–08 (Minor Scales, Chords, Both Hands, Basic/Advanced Arpeggios) — needs review
+- 2026-08-22 — added [[Scale Fingering Technique]] (ascending/descending fingering reference + thumb-crossing practice guide) — struggling with reverse fingering, revisit after a few practice sessions

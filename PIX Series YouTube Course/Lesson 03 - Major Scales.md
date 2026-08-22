@@ -177,6 +177,9 @@ Why the fingering changes between the two groups: on a piano, the thumb generall
 > [!tip] Struggling to keep all 12 straight? See [[Remembering Major Scales]]
 > Circle of fifths, fingering shortcuts, and mnemonics for the sharp/flat order.
 
+> [!tip] Struggling with fingering going down? See [[Scale Fingering Technique]]
+> Diagrams of the thumb-crossing motion in both directions, plus a descending-fingering column for all 12 scales so there's nothing to reverse in your head mid-scale.
+
 - [ ] Group 1 scales (C, G, D, A, E, B) — ascending + descending, RH only
 - [ ] F# Major — ascending + descending, RH only
 - [ ] F, A#, D#, G#, C# Major — ascending + descending, RH only

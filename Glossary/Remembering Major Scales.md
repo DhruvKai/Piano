@@ -55,3 +55,4 @@ Chant **"Tone – Tone – Semi – Tone – Tone – Tone – Semi"** out loud 
 ## Used in
 - [[Major Scale]]
 - [[Lesson 03 - Major Scales]]
+- [[Scale Fingering Technique]]

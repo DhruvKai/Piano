@@ -147,6 +147,9 @@ Teaches the [[Minor Scale]] formula (T-ST-T-T-ST-T-T) and applies it to all 12 s
 > [!tip] Practice with a [[Metronome]]
 > Same approach as [[Lesson 03 - Major Scales]] — slow and steady, ascending and descending, before speeding up.
 
+> [!tip] Struggling with fingering going down? See [[Scale Fingering Technique]]
+> Diagrams of the thumb-crossing motion in both directions, plus a descending-fingering column for all 12 minor scales so there's nothing to reverse in your head mid-scale.
+
 - [ ] A, E, B Minor — ascending + descending, RH only
 - [ ] F#, C#, G# Minor — ascending + descending, RH only
 - [ ] D#, G, D Minor — ascending + descending, RH only

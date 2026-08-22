@@ -45,7 +45,11 @@ Example — C Major scale fingering (right hand):
 
 Here the "thumb-under" happens between finger `3` and finger `1` (thumb crosses under after E, lands on F) — same underlying technique as System 1's `Th`, just numbered differently.
 
+> [!tip] Where this crossing shows up in practice
+> See [[Scale Fingering Technique]] for diagrams of the crossing motion (both ascending and descending), and a full ascending/descending fingering reference for all 12 major and minor scales.
+
 ## Used in
 - [[Alankar]]
 - [[Major Scale]]
 - [[PIX Series - Course Overview]]
+- [[Scale Fingering Technique]]
