@@ -23,6 +23,9 @@ tags: [piano, minor-scale, scale-formula, fingering, beginner]
 >
 > Bold = where minor and [[Major Scale|major]] diverge. Same formula, every root, every scale below.
 
+## Index
+[[#A Minor]] · [[#E Minor]] · [[#B Minor]] · [[#F# Minor]] · [[#C# Minor]] · [[#G# Minor]] · [[#D# Minor]] · [[#G Minor]] · [[#D Minor]] · [[#C Minor]] · [[#F Minor]] · [[#A# Minor]]
+
 ## Overview
 Teaches the [[Minor Scale]] formula (T-ST-T-T-ST-T-T) and applies it to all 12 starting notes, right-hand fingering included — mirrors [[Lesson 03 - Major Scales]] in structure.
 
@@ -33,7 +36,7 @@ Teaches the [[Minor Scale]] formula (T-ST-T-T-ST-T-T) and applies it to all 12 s
 
 ## All 12 Minor Scales
 
-**A Minor**
+#### A Minor
 
 ![[Assets/PIX Series YouTube Course/Lesson 04/lesson04-a-minor.svg]]
 
@@ -42,7 +45,7 @@ Teaches the [[Minor Scale]] formula (T-ST-T-T-ST-T-T) and applies it to all 12 s
 | <span style="background-color:#c9622a;color:#fff;padding:1px 6px;border-radius:3px;">Step</span> | – | T | ST | T | T | ST | T | T |
 | <span style="background-color:#3a8f5c;color:#fff;padding:1px 6px;border-radius:3px;">Finger (RH)</span> | 1 | 2 | 3 | 1 | 2 | 3 | 4 | 5 |
 
-**E Minor**
+#### E Minor
 
 ![[Assets/PIX Series YouTube Course/Lesson 04/lesson04-e-minor.svg]]
 
@@ -51,7 +54,7 @@ Teaches the [[Minor Scale]] formula (T-ST-T-T-ST-T-T) and applies it to all 12 s
 | <span style="background-color:#c9622a;color:#fff;padding:1px 6px;border-radius:3px;">Step</span> | – | T | ST | T | T | ST | T | T |
 | <span style="background-color:#3a8f5c;color:#fff;padding:1px 6px;border-radius:3px;">Finger (RH)</span> | 1 | 2 | 3 | 1 | 2 | 3 | 4 | 5 |
 
-**B Minor**
+#### B Minor
 
 ![[Assets/PIX Series YouTube Course/Lesson 04/lesson04-b-minor.svg]]
 
@@ -60,7 +63,7 @@ Teaches the [[Minor Scale]] formula (T-ST-T-T-ST-T-T) and applies it to all 12 s
 | <span style="background-color:#c9622a;color:#fff;padding:1px 6px;border-radius:3px;">Step</span> | – | T | ST | T | T | ST | T | T |
 | <span style="background-color:#3a8f5c;color:#fff;padding:1px 6px;border-radius:3px;">Finger (RH)</span> | 1 | 2 | 3 | 1 | 2 | 3 | 4 | 5 |
 
-**F# Minor**
+#### F# Minor
 
 ![[Assets/PIX Series YouTube Course/Lesson 04/lesson04-f-sharp-minor.svg]]
 
@@ -69,7 +72,7 @@ Teaches the [[Minor Scale]] formula (T-ST-T-T-ST-T-T) and applies it to all 12 s
 | <span style="background-color:#c9622a;color:#fff;padding:1px 6px;border-radius:3px;">Step</span> | – | T | ST | T | T | ST | T | T |
 | <span style="background-color:#3a8f5c;color:#fff;padding:1px 6px;border-radius:3px;">Finger (RH)</span> | 2 | 3 | 1 | 2 | 3 | 1 | 2 | 3 |
 
-**C# Minor**
+#### C# Minor
 
 ![[Assets/PIX Series YouTube Course/Lesson 04/lesson04-c-sharp-minor.svg]]
 
@@ -78,7 +81,7 @@ Teaches the [[Minor Scale]] formula (T-ST-T-T-ST-T-T) and applies it to all 12 s
 | <span style="background-color:#c9622a;color:#fff;padding:1px 6px;border-radius:3px;">Step</span> | – | T | ST | T | T | ST | T | T |
 | <span style="background-color:#3a8f5c;color:#fff;padding:1px 6px;border-radius:3px;">Finger (RH)</span> | 2 | 3 | 1 | 2 | 3 | 1 | 2 | 3 |
 
-**G# Minor**
+#### G# Minor
 
 ![[Assets/PIX Series YouTube Course/Lesson 04/lesson04-g-sharp-minor.svg]]
 
@@ -87,7 +90,7 @@ Teaches the [[Minor Scale]] formula (T-ST-T-T-ST-T-T) and applies it to all 12 s
 | <span style="background-color:#c9622a;color:#fff;padding:1px 6px;border-radius:3px;">Step</span> | – | T | ST | T | T | ST | T | T |
 | <span style="background-color:#3a8f5c;color:#fff;padding:1px 6px;border-radius:3px;">Finger (RH)</span> | 2 | 3 | 1 | 2 | 3 | 1 | 2 | 3 |
 
-**D# Minor**
+#### D# Minor
 
 ![[Assets/PIX Series YouTube Course/Lesson 04/lesson04-d-sharp-minor.svg]]
 
@@ -98,7 +101,7 @@ Teaches the [[Minor Scale]] formula (T-ST-T-T-ST-T-T) and applies it to all 12 s
 
 *\*Written as "F" in the source material — enharmonically the same key as E#.*
 
-**G Minor**
+#### G Minor
 
 ![[Assets/PIX Series YouTube Course/Lesson 04/lesson04-g-minor.svg]]
 
@@ -107,7 +110,7 @@ Teaches the [[Minor Scale]] formula (T-ST-T-T-ST-T-T) and applies it to all 12 s
 | <span style="background-color:#c9622a;color:#fff;padding:1px 6px;border-radius:3px;">Step</span> | – | T | ST | T | T | ST | T | T |
 | <span style="background-color:#3a8f5c;color:#fff;padding:1px 6px;border-radius:3px;">Finger (RH)</span> | 1 | 2 | 3 | 1 | 2 | 3 | 4 | 5 |
 
-**D Minor**
+#### D Minor
 
 ![[Assets/PIX Series YouTube Course/Lesson 04/lesson04-d-minor.svg]]
 
@@ -116,7 +119,7 @@ Teaches the [[Minor Scale]] formula (T-ST-T-T-ST-T-T) and applies it to all 12 s
 | <span style="background-color:#c9622a;color:#fff;padding:1px 6px;border-radius:3px;">Step</span> | – | T | ST | T | T | ST | T | T |
 | <span style="background-color:#3a8f5c;color:#fff;padding:1px 6px;border-radius:3px;">Finger (RH)</span> | 1 | 2 | 3 | 1 | 2 | 3 | 4 | 5 |
 
-**C Minor**
+#### C Minor
 
 ![[Assets/PIX Series YouTube Course/Lesson 04/lesson04-c-minor.svg]]
 
@@ -125,7 +128,7 @@ Teaches the [[Minor Scale]] formula (T-ST-T-T-ST-T-T) and applies it to all 12 s
 | <span style="background-color:#c9622a;color:#fff;padding:1px 6px;border-radius:3px;">Step</span> | – | T | ST | T | T | ST | T | T |
 | <span style="background-color:#3a8f5c;color:#fff;padding:1px 6px;border-radius:3px;">Finger (RH)</span> | 1 | 2 | 3 | 1 | 2 | 3 | 4 | 5 |
 
-**F Minor**
+#### F Minor
 
 ![[Assets/PIX Series YouTube Course/Lesson 04/lesson04-f-minor.svg]]
 
@@ -134,7 +137,8 @@ Teaches the [[Minor Scale]] formula (T-ST-T-T-ST-T-T) and applies it to all 12 s
 | <span style="background-color:#c9622a;color:#fff;padding:1px 6px;border-radius:3px;">Step</span> | – | T | ST | T | T | ST | T | T |
 | <span style="background-color:#3a8f5c;color:#fff;padding:1px 6px;border-radius:3px;">Finger (RH)</span> | 1 | 2 | 3 | 4 | 1 | 2 | 3 | 4 |
 
-**A# Minor** *(keyboard-sharp name — formally B-flat minor)*
+#### A# Minor
+*(keyboard-sharp name — formally B-flat minor)*
 
 ![[Assets/PIX Series YouTube Course/Lesson 04/lesson04-a-sharp-minor.svg]]
 

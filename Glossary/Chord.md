@@ -3,7 +3,6 @@ title: Chord
 type: concept
 tags: [glossary, theory]
 ---
-
 # Chord (Triad)
 
 A **chord** — specifically a **triad**, the simplest kind — is 3 notes played together: the [[Root Note]], its 3rd, and its 5th (counting up the [[Major Scale]] degrees from the root).

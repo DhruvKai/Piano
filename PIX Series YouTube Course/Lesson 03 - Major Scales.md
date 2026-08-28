@@ -23,6 +23,10 @@ tags: [piano, major-scale, scale-formula, fingering, beginner]
 >
 > Bold = where major and [[Minor Scale|minor]] diverge. Same formula, every root, every scale below.
 
+## Index
+**Group 1** (same fingering): [[#C Major]] · [[#G Major]] · [[#D Major]] · [[#A Major]] · [[#E Major]] · [[#B Major]]
+**Group 2** (own fingering): [[#F# Major]] · [[#F Major]] · [[#A# Major]] · [[#D# Major]] · [[#G# Major]] · [[#C# Major]]
+
 ## Overview
 Teaches the [[Major Scale]] formula (T-T-ST-T-T-T-ST) and applies it to all 12 possible starting notes, with right-hand fingering for each. This is the first lesson to use **standard classical fingering** (thumb = 1) rather than Lesson 01's Th/1/2/3/4 labeling — see the fingering note below.
 
@@ -42,7 +46,7 @@ Grouped the way the source material groups them — scales starting on C/G/D/A/E
 
 ### Group 1 — same fingering (RH: 1 2 3 1 2 3 4 5)
 
-**C Major**
+#### C Major
 
 ![[Assets/PIX Series YouTube Course/Lesson 03/lesson03-c-major.svg]]
 
@@ -52,7 +56,7 @@ Grouped the way the source material groups them — scales starting on C/G/D/A/E
 | <span style="color:#c9622a">Step</span>        | –   | T   | T   | ST  | T   | T   | T   | ST  |
 | <span style="color:#3a8f5c">Finger (RH)</span> | 1   | 2   | 3   | 1   | 2   | 3   | 4   | 5   |
 
-**G Major**
+#### G Major
 
 ![[Assets/PIX Series YouTube Course/Lesson 03/lesson03-g-major.svg]]
 
@@ -62,7 +66,7 @@ Grouped the way the source material groups them — scales starting on C/G/D/A/E
 | <span style="color:#c9622a">Step</span> | – | T | T | ST | T | T | T | ST |
 | <span style="color:#3a8f5c">Finger (RH)</span> | 1 | 2 | 3 | 1 | 2 | 3 | 4 | 5 |
 
-**D Major**
+#### D Major
 
 ![[Assets/PIX Series YouTube Course/Lesson 03/lesson03-d-major.svg]]
 
@@ -72,7 +76,7 @@ Grouped the way the source material groups them — scales starting on C/G/D/A/E
 | <span style="color:#c9622a">Step</span>        | –   | T   | T   | ST  | T   | T   | T   | ST  |
 | <span style="color:#3a8f5c">Finger (RH)</span> | 1   | 2   | 3   | 1   | 2   | 3   | 4   | 5   |
 
-**A Major**
+#### A Major
 
 ![[Assets/PIX Series YouTube Course/Lesson 03/lesson03-a-major.svg]]
 
@@ -82,7 +86,7 @@ Grouped the way the source material groups them — scales starting on C/G/D/A/E
 | <span style="color:#c9622a">Step</span> | – | T | T | ST | T | T | T | ST |
 | <span style="color:#3a8f5c">Finger (RH)</span> | 1 | 2 | 3 | 1 | 2 | 3 | 4 | 5 |
 
-**E Major**
+#### E Major
 
 ![[Assets/PIX Series YouTube Course/Lesson 03/lesson03-e-major.svg]]
 
@@ -92,7 +96,7 @@ Grouped the way the source material groups them — scales starting on C/G/D/A/E
 | <span style="color:#c9622a">Step</span> | – | T | T | ST | T | T | T | ST |
 | <span style="color:#3a8f5c">Finger (RH)</span> | 1 | 2 | 3 | 1 | 2 | 3 | 4 | 5 |
 
-**B Major**
+#### B Major
 
 ![[Assets/PIX Series YouTube Course/Lesson 03/lesson03-b-major.svg]]
 
@@ -106,7 +110,7 @@ All six share the exact same step row and the exact same fingering — only the 
 
 ### Group 2 — scale-specific fingering
 
-**F# Major**
+#### F# Major
 
 ![[Assets/PIX Series YouTube Course/Lesson 03/lesson03-f-sharp-major.svg]]
 
@@ -118,7 +122,7 @@ All six share the exact same step row and the exact same fingering — only the 
 
 *The white key shown as `F` is formally spelled `E#` in F# major; shown as `F` here per the keyboard-first sharp convention above.*
 
-**F Major**
+#### F Major
 
 ![[Assets/PIX Series YouTube Course/Lesson 03/lesson03-f-major.svg]]
 
@@ -128,7 +132,8 @@ All six share the exact same step row and the exact same fingering — only the 
 | <span style="color:#c9622a">Step</span> | – | T | T | ST | T | T | T | ST |
 | <span style="color:#3a8f5c">Finger (RH)</span> | 1 | 2 | 3 | 4 | 1 | 2 | 3 | 4 |
 
-**A# Major** *(keyboard-sharp name — formally B-flat major)*
+#### A# Major
+*(keyboard-sharp name — formally B-flat major)*
 
 ![[Assets/PIX Series YouTube Course/Lesson 03/lesson03-a-sharp-major.svg]]
 
@@ -138,7 +143,8 @@ All six share the exact same step row and the exact same fingering — only the 
 | <span style="color:#c9622a">Step</span> | – | T | T | ST | T | T | T | ST |
 | <span style="color:#3a8f5c">Finger (RH)</span> | 2 | 1 | 2 | 3 | 1 | 2 | 3 | 4 |
 
-**D# Major** *(keyboard-sharp name — formally E-flat major)*
+#### D# Major
+*(keyboard-sharp name — formally E-flat major)*
 
 ![[Assets/PIX Series YouTube Course/Lesson 03/lesson03-d-sharp-major.svg]]
 
@@ -148,7 +154,8 @@ All six share the exact same step row and the exact same fingering — only the 
 | <span style="color:#c9622a">Step</span> | – | T | T | ST | T | T | T | ST |
 | <span style="color:#3a8f5c">Finger (RH)</span> | 2 | 1 | 2 | 3 | 4 | 1 | 2 | 3 |
 
-**G# Major** *(keyboard-sharp name — formally A-flat major)*
+#### G# Major
+*(keyboard-sharp name — formally A-flat major)*
 
 ![[Assets/PIX Series YouTube Course/Lesson 03/lesson03-g-sharp-major.svg]]
 
@@ -158,7 +165,8 @@ All six share the exact same step row and the exact same fingering — only the 
 | <span style="color:#c9622a">Step</span> | – | T | T | ST | T | T | T | ST |
 | <span style="color:#3a8f5c">Finger (RH)</span> | 2 | 3 | 1 | 2 | 3 | 1 | 2 | 3 |
 
-**C# Major** *(keyboard-sharp name — formally D-flat major)*
+#### C# Major
+*(keyboard-sharp name — formally D-flat major)*
 
 ![[Assets/PIX Series YouTube Course/Lesson 03/lesson03-c-sharp-major.svg]]
 
