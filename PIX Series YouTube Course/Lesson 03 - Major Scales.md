@@ -173,11 +173,11 @@ All six share the exact same step row and the exact same fingering — only the 
 
 ![[Assets/PIX Series YouTube Course/Lesson 03/lesson03-c-sharp-major.svg]]
 
-| | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
-|---|---|---|---|---|---|---|---|---|
-| <span style="color:#2c6fbb">Note</span> | C# | D# | F | F# | G# | A# | C | C# |
-| <span style="color:#c9622a">Step</span> | – | T | T | ST | T | T | T | ST |
-| <span style="color:#3a8f5c">Finger (RH)</span> | 2 | 3 | 1 | 2 | 3 | 4 | 1 | 2 |
+|                                                | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   |
+| ---------------------------------------------- | --- | --- | --- | --- | --- | --- | --- | --- |
+| <span style="color:#2c6fbb">Note</span>        | C#  | D#  | F   | F#  | G#  | A#  | C   | C#  |
+| <span style="color:#c9622a">Step</span>        | –   | T   | T   | ST  | T   | T   | T   | ST  |
+| <span style="color:#3a8f5c">Finger (RH)</span> | 2   | 3   | 1   | 2   | 3   | 4   | 1   | 2   |
 
 Why the fingering changes between the two groups: on a piano, the thumb generally avoids landing on a black key where possible (it's short and sits further back), so scales with more black keys swap in a different starting finger to keep the thumb on white keys as much as it can.
 
