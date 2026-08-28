@@ -199,6 +199,9 @@ Notes: B – D – F#
 > [!tip] Struggling with the fingering? See [[Remembering Chord Fingering]]
 > Why the hand shape barely changes between chords, and the "move finger 3" trick for major ↔ minor.
 
+> [!tip] Trouble recalling a chord's notes? See [[Remembering Chord Notes]]
+> The "1-5-8 / 1-4-8" key-counting trick — count every key from the root instead of tracking semitones.
+
 - [ ] All 12 major chords, both hands
 - [ ] All 12 minor chords, both hands
 - [ ] Compare a major/minor pair (e.g. C major vs C minor) back to back — hear the one-note difference
@@ -211,5 +214,6 @@ Notes: B – D – F#
 - [[Lesson 04 - Minor Scales]]
 - [[Chord]]
 - [[Remembering Chord Fingering]]
+- [[Remembering Chord Notes]]
 - [[Gold Silver Bronze Chords]]
 - [[Home]]

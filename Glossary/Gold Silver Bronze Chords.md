@@ -233,6 +233,7 @@ The remaining 12 keys (6 roots × major/minor), each carrying 4+ sharps or flats
 ## Used in
 - [[Chord]]
 - [[Remembering Chord Fingering]]
+- [[Remembering Chord Notes]]
 - [[Major Scale]]
 - [[Minor Scale]]
 - [[Remembering Major Scales]]

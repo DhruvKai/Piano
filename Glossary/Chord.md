@@ -23,9 +23,13 @@ This course plays triads as **RH: 1 3 5** (thumb-middle-pinky) and **LH: 5 3 1**
 > [!tip] Not sure which chords to learn first? See [[Gold Silver Bronze Chords]]
 > A practice-priority ranking of all 24 major/minor chords by how often they actually show up in real songs.
 
+> [!tip] Trouble recalling a chord's notes? See [[Remembering Chord Notes]]
+> The "1-5-8 / 1-4-8" key-counting trick — count every key from the root instead of tracking semitones.
+
 ## Used in
 - [[Lesson 05 - Chords]]
 - [[Arpeggio]]
 - [[Major Scale]]
 - [[Remembering Chord Fingering]]
 - [[Gold Silver Bronze Chords]]
+- [[Remembering Chord Notes]]

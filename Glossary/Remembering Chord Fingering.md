@@ -36,3 +36,4 @@ This is the single most useful shortcut for chord fingering: **major → minor i
 - [[Chord]]
 - [[Lesson 05 - Chords]]
 - [[Gold Silver Bronze Chords]]
+- [[Remembering Chord Notes]]
