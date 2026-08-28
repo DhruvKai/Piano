@@ -24,7 +24,12 @@ tags: [piano, minor-scale, scale-formula, fingering, beginner]
 > Bold = where minor and [[Major Scale|major]] diverge. Same formula, every root, every scale below.
 
 ## Index
-[[#A Minor]] · [[#E Minor]] · [[#B Minor]] · [[#F# Minor]] · [[#C# Minor]] · [[#G# Minor]] · [[#D# Minor]] · [[#G Minor]] · [[#D Minor]] · [[#C Minor]] · [[#F Minor]] · [[#A# Minor]]
+
+| | | | |
+|---|---|---|---|
+| [[#A Minor]] | [[#E Minor]] | [[#B Minor]] | [[#F# Minor]] |
+| [[#C# Minor]] | [[#G# Minor]] | [[#D# Minor]] | [[#G Minor]] |
+| [[#D Minor]] | [[#C Minor]] | [[#F Minor]] | [[#A# Minor]] |
 
 ## Overview
 Teaches the [[Minor Scale]] formula (T-ST-T-T-ST-T-T) and applies it to all 12 starting notes, right-hand fingering included — mirrors [[Lesson 03 - Major Scales]] in structure.

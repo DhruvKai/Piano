@@ -12,9 +12,11 @@ A **practice-priority system** for the 24 possible major/minor [[Chord|triads]]:
 
 ## Index
 
-**🥇 Gold** — [[#C Major]] · [[#F Major]] · [[#G Major]] · [[#A Minor]] · [[#D Minor]] · [[#E Minor]]
-**🥈 Silver** — [[#D Major]] · [[#E Major]] · [[#A Major]] · [[#C Minor]] · [[#F Minor]] · [[#G Minor]]
-**🥉 Bronze** — [[#D# Major]] · [[#G# Major]] · [[#B Major]] · [[#F# Major]] · [[#C# Major]] · [[#A# Major]] · [[#D# Minor]] · [[#G# Minor]] · [[#B Minor]] · [[#F# Minor]] · [[#C# Minor]] · [[#A# Minor]]
+| Tier | Major chords | Minor chords |
+|---|---|---|
+| 🥇 Gold | [[#C Major]] · [[#F Major]] · [[#G Major]] | [[#A Minor]] · [[#D Minor]] · [[#E Minor]] |
+| 🥈 Silver | [[#D Major]] · [[#E Major]] · [[#A Major]] | [[#C Minor]] · [[#F Minor]] · [[#G Minor]] |
+| 🥉 Bronze | [[#D# Major]] · [[#G# Major]] · [[#B Major]] · [[#F# Major]] · [[#C# Major]] · [[#A# Major]] | [[#D# Minor]] · [[#G# Minor]] · [[#B Minor]] · [[#F# Minor]] · [[#C# Minor]] · [[#A# Minor]] |
 
 ## At a glance — all 24 chords and example songs
 

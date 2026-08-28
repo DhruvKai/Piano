@@ -24,8 +24,11 @@ tags: [piano, major-scale, scale-formula, fingering, beginner]
 > Bold = where major and [[Minor Scale|minor]] diverge. Same formula, every root, every scale below.
 
 ## Index
-**Group 1** (same fingering): [[#C Major]] · [[#G Major]] · [[#D Major]] · [[#A Major]] · [[#E Major]] · [[#B Major]]
-**Group 2** (own fingering): [[#F# Major]] · [[#F Major]] · [[#A# Major]] · [[#D# Major]] · [[#G# Major]] · [[#C# Major]]
+
+| Group | Scales |
+|---|---|
+| Group 1 (same fingering) | [[#C Major]] · [[#G Major]] · [[#D Major]] · [[#A Major]] · [[#E Major]] · [[#B Major]] |
+| Group 2 (own fingering) | [[#F# Major]] · [[#F Major]] · [[#A# Major]] · [[#D# Major]] · [[#G# Major]] · [[#C# Major]] |
 
 ## Overview
 Teaches the [[Major Scale]] formula (T-T-ST-T-T-T-ST) and applies it to all 12 possible starting notes, with right-hand fingering for each. This is the first lesson to use **standard classical fingering** (thumb = 1) rather than Lesson 01's Th/1/2/3/4 labeling — see the fingering note below.
