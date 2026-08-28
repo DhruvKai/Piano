@@ -21,8 +21,12 @@ Example: **C major** = C – E – G (C→E is 4 semitones). **C minor** = C –
 ## Fingering convention
 This course plays triads as **RH: 1 3 5** (thumb-middle-pinky) and **LH: 5 3 1** (mirrored) — see [[Fingering Notation]]. Struggling to keep the fingering straight? See [[Remembering Chord Fingering]].
 
+> [!tip] Not sure which chords to learn first? See [[Gold Silver Bronze Chords]]
+> A practice-priority ranking of all 24 major/minor chords by how often they actually show up in real songs.
+
 ## Used in
 - [[Lesson 05 - Chords]]
 - [[Arpeggio]]
 - [[Major Scale]]
 - [[Remembering Chord Fingering]]
+- [[Gold Silver Bronze Chords]]

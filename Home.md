@@ -28,6 +28,7 @@ Dashboard for my piano notes. Start here.
 - [[Arpeggio]]
 - [[Remembering Chord Fingering]]
 - [[Scale Fingering Technique]]
+- [[Gold Silver Bronze Chords]]
 
 ## Practice Log
 <!-- running log of practice sessions, one line per session -->
@@ -36,3 +37,4 @@ Dashboard for my piano notes. Start here.
 - 2026-08-19 — added [[Lesson 03 - Major Scales|PIX Series Lesson 03]] (all 12 major scales + fingering)
 - 2026-08-19 — boilerplate pass: added Lessons 04–08 (Minor Scales, Chords, Both Hands, Basic/Advanced Arpeggios) — needs review
 - 2026-08-22 — added [[Scale Fingering Technique]] (ascending/descending fingering reference + thumb-crossing practice guide) — struggling with reverse fingering, revisit after a few practice sessions
+- 2026-08-22 — added [[Gold Silver Bronze Chords]] (practice-priority tiers for all 24 major/minor chords, fact-checked against real key-popularity data)
