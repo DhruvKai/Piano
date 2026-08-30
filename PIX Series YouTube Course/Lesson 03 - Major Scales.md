@@ -9,7 +9,8 @@ date: 2026-08-19
 status: in-progress
 tags: [piano, major-scale, scale-formula, fingering, beginner]
 ---
-# Lesson 03 — Major Scales
+
+    # Lesson 03 — Major Scales
 
 > [!info] Source
 > 🎥 [Lesson #3: Learn MAJOR Scales With Formulas | Play All Scales Easily With Right Fingers](https://www.youtube.com/watch?v=owk3F0EbAY8&list=PL-C4jgLVkaodZP587mztVMk0hd7vGwGVS&index=4) — **PIX Series**
@@ -25,15 +26,17 @@ tags: [piano, major-scale, scale-formula, fingering, beginner]
 
 ## Index
 
-| Group | Scales |
-|---|---|
-| Group 1 (same fingering) | [[#C Major]] · [[#G Major]] · [[#D Major]] · [[#A Major]] · [[#E Major]] · [[#B Major]] |
-| Group 2 (own fingering) | [[#F# Major]] · [[#F Major]] · [[#A# Major]] · [[#D# Major]] · [[#G# Major]] · [[#C# Major]] |
+| Group   | Scales                                                                                       |
+| ------- | -------------------------------------------------------------------------------------------- |
+| Group 1 | [[#C Major]] · [[#G Major]] · [[#D Major]] · [[#A Major]] · [[#E Major]] · [[#B Major]]      |
+| Group 2 | [[#F♯ Major]] · [[#F Major]] · [[#A♯ Major]] · [[#D♯ Major]] · [[#G♯ Major]] · [[#C♯ Major]] |
 
 ## Overview
+
 Teaches the [[Major Scale]] formula (T-T-ST-T-T-T-ST) and applies it to all 12 possible starting notes, with right-hand fingering for each. This is the first lesson to use **standard classical fingering** (thumb = 1) rather than Lesson 01's Th/1/2/3/4 labeling — see the fingering note below.
 
 ## Key Concepts
+
 - Every major scale follows the same [[Major Scale|T-T-ST-T-T-T-ST pattern]], just starting from a different note.
 - **T** (Tone) = whole step, **ST** (Semitone) = half step — see [[Sharps & Flats]].
 - RH = Right Hand, LH = Left Hand.
@@ -45,6 +48,7 @@ Teaches the [[Major Scale]] formula (T-T-ST-T-T-T-ST) and applies it to all 12 p
 > This vault names every black key with a **sharp** (`C#`, `D#`, `F#`, `G#`, `A#`), never a flat — so scales are named by their sharp-key alias (e.g. **A# major** rather than B-flat major). `B#` is shown as `C` and `E#` is shown as `F` for keyboard-reading clarity.
 
 ## All 12 Major Scales
+
 Grouped the way the source material groups them — scales starting on C/G/D/A/E/B share one fingering pattern; the rest (more black keys involved) each need their own. Every scale follows the same **[[Major Scale|T-T-ST-T-T-T-ST]]** step pattern (shown as its own row below) — see [[Major Scale]] for the scale-degree names behind each column.
 
 ### Group 1 — same fingering (RH: 1 2 3 1 2 3 4 5)
@@ -63,11 +67,11 @@ Grouped the way the source material groups them — scales starting on C/G/D/A/E
 
 ![[Assets/PIX Series YouTube Course/Lesson 03/lesson03-g-major.svg]]
 
-| | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
-|---|---|---|---|---|---|---|---|---|
-| <span style="color:#2c6fbb">Note</span> | G | A | B | C | D | E | F# | G |
-| <span style="color:#c9622a">Step</span> | – | T | T | ST | T | T | T | ST |
-| <span style="color:#3a8f5c">Finger (RH)</span> | 1 | 2 | 3 | 1 | 2 | 3 | 4 | 5 |
+|                                                | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   |
+| ---------------------------------------------- | --- | --- | --- | --- | --- | --- | --- | --- |
+| <span style="color:#2c6fbb">Note</span>        | G   | A   | B   | C   | D   | E   | F#  | G   |
+| <span style="color:#c9622a">Step</span>        | –   | T   | T   | ST  | T   | T   | T   | ST  |
+| <span style="color:#3a8f5c">Finger (RH)</span> | 1   | 2   | 3   | 1   | 2   | 3   | 4   | 5   |
 
 #### D Major
 
@@ -83,105 +87,110 @@ Grouped the way the source material groups them — scales starting on C/G/D/A/E
 
 ![[Assets/PIX Series YouTube Course/Lesson 03/lesson03-a-major.svg]]
 
-| | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
-|---|---|---|---|---|---|---|---|---|
-| <span style="color:#2c6fbb">Note</span> | A | B | C# | D | E | F# | G# | A |
-| <span style="color:#c9622a">Step</span> | – | T | T | ST | T | T | T | ST |
-| <span style="color:#3a8f5c">Finger (RH)</span> | 1 | 2 | 3 | 1 | 2 | 3 | 4 | 5 |
+|                                                | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   |
+| ---------------------------------------------- | --- | --- | --- | --- | --- | --- | --- | --- |
+| <span style="color:#2c6fbb">Note</span>        | A   | B   | C#  | D   | E   | F#  | G#  | A   |
+| <span style="color:#c9622a">Step</span>        | –   | T   | T   | ST  | T   | T   | T   | ST  |
+| <span style="color:#3a8f5c">Finger (RH)</span> | 1   | 2   | 3   | 1   | 2   | 3   | 4   | 5   |
 
 #### E Major
 
 ![[Assets/PIX Series YouTube Course/Lesson 03/lesson03-e-major.svg]]
 
-| | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
-|---|---|---|---|---|---|---|---|---|
-| <span style="color:#2c6fbb">Note</span> | E | F# | G# | A | B | C# | D# | E |
-| <span style="color:#c9622a">Step</span> | – | T | T | ST | T | T | T | ST |
-| <span style="color:#3a8f5c">Finger (RH)</span> | 1 | 2 | 3 | 1 | 2 | 3 | 4 | 5 |
+|                                                | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   |
+| ---------------------------------------------- | --- | --- | --- | --- | --- | --- | --- | --- |
+| <span style="color:#2c6fbb">Note</span>        | E   | F#  | G#  | A   | B   | C#  | D#  | E   |
+| <span style="color:#c9622a">Step</span>        | –   | T   | T   | ST  | T   | T   | T   | ST  |
+| <span style="color:#3a8f5c">Finger (RH)</span> | 1   | 2   | 3   | 1   | 2   | 3   | 4   | 5   |
 
 #### B Major
 
 ![[Assets/PIX Series YouTube Course/Lesson 03/lesson03-b-major.svg]]
 
-| | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
-|---|---|---|---|---|---|---|---|---|
-| <span style="color:#2c6fbb">Note</span> | B | C# | D# | E | F# | G# | A# | B |
-| <span style="color:#c9622a">Step</span> | – | T | T | ST | T | T | T | ST |
-| <span style="color:#3a8f5c">Finger (RH)</span> | 1 | 2 | 3 | 1 | 2 | 3 | 4 | 5 |
+|                                                | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   |
+| ---------------------------------------------- | --- | --- | --- | --- | --- | --- | --- | --- |
+| <span style="color:#2c6fbb">Note</span>        | B   | C#  | D#  | E   | F#  | G#  | A#  | B   |
+| <span style="color:#c9622a">Step</span>        | –   | T   | T   | ST  | T   | T   | T   | ST  |
+| <span style="color:#3a8f5c">Finger (RH)</span> | 1   | 2   | 3   | 1   | 2   | 3   | 4   | 5   |
 
 All six share the exact same step row and the exact same fingering — only the notes shift.
 
 ### Group 2 — scale-specific fingering
 
-#### F# Major
+#### F♯ Major
 
 ![[Assets/PIX Series YouTube Course/Lesson 03/lesson03-f-sharp-major.svg]]
 
-| | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
-|---|---|---|---|---|---|---|---|---|
-| <span style="color:#2c6fbb">Note</span> | F# | G# | A# | B | C# | D# | F | F# |
-| <span style="color:#c9622a">Step</span> | – | T | T | ST | T | T | T | ST |
-| <span style="color:#3a8f5c">Finger (RH)</span> | 2 | 3 | 4 | 1 | 2 | 3 | 1 | 2 |
+|                                                | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   |
+| ---------------------------------------------- | --- | --- | --- | --- | --- | --- | --- | --- |
+| <span style="color:#2c6fbb">Note</span>        | F#  | G#  | A#  | B   | C#  | D#  | F   | F#  |
+| <span style="color:#c9622a">Step</span>        | –   | T   | T   | ST  | T   | T   | T   | ST  |
+| <span style="color:#3a8f5c">Finger (RH)</span> | 2   | 3   | 4   | 1   | 2   | 3   | 1   | 2   |
 
-*The white key shown as `F` is formally spelled `E#` in F# major; shown as `F` here per the keyboard-first sharp convention above.*
+_The white key shown as `F` is formally spelled `E#` in F# major; shown as `F` here per the keyboard-first sharp convention above._
 
 #### F Major
 
 ![[Assets/PIX Series YouTube Course/Lesson 03/lesson03-f-major.svg]]
 
-| | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
-|---|---|---|---|---|---|---|---|---|
-| <span style="color:#2c6fbb">Note</span> | F | G | A | A# | C | D | E | F |
-| <span style="color:#c9622a">Step</span> | – | T | T | ST | T | T | T | ST |
-| <span style="color:#3a8f5c">Finger (RH)</span> | 1 | 2 | 3 | 4 | 1 | 2 | 3 | 4 |
+|                                                | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   |
+| ---------------------------------------------- | --- | --- | --- | --- | --- | --- | --- | --- |
+| <span style="color:#2c6fbb">Note</span>        | F   | G   | A   | A#  | C   | D   | E   | F   |
+| <span style="color:#c9622a">Step</span>        | –   | T   | T   | ST  | T   | T   | T   | ST  |
+| <span style="color:#3a8f5c">Finger (RH)</span> | 1   | 2   | 3   | 4   | 1   | 2   | 3   | 4   |
 
-#### A# Major
-*(keyboard-sharp name — formally B-flat major)*
+#### A♯ Major
+
+_(keyboard-sharp name — formally B-flat major)_
 
 ![[Assets/PIX Series YouTube Course/Lesson 03/lesson03-a-sharp-major.svg]]
 
-| | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
-|---|---|---|---|---|---|---|---|---|
-| <span style="color:#2c6fbb">Note</span> | A# | C | D | D# | F | G | A | A# |
-| <span style="color:#c9622a">Step</span> | – | T | T | ST | T | T | T | ST |
-| <span style="color:#3a8f5c">Finger (RH)</span> | 2 | 1 | 2 | 3 | 1 | 2 | 3 | 4 |
+|                                                | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   |
+| ---------------------------------------------- | --- | --- | --- | --- | --- | --- | --- | --- |
+| <span style="color:#2c6fbb">Note</span>        | A#  | C   | D   | D#  | F   | G   | A   | A#  |
+| <span style="color:#c9622a">Step</span>        | –   | T   | T   | ST  | T   | T   | T   | ST  |
+| <span style="color:#3a8f5c">Finger (RH)</span> | 2   | 1   | 2   | 3   | 1   | 2   | 3   | 4   |
 
-#### D# Major
-*(keyboard-sharp name — formally E-flat major)*
+#### D♯ Major
+
+_(keyboard-sharp name — formally E-flat major)_
 
 ![[Assets/PIX Series YouTube Course/Lesson 03/lesson03-d-sharp-major.svg]]
 
-| | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
-|---|---|---|---|---|---|---|---|---|
-| <span style="color:#2c6fbb">Note</span> | D# | F | G | G# | A# | C | D | D# |
-| <span style="color:#c9622a">Step</span> | – | T | T | ST | T | T | T | ST |
-| <span style="color:#3a8f5c">Finger (RH)</span> | 2 | 1 | 2 | 3 | 4 | 1 | 2 | 3 |
+|                                                | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   |
+| ---------------------------------------------- | --- | --- | --- | --- | --- | --- | --- | --- |
+| <span style="color:#2c6fbb">Note</span>        | D#  | F   | G   | G#  | A#  | C   | D   | D#  |
+| <span style="color:#c9622a">Step</span>        | –   | T   | T   | ST  | T   | T   | T   | ST  |
+| <span style="color:#3a8f5c">Finger (RH)</span> | 2   | 1   | 2   | 3   | 4   | 1   | 2   | 3   |
 
-#### G# Major
-*(keyboard-sharp name — formally A-flat major)*
+#### G♯ Major
+
+_(keyboard-sharp name — formally A-flat major)_
 
 ![[Assets/PIX Series YouTube Course/Lesson 03/lesson03-g-sharp-major.svg]]
 
-| | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
-|---|---|---|---|---|---|---|---|---|
-| <span style="color:#2c6fbb">Note</span> | G# | A# | C | C# | D# | F | G | G# |
-| <span style="color:#c9622a">Step</span> | – | T | T | ST | T | T | T | ST |
-| <span style="color:#3a8f5c">Finger (RH)</span> | 2 | 3 | 1 | 2 | 3 | 1 | 2 | 3 |
+|                                                | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   |
+| ---------------------------------------------- | --- | --- | --- | --- | --- | --- | --- | --- |
+| <span style="color:#2c6fbb">Note</span>        | G#  | A#  | C   | C#  | D#  | F   | G   | G#  |
+| <span style="color:#c9622a">Step</span>        | –   | T   | T   | ST  | T   | T   | T   | ST  |
+| <span style="color:#3a8f5c">Finger (RH)</span> | 2   | 3   | 1   | 2   | 3   | 1   | 2   | 3   |
 
-#### C# Major
-*(keyboard-sharp name — formally D-flat major)*
+#### C♯ Major
+
+_(keyboard-sharp name — formally D-flat major)_
 
 ![[Assets/PIX Series YouTube Course/Lesson 03/lesson03-c-sharp-major.svg]]
 
-| | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
-|---|---|---|---|---|---|---|---|---|
-| <span style="color:#2c6fbb">Note</span> | C# | D# | F | F# | G# | A# | C | C# |
-| <span style="color:#c9622a">Step</span> | – | T | T | ST | T | T | T | ST |
-| <span style="color:#3a8f5c">Finger (RH)</span> | 2 | 3 | 1 | 2 | 3 | 4 | 1 | 2 |
+|                                                | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   |
+| ---------------------------------------------- | --- | --- | --- | --- | --- | --- | --- | --- |
+| <span style="color:#2c6fbb">Note</span>        | C#  | D#  | F   | F#  | G#  | A#  | C   | C#  |
+| <span style="color:#c9622a">Step</span>        | –   | T   | T   | ST  | T   | T   | T   | ST  |
+| <span style="color:#3a8f5c">Finger (RH)</span> | 2   | 3   | 1   | 2   | 3   | 4   | 1   | 2   |
 
 Why the fingering changes between the two groups: on a piano, the thumb generally avoids landing on a black key where possible (it's short and sits further back), so scales with more black keys swap in a different starting finger to keep the thumb on white keys as much as it can.
 
 ## Exercises / Practice
+
 > [!tip] Practice with a [[Metronome]]
 > Go slow, one scale at a time, ascending and descending, both hands eventually — see [[Metronome]] for the tempo ramp-up method.
 
@@ -197,9 +206,11 @@ Why the fingering changes between the two groups: on a piano, the thumb generall
 - [ ] Say the T/ST pattern out loud while playing each scale
 
 ## My Reflections
+
 <!-- fill in after actually watching + practicing this lesson -->
 
 ## Related
+
 - [[PIX Series - Course Overview]]
 - [[Lesson 02 - Western Notes & Right Hand Exercises]]
 - [[Major Scale]]

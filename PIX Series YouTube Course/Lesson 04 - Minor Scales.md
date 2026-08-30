@@ -9,6 +9,7 @@ date: 2026-08-19
 status: in-progress
 tags: [piano, minor-scale, scale-formula, fingering, beginner]
 ---
+
 # Lesson 04 — Minor Scales
 
 > [!info] Source
@@ -25,16 +26,18 @@ tags: [piano, minor-scale, scale-formula, fingering, beginner]
 
 ## Index
 
-| | | | |
-|---|---|---|---|
-| [[#A Minor]] | [[#E Minor]] | [[#B Minor]] | [[#F# Minor]] |
-| [[#C# Minor]] | [[#G# Minor]] | [[#D# Minor]] | [[#G Minor]] |
-| [[#D Minor]] | [[#C Minor]] | [[#F Minor]] | [[#A# Minor]] |
+|               |               |               |               |
+| ------------- | ------------- | ------------- | ------------- |
+| [[#A Minor]]  | [[#E Minor]]  | [[#B Minor]]  | [[#F♯ Minor]] |
+| [[#C♯ Minor]] | [[#G♯ Minor]] | [[#D♯ Minor]] | [[#G Minor]]  |
+| [[#D Minor]]  | [[#C Minor]]  | [[#F Minor]]  | [[#A♯ Minor]] |
 
 ## Overview
+
 Teaches the [[Minor Scale]] formula (T-ST-T-T-ST-T-T) and applies it to all 12 starting notes, right-hand fingering included — mirrors [[Lesson 03 - Major Scales]] in structure.
 
 ## Key Concepts
+
 - Every minor scale follows the same [[Minor Scale|T-ST-T-T-ST-T-T pattern]] — compare to major's T-T-ST-T-T-T-ST.
 - A minor uses the exact same notes as C major — see [[Minor Scale]]'s relative-minor explanation.
 - Fingering varies more here than in Lesson 03's majors — no clean two-group split, so check each table.
@@ -45,114 +48,116 @@ Teaches the [[Minor Scale]] formula (T-ST-T-T-ST-T-T) and applies it to all 12 s
 
 ![[Assets/PIX Series YouTube Course/Lesson 04/lesson04-a-minor.svg]]
 
-| <span style="background-color:#2c6fbb;color:#fff;padding:1px 6px;border-radius:3px;">Note</span> | A | B | C | D | E | F | G | A |
-|---|---|---|---|---|---|---|---|---|
-| <span style="background-color:#c9622a;color:#fff;padding:1px 6px;border-radius:3px;">Step</span> | – | T | ST | T | T | ST | T | T |
-| <span style="background-color:#3a8f5c;color:#fff;padding:1px 6px;border-radius:3px;">Finger (RH)</span> | 1 | 2 | 3 | 1 | 2 | 3 | 4 | 5 |
+| <span style="background-color:#2c6fbb;color:#fff;padding:1px 6px;border-radius:3px;">Note</span>        | A   | B   | C   | D   | E   | F   | G   | A   |
+| ------------------------------------------------------------------------------------------------------- | --- | --- | --- | --- | --- | --- | --- | --- |
+| <span style="background-color:#c9622a;color:#fff;padding:1px 6px;border-radius:3px;">Step</span>        | –   | T   | ST  | T   | T   | ST  | T   | T   |
+| <span style="background-color:#3a8f5c;color:#fff;padding:1px 6px;border-radius:3px;">Finger (RH)</span> | 1   | 2   | 3   | 1   | 2   | 3   | 4   | 5   |
 
 #### E Minor
 
 ![[Assets/PIX Series YouTube Course/Lesson 04/lesson04-e-minor.svg]]
 
-| <span style="background-color:#2c6fbb;color:#fff;padding:1px 6px;border-radius:3px;">Note</span> | E | F# | G | A | B | C | D | E |
-|---|---|---|---|---|---|---|---|---|
-| <span style="background-color:#c9622a;color:#fff;padding:1px 6px;border-radius:3px;">Step</span> | – | T | ST | T | T | ST | T | T |
-| <span style="background-color:#3a8f5c;color:#fff;padding:1px 6px;border-radius:3px;">Finger (RH)</span> | 1 | 2 | 3 | 1 | 2 | 3 | 4 | 5 |
+| <span style="background-color:#2c6fbb;color:#fff;padding:1px 6px;border-radius:3px;">Note</span>        | E   | F#  | G   | A   | B   | C   | D   | E   |
+| ------------------------------------------------------------------------------------------------------- | --- | --- | --- | --- | --- | --- | --- | --- |
+| <span style="background-color:#c9622a;color:#fff;padding:1px 6px;border-radius:3px;">Step</span>        | –   | T   | ST  | T   | T   | ST  | T   | T   |
+| <span style="background-color:#3a8f5c;color:#fff;padding:1px 6px;border-radius:3px;">Finger (RH)</span> | 1   | 2   | 3   | 1   | 2   | 3   | 4   | 5   |
 
 #### B Minor
 
 ![[Assets/PIX Series YouTube Course/Lesson 04/lesson04-b-minor.svg]]
 
-| <span style="background-color:#2c6fbb;color:#fff;padding:1px 6px;border-radius:3px;">Note</span> | B | C# | D | E | F# | G | A | B |
-|---|---|---|---|---|---|---|---|---|
-| <span style="background-color:#c9622a;color:#fff;padding:1px 6px;border-radius:3px;">Step</span> | – | T | ST | T | T | ST | T | T |
-| <span style="background-color:#3a8f5c;color:#fff;padding:1px 6px;border-radius:3px;">Finger (RH)</span> | 1 | 2 | 3 | 1 | 2 | 3 | 4 | 5 |
+| <span style="background-color:#2c6fbb;color:#fff;padding:1px 6px;border-radius:3px;">Note</span>        | B   | C#  | D   | E   | F#  | G   | A   | B   |
+| ------------------------------------------------------------------------------------------------------- | --- | --- | --- | --- | --- | --- | --- | --- |
+| <span style="background-color:#c9622a;color:#fff;padding:1px 6px;border-radius:3px;">Step</span>        | –   | T   | ST  | T   | T   | ST  | T   | T   |
+| <span style="background-color:#3a8f5c;color:#fff;padding:1px 6px;border-radius:3px;">Finger (RH)</span> | 1   | 2   | 3   | 1   | 2   | 3   | 4   | 5   |
 
-#### F# Minor
+#### F♯ Minor
 
 ![[Assets/PIX Series YouTube Course/Lesson 04/lesson04-f-sharp-minor.svg]]
 
-| <span style="background-color:#2c6fbb;color:#fff;padding:1px 6px;border-radius:3px;">Note</span> | F# | G# | A | B | C# | D | E | F# |
-|---|---|---|---|---|---|---|---|---|
-| <span style="background-color:#c9622a;color:#fff;padding:1px 6px;border-radius:3px;">Step</span> | – | T | ST | T | T | ST | T | T |
-| <span style="background-color:#3a8f5c;color:#fff;padding:1px 6px;border-radius:3px;">Finger (RH)</span> | 2 | 3 | 1 | 2 | 3 | 1 | 2 | 3 |
+| <span style="background-color:#2c6fbb;color:#fff;padding:1px 6px;border-radius:3px;">Note</span>        | F#  | G#  | A   | B   | C#  | D   | E   | F#  |
+| ------------------------------------------------------------------------------------------------------- | --- | --- | --- | --- | --- | --- | --- | --- |
+| <span style="background-color:#c9622a;color:#fff;padding:1px 6px;border-radius:3px;">Step</span>        | –   | T   | ST  | T   | T   | ST  | T   | T   |
+| <span style="background-color:#3a8f5c;color:#fff;padding:1px 6px;border-radius:3px;">Finger (RH)</span> | 2   | 3   | 1   | 2   | 3   | 1   | 2   | 3   |
 
-#### C# Minor
+#### C♯ Minor
 
 ![[Assets/PIX Series YouTube Course/Lesson 04/lesson04-c-sharp-minor.svg]]
 
-| <span style="background-color:#2c6fbb;color:#fff;padding:1px 6px;border-radius:3px;">Note</span> | C# | D# | E | F# | G# | A | B | C# |
-|---|---|---|---|---|---|---|---|---|
-| <span style="background-color:#c9622a;color:#fff;padding:1px 6px;border-radius:3px;">Step</span> | – | T | ST | T | T | ST | T | T |
-| <span style="background-color:#3a8f5c;color:#fff;padding:1px 6px;border-radius:3px;">Finger (RH)</span> | 2 | 3 | 1 | 2 | 3 | 1 | 2 | 3 |
+| <span style="background-color:#2c6fbb;color:#fff;padding:1px 6px;border-radius:3px;">Note</span>        | C#  | D#  | E   | F#  | G#  | A   | B   | C#  |
+| ------------------------------------------------------------------------------------------------------- | --- | --- | --- | --- | --- | --- | --- | --- |
+| <span style="background-color:#c9622a;color:#fff;padding:1px 6px;border-radius:3px;">Step</span>        | –   | T   | ST  | T   | T   | ST  | T   | T   |
+| <span style="background-color:#3a8f5c;color:#fff;padding:1px 6px;border-radius:3px;">Finger (RH)</span> | 2   | 3   | 1   | 2   | 3   | 1   | 2   | 3   |
 
-#### G# Minor
+#### G♯ Minor
 
 ![[Assets/PIX Series YouTube Course/Lesson 04/lesson04-g-sharp-minor.svg]]
 
-| <span style="background-color:#2c6fbb;color:#fff;padding:1px 6px;border-radius:3px;">Note</span> | G# | A# | B | C# | D# | E | F# | G# |
-|---|---|---|---|---|---|---|---|---|
-| <span style="background-color:#c9622a;color:#fff;padding:1px 6px;border-radius:3px;">Step</span> | – | T | ST | T | T | ST | T | T |
-| <span style="background-color:#3a8f5c;color:#fff;padding:1px 6px;border-radius:3px;">Finger (RH)</span> | 2 | 3 | 1 | 2 | 3 | 1 | 2 | 3 |
+| <span style="background-color:#2c6fbb;color:#fff;padding:1px 6px;border-radius:3px;">Note</span>        | G#  | A#  | B   | C#  | D#  | E   | F#  | G#  |
+| ------------------------------------------------------------------------------------------------------- | --- | --- | --- | --- | --- | --- | --- | --- |
+| <span style="background-color:#c9622a;color:#fff;padding:1px 6px;border-radius:3px;">Step</span>        | –   | T   | ST  | T   | T   | ST  | T   | T   |
+| <span style="background-color:#3a8f5c;color:#fff;padding:1px 6px;border-radius:3px;">Finger (RH)</span> | 2   | 3   | 1   | 2   | 3   | 1   | 2   | 3   |
 
-#### D# Minor
+#### D♯ Minor
 
 ![[Assets/PIX Series YouTube Course/Lesson 04/lesson04-d-sharp-minor.svg]]
 
-| <span style="background-color:#2c6fbb;color:#fff;padding:1px 6px;border-radius:3px;">Note</span> | D# | F* | F# | G# | A# | B | C# | D# |
-|---|---|---|---|---|---|---|---|---|
-| <span style="background-color:#c9622a;color:#fff;padding:1px 6px;border-radius:3px;">Step</span> | – | T | ST | T | T | ST | T | T |
-| <span style="background-color:#3a8f5c;color:#fff;padding:1px 6px;border-radius:3px;">Finger (RH)</span> | 2 | 1 | 2 | 3 | 4 | 1 | 2 | 3 |
+| <span style="background-color:#2c6fbb;color:#fff;padding:1px 6px;border-radius:3px;">Note</span>        | D#  | F\* | F#  | G#  | A#  | B   | C#  | D#  |
+| ------------------------------------------------------------------------------------------------------- | --- | --- | --- | --- | --- | --- | --- | --- |
+| <span style="background-color:#c9622a;color:#fff;padding:1px 6px;border-radius:3px;">Step</span>        | –   | T   | ST  | T   | T   | ST  | T   | T   |
+| <span style="background-color:#3a8f5c;color:#fff;padding:1px 6px;border-radius:3px;">Finger (RH)</span> | 2   | 1   | 2   | 3   | 4   | 1   | 2   | 3   |
 
-*\*Written as "F" in the source material — enharmonically the same key as E#.*
+_\*Written as "F" in the source material — enharmonically the same key as E#._
 
 #### G Minor
 
 ![[Assets/PIX Series YouTube Course/Lesson 04/lesson04-g-minor.svg]]
 
-| <span style="background-color:#2c6fbb;color:#fff;padding:1px 6px;border-radius:3px;">Note</span> | G | A | A# | C | D | D# | F | G |
-|---|---|---|---|---|---|---|---|---|
-| <span style="background-color:#c9622a;color:#fff;padding:1px 6px;border-radius:3px;">Step</span> | – | T | ST | T | T | ST | T | T |
-| <span style="background-color:#3a8f5c;color:#fff;padding:1px 6px;border-radius:3px;">Finger (RH)</span> | 1 | 2 | 3 | 1 | 2 | 3 | 4 | 5 |
+| <span style="background-color:#2c6fbb;color:#fff;padding:1px 6px;border-radius:3px;">Note</span>        | G   | A   | A#  | C   | D   | D#  | F   | G   |
+| ------------------------------------------------------------------------------------------------------- | --- | --- | --- | --- | --- | --- | --- | --- |
+| <span style="background-color:#c9622a;color:#fff;padding:1px 6px;border-radius:3px;">Step</span>        | –   | T   | ST  | T   | T   | ST  | T   | T   |
+| <span style="background-color:#3a8f5c;color:#fff;padding:1px 6px;border-radius:3px;">Finger (RH)</span> | 1   | 2   | 3   | 1   | 2   | 3   | 4   | 5   |
 
 #### D Minor
 
 ![[Assets/PIX Series YouTube Course/Lesson 04/lesson04-d-minor.svg]]
 
-| <span style="background-color:#2c6fbb;color:#fff;padding:1px 6px;border-radius:3px;">Note</span> | D | E | F | G | A | A# | C | D |
-|---|---|---|---|---|---|---|---|---|
-| <span style="background-color:#c9622a;color:#fff;padding:1px 6px;border-radius:3px;">Step</span> | – | T | ST | T | T | ST | T | T |
-| <span style="background-color:#3a8f5c;color:#fff;padding:1px 6px;border-radius:3px;">Finger (RH)</span> | 1 | 2 | 3 | 1 | 2 | 3 | 4 | 5 |
+| <span style="background-color:#2c6fbb;color:#fff;padding:1px 6px;border-radius:3px;">Note</span>        | D   | E   | F   | G   | A   | A#  | C   | D   |
+| ------------------------------------------------------------------------------------------------------- | --- | --- | --- | --- | --- | --- | --- | --- |
+| <span style="background-color:#c9622a;color:#fff;padding:1px 6px;border-radius:3px;">Step</span>        | –   | T   | ST  | T   | T   | ST  | T   | T   |
+| <span style="background-color:#3a8f5c;color:#fff;padding:1px 6px;border-radius:3px;">Finger (RH)</span> | 1   | 2   | 3   | 1   | 2   | 3   | 4   | 5   |
 
 #### C Minor
 
 ![[Assets/PIX Series YouTube Course/Lesson 04/lesson04-c-minor.svg]]
 
-| <span style="background-color:#2c6fbb;color:#fff;padding:1px 6px;border-radius:3px;">Note</span> | C | D | D# | F | G | G# | A# | C |
-|---|---|---|---|---|---|---|---|---|
-| <span style="background-color:#c9622a;color:#fff;padding:1px 6px;border-radius:3px;">Step</span> | – | T | ST | T | T | ST | T | T |
-| <span style="background-color:#3a8f5c;color:#fff;padding:1px 6px;border-radius:3px;">Finger (RH)</span> | 1 | 2 | 3 | 1 | 2 | 3 | 4 | 5 |
+| <span style="background-color:#2c6fbb;color:#fff;padding:1px 6px;border-radius:3px;">Note</span>        | C   | D   | D#  | F   | G   | G#  | A#  | C   |
+| ------------------------------------------------------------------------------------------------------- | --- | --- | --- | --- | --- | --- | --- | --- |
+| <span style="background-color:#c9622a;color:#fff;padding:1px 6px;border-radius:3px;">Step</span>        | –   | T   | ST  | T   | T   | ST  | T   | T   |
+| <span style="background-color:#3a8f5c;color:#fff;padding:1px 6px;border-radius:3px;">Finger (RH)</span> | 1   | 2   | 3   | 1   | 2   | 3   | 4   | 5   |
 
 #### F Minor
 
 ![[Assets/PIX Series YouTube Course/Lesson 04/lesson04-f-minor.svg]]
 
-| <span style="background-color:#2c6fbb;color:#fff;padding:1px 6px;border-radius:3px;">Note</span> | F | G | G# | A# | C | C# | D# | F |
-|---|---|---|---|---|---|---|---|---|
-| <span style="background-color:#c9622a;color:#fff;padding:1px 6px;border-radius:3px;">Step</span> | – | T | ST | T | T | ST | T | T |
-| <span style="background-color:#3a8f5c;color:#fff;padding:1px 6px;border-radius:3px;">Finger (RH)</span> | 1 | 2 | 3 | 4 | 1 | 2 | 3 | 4 |
+| <span style="background-color:#2c6fbb;color:#fff;padding:1px 6px;border-radius:3px;">Note</span>        | F   | G   | G#  | A#  | C   | C#  | D#  | F   |
+| ------------------------------------------------------------------------------------------------------- | --- | --- | --- | --- | --- | --- | --- | --- |
+| <span style="background-color:#c9622a;color:#fff;padding:1px 6px;border-radius:3px;">Step</span>        | –   | T   | ST  | T   | T   | ST  | T   | T   |
+| <span style="background-color:#3a8f5c;color:#fff;padding:1px 6px;border-radius:3px;">Finger (RH)</span> | 1   | 2   | 3   | 4   | 1   | 2   | 3   | 4   |
 
-#### A# Minor
-*(keyboard-sharp name — formally B-flat minor)*
+#### A♯ Minor
+
+_(keyboard-sharp name — formally B-flat minor)_
 
 ![[Assets/PIX Series YouTube Course/Lesson 04/lesson04-a-sharp-minor.svg]]
 
-| <span style="background-color:#2c6fbb;color:#fff;padding:1px 6px;border-radius:3px;">Note</span> | A# | C | C# | D# | F | F# | G# | A# |
-|---|---|---|---|---|---|---|---|---|
-| <span style="background-color:#c9622a;color:#fff;padding:1px 6px;border-radius:3px;">Step</span> | – | T | ST | T | T | ST | T | T |
-| <span style="background-color:#3a8f5c;color:#fff;padding:1px 6px;border-radius:3px;">Finger (RH)</span> | 2 | 1 | 2 | 3 | 1 | 2 | 3 | 4 |
+| <span style="background-color:#2c6fbb;color:#fff;padding:1px 6px;border-radius:3px;">Note</span>        | A#  | C   | C#  | D#  | F   | F#  | G#  | A#  |
+| ------------------------------------------------------------------------------------------------------- | --- | --- | --- | --- | --- | --- | --- | --- |
+| <span style="background-color:#c9622a;color:#fff;padding:1px 6px;border-radius:3px;">Step</span>        | –   | T   | ST  | T   | T   | ST  | T   | T   |
+| <span style="background-color:#3a8f5c;color:#fff;padding:1px 6px;border-radius:3px;">Finger (RH)</span> | 2   | 1   | 2   | 3   | 1   | 2   | 3   | 4   |
 
 ## Exercises / Practice
+
 > [!tip] Practice with a [[Metronome]]
 > Same approach as [[Lesson 03 - Major Scales]] — slow and steady, ascending and descending, before speeding up.
 
@@ -166,9 +171,11 @@ Teaches the [[Minor Scale]] formula (T-ST-T-T-ST-T-T) and applies it to all 12 s
 - [ ] Compare A minor side by side with C major — same notes, different root
 
 ## My Reflections
+
 <!-- fill in after actually watching + practicing this lesson -->
 
 ## Related
+
 - [[PIX Series - Course Overview]]
 - [[Lesson 03 - Major Scales]]
 - [[Minor Scale]]
