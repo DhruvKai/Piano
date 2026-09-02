@@ -17,20 +17,20 @@ tags: [piano, chords, triads, beginner]
 
 ## Index
 
-| Chord | Major | Minor |
-|---|---|---|
-| C | [[#C Major]] | [[#C Minor]] |
-| C# | [[#C# Major]] | [[#C# Minor]] |
-| D | [[#D Major]] | [[#D Minor]] |
-| D# | [[#D# Major]] | [[#D# Minor]] |
-| E | [[#E Major]] | [[#E Minor]] |
-| F | [[#F Major]] | [[#F Minor]] |
-| F# | [[#F# Major]] | [[#F# Minor]] |
-| G | [[#G Major]] | [[#G Minor]] |
-| G# | [[#G# Major]] | [[#G# Minor]] |
-| A | [[#A Major]] | [[#A Minor]] |
-| A# | [[#A# Major]] | [[#A# Minor]] |
-| B | [[#B Major]] | [[#B Minor]] |
+| Chord | Major         | Minor         |
+| ----- | ------------- | ------------- |
+| C     | [[#C Major]]  | [[#C Minor]]  |
+| C♯    | [[#C♯ Major]] | [[#C♯ Minor]] |
+| D     | [[#D Major]]  | [[#D Minor]]  |
+| D♯    | [[#D♯ Major]] | [[#D♯ Minor]] |
+| E     | [[#E Major]]  | [[#E Minor]]  |
+| F     | [[#F Major]]  | [[#F Minor]]  |
+| F♯    | [[#F♯ Major]] | [[#F♯ Minor]] |
+| G     | [[#G Major]]  | [[#G Minor]]  |
+| G♯    | [[#G♯ Major]] | [[#G♯ Minor]] |
+| A     | [[#A Major]]  | [[#A Minor]]  |
+| A♯    | [[#A♯ Major]] | [[#A♯ Minor]] |
+| B     | [[#B Major]]  | [[#B Minor]]  |
 
 ## Overview
 All 12 [[Chord|major and minor triads]], with fingering for both hands.
@@ -49,7 +49,7 @@ All use RH `1-3-5` / LH `5-3-1` — **except B major**, which the source materia
 
 Notes: C – E – G
 
-### C# Major
+### C♯ Major
 
 ![[Assets/Glossary/chord-c-sharp-major.svg]]
 
@@ -61,7 +61,7 @@ Notes: C# – F – G#
 
 Notes: D – F# – A
 
-### D# Major
+### D♯ Major
 
 ![[Assets/Glossary/chord-d-sharp-major.svg]]
 
@@ -79,7 +79,7 @@ Notes: E – G# – B
 
 Notes: F – A – C
 
-### F# Major
+### F♯ Major
 
 ![[Assets/Glossary/chord-f-sharp-major.svg]]
 
@@ -91,7 +91,7 @@ Notes: F# – A# – C#
 
 Notes: G – B – D
 
-### G# Major
+### G♯ Major
 
 ![[Assets/Glossary/chord-g-sharp-major.svg]]
 
@@ -103,7 +103,7 @@ Notes: G# – C – D#
 
 Notes: A – C# – E
 
-### A# Major
+### A♯ Major
 
 ![[Assets/Glossary/chord-a-sharp-major.svg]]
 
@@ -126,7 +126,7 @@ All 12 use RH `1-3-5` / LH `5-3-1`, no exceptions.
 
 Notes: C – D# – G
 
-### C# Minor
+### C♯ Minor
 
 ![[Assets/Glossary/chord-c-sharp-minor.svg]]
 
@@ -138,7 +138,7 @@ Notes: C# – E – G#
 
 Notes: D – F – A
 
-### D# Minor
+### D♯ Minor
 
 ![[Assets/Glossary/chord-d-sharp-minor.svg]]
 
@@ -156,7 +156,7 @@ Notes: E – G – B
 
 Notes: F – G# – C
 
-### F# Minor
+### F♯ Minor
 
 ![[Assets/Glossary/chord-f-sharp-minor.svg]]
 
@@ -168,7 +168,7 @@ Notes: F# – A – C#
 
 Notes: G – A# – D
 
-### G# Minor
+### G♯ Minor
 
 ![[Assets/Glossary/chord-g-sharp-minor.svg]]
 
@@ -180,7 +180,7 @@ Notes: G# – B – D#
 
 Notes: A – C – E
 
-### A# Minor
+### A♯ Minor
 
 ![[Assets/Glossary/chord-a-sharp-minor.svg]]
 

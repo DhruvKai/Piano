@@ -9,8 +9,7 @@ date: 2026-08-19
 status: in-progress
 tags: [piano, major-scale, scale-formula, fingering, beginner]
 ---
-
-    # Lesson 03 — Major Scales
+# Lesson 03 — Major Scales
 
 > [!info] Source
 > 🎥 [Lesson #3: Learn MAJOR Scales With Formulas | Play All Scales Easily With Right Fingers](https://www.youtube.com/watch?v=owk3F0EbAY8&list=PL-C4jgLVkaodZP587mztVMk0hd7vGwGVS&index=4) — **PIX Series**

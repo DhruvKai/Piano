@@ -53,7 +53,7 @@ To confirm the trick isn't a C-major coincidence, here it is starting from F# (a
 
 ![[Assets/Glossary/chord-trick-major-f-sharp.svg]]
 
-F#(1) · G(2) · G#(3) · A(4) · A#(**5**) · B(6) · C(7) · C#(**8**) → **F# major = F#, A#, C#** ✓ matches [[Lesson 05 - Chords#F# Major]]
+F#(1) · G(2) · G#(3) · A(4) · A#(**5**) · B(6) · C(7) · C#(**8**) → **F# major = F#, A#, C#** ✓ matches [[Lesson 05 - Chords#F♯ Major]]
 
 ![[Assets/Glossary/chord-trick-minor-g.svg]]
 

@@ -16,7 +16,7 @@ A **practice-priority system** for the 24 possible major/minor [[Chord|triads]]:
 |---|---|---|
 | 🥇 Gold | [[#C Major]] · [[#F Major]] · [[#G Major]] | [[#A Minor]] · [[#D Minor]] · [[#E Minor]] |
 | 🥈 Silver | [[#D Major]] · [[#E Major]] · [[#A Major]] | [[#C Minor]] · [[#F Minor]] · [[#G Minor]] |
-| 🥉 Bronze | [[#D# Major]] · [[#G# Major]] · [[#B Major]] · [[#F# Major]] · [[#C# Major]] · [[#A# Major]] | [[#D# Minor]] · [[#G# Minor]] · [[#B Minor]] · [[#F# Minor]] · [[#C# Minor]] · [[#A# Minor]] |
+| 🥉 Bronze | [[#D♯ Major]] · [[#G♯ Major]] · [[#B Major]] · [[#F♯ Major]] · [[#C♯ Major]] · [[#A♯ Major]] | [[#D♯ Minor]] · [[#G♯ Minor]] · [[#B Minor]] · [[#F♯ Minor]] · [[#C♯ Minor]] · [[#A♯ Minor]] |
 
 ## At a glance — all 24 chords and example songs
 
@@ -158,12 +158,12 @@ One extra sharp each over Gold — genuinely common, just not *as* dominant.
 
 The remaining 12 keys (6 roots × major/minor), each carrying 4+ sharps or flats. Genuinely rare in mainstream pop — that rarity is *why* they're bronze, not a gap in this list. Headings use this vault's [[Sharps & Flats|sharp-only notation]]; the flat spelling is noted alongside each since Bronze-tier keys are exactly where you're most likely to see the flat spelling in outside sheet music.
 
-### D# Major
+### D♯ Major
 *(D#/Eb Major)*
 
 ![[Assets/Glossary/chord-d-sharp-major.svg]]
 
-### G# Major
+### G♯ Major
 *(G#/Ab Major)*
 
 ![[Assets/Glossary/chord-g-sharp-major.svg]]
@@ -172,27 +172,27 @@ The remaining 12 keys (6 roots × major/minor), each carrying 4+ sharps or flats
 
 ![[Assets/Glossary/chord-b-major.svg]]
 
-### F# Major
+### F♯ Major
 *(F#/Gb Major)*
 
 ![[Assets/Glossary/chord-f-sharp-major.svg]]
 
-### C# Major
+### C♯ Major
 *(C#/Db Major)*
 
 ![[Assets/Glossary/chord-c-sharp-major.svg]]
 
-### A# Major
+### A♯ Major
 *(A#/Bb Major — the most common Bronze-tier key in practice; "Purple Rain" by Prince)*
 
 ![[Assets/Glossary/chord-a-sharp-major.svg]]
 
-### D# Minor
+### D♯ Minor
 *(D#/Eb Minor)*
 
 ![[Assets/Glossary/chord-d-sharp-minor.svg]]
 
-### G# Minor
+### G♯ Minor
 *(G#/Ab Minor)*
 
 ![[Assets/Glossary/chord-g-sharp-minor.svg]]
@@ -202,17 +202,17 @@ The remaining 12 keys (6 roots × major/minor), each carrying 4+ sharps or flats
 
 ![[Assets/Glossary/chord-b-minor.svg]]
 
-### F# Minor
+### F♯ Minor
 *(F#/Gb Minor)*
 
 ![[Assets/Glossary/chord-f-sharp-minor.svg]]
 
-### C# Minor
+### C♯ Minor
 *(C#/Db Minor)*
 
 ![[Assets/Glossary/chord-c-sharp-minor.svg]]
 
-### A# Minor
+### A♯ Minor
 *(A#/Bb Minor)*
 
 ![[Assets/Glossary/chord-a-sharp-minor.svg]]
