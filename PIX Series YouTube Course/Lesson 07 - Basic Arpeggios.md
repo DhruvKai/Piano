@@ -16,6 +16,36 @@ tags: [piano, arpeggio, two-hands, beginner]
 > 📄 Companion PDF: [Basic Arpeggios](https://pixseries.com/wp-content/uploads/2022/03/Lesson-7-Basic-Arpeggios.pdf) via [pixseries.com/lesson-7](https://pixseries.com/lesson-7/) — the PDF confirms it goes with "the video Lesson #7."
 > ⚠️ Exact YouTube video link not confirmed by search — replace with the real one when you have it.
 
+## Index
+
+**Sections:** [[#Overview]] · [[#Key Concepts]] · [[#Arpeggio 1]] · [[#Arpeggio 2 — grouped rhythm]] · [[#Exercises / Practice]]
+
+**Arpeggio 1** — LH broken chord + RH melody
+
+| Root | LH chord notes | Ex 1 — up to the 5th and back | Ex 2 — zigzag | Ex 3 — skip-and-step | Diagrams |
+| ---- | -------------- | ----------------------------- | ------------- | -------------------- | -------- |
+| C | C-E-G | ✓ | ✓ | ✓ | [[#Arpeggio 1 — C\|C diagrams]] |
+| D | D-F-A | ✓ | ✓ | ✓ | [[#Arpeggio 1 — D\|D diagrams]] |
+| E | E-G-B | ✓ | ✓ | ✓ | [[#Arpeggio 1 — E\|E diagrams]] |
+| F | F-A-C | ✓ | ✓ | ✓ | [[#Arpeggio 1 — F\|F diagrams]] |
+| G | G-B-D | ✓ | ✓ | – | [[#Arpeggio 1 — G\|G diagrams]] |
+| A | A-C-E | ✓ | – | – | [[#Arpeggio 1 — A\|A diagrams]] |
+| B | B-D-F | ✓ | – | – | [[#Arpeggio 1 — B\|B diagrams]] |
+
+– = not given in the source for that root.
+
+**Arpeggio 2** — grouped rhythm
+
+| Root | LH | RH | Diagram |
+| ---- | -- | -- | ------- |
+| C | C (E G) (E G) | C – D – E | [[#Arpeggio 2 — C\|C diagram]] |
+| D | D (F A) (F A) | D – E – F | [[#Arpeggio 2 — D\|D diagram]] |
+| E | E (G B) (G B) | E – F – G | [[#Arpeggio 2 — E\|E diagram]] |
+| F | F (A C) (A C) | F – G – A | [[#Arpeggio 2 — F\|F diagram]] |
+| G | G (B D) (B D) | G – A – B | [[#Arpeggio 2 — G\|G diagram]] |
+| A | A (C E) (C E) | A – B – C | [[#Arpeggio 2 — A\|A diagram]] |
+| B | B (D F) (D F) | B – C – D | [[#Arpeggio 2 — B\|B diagram]] |
+
 ## Overview
 Left hand plays a broken chord ([[Arpeggio]]) built from root-3rd-5th-3rd, repeated, while the right hand plays a melodic pattern on top — same two-hands-at-once idea as [[Lesson 06 - Playing With Both Hands]], now with the left hand *moving* instead of holding.
 
@@ -57,6 +87,61 @@ Left hand plays a broken chord ([[Arpeggio]]) built from root-3rd-5th-3rd, repea
 | E | E-G-B-G-E-G-B-G | E-B-A-G-F-E-F-G |
 | F | F-A-C-A-F-A-C-A | F-C-B-A-G-F-G-A |
 
+### Arpeggio 1 — keyboard diagrams by root
+
+Each diagram shows **every note of the bar** for both hands: LH on the lower octave, RH on the octave above. Badge numbers are the playing order (1–8); a key played more than once gets a stack of badges. The same number in LH and RH means both hands play it **together**.
+
+#### Arpeggio 1 — C
+
+| Exercise | Diagram |
+| -------- | ------- |
+| **Ex 1** — up to the 5th and back | ![[Assets/PIX Series YouTube Course/Lesson 07/lesson07-arp1-ex1-c.svg\|360]] |
+| **Ex 2** — zigzag | ![[Assets/PIX Series YouTube Course/Lesson 07/lesson07-arp1-ex2-c.svg\|360]] |
+| **Ex 3** — skip-and-step | ![[Assets/PIX Series YouTube Course/Lesson 07/lesson07-arp1-ex3-c.svg\|360]] |
+
+#### Arpeggio 1 — D
+
+| Exercise | Diagram |
+| -------- | ------- |
+| **Ex 1** — up to the 5th and back | ![[Assets/PIX Series YouTube Course/Lesson 07/lesson07-arp1-ex1-d.svg\|360]] |
+| **Ex 2** — zigzag | ![[Assets/PIX Series YouTube Course/Lesson 07/lesson07-arp1-ex2-d.svg\|360]] |
+| **Ex 3** — skip-and-step | ![[Assets/PIX Series YouTube Course/Lesson 07/lesson07-arp1-ex3-d.svg\|360]] |
+
+#### Arpeggio 1 — E
+
+| Exercise | Diagram |
+| -------- | ------- |
+| **Ex 1** — up to the 5th and back | ![[Assets/PIX Series YouTube Course/Lesson 07/lesson07-arp1-ex1-e.svg\|360]] |
+| **Ex 2** — zigzag | ![[Assets/PIX Series YouTube Course/Lesson 07/lesson07-arp1-ex2-e.svg\|360]] |
+| **Ex 3** — skip-and-step | ![[Assets/PIX Series YouTube Course/Lesson 07/lesson07-arp1-ex3-e.svg\|360]] |
+
+#### Arpeggio 1 — F
+
+| Exercise | Diagram |
+| -------- | ------- |
+| **Ex 1** — up to the 5th and back | ![[Assets/PIX Series YouTube Course/Lesson 07/lesson07-arp1-ex1-f.svg\|360]] |
+| **Ex 2** — zigzag | ![[Assets/PIX Series YouTube Course/Lesson 07/lesson07-arp1-ex2-f.svg\|360]] |
+| **Ex 3** — skip-and-step | ![[Assets/PIX Series YouTube Course/Lesson 07/lesson07-arp1-ex3-f.svg\|360]] |
+
+#### Arpeggio 1 — G
+
+| Exercise | Diagram |
+| -------- | ------- |
+| **Ex 1** — up to the 5th and back | ![[Assets/PIX Series YouTube Course/Lesson 07/lesson07-arp1-ex1-g.svg\|360]] |
+| **Ex 2** — zigzag | ![[Assets/PIX Series YouTube Course/Lesson 07/lesson07-arp1-ex2-g.svg\|360]] |
+
+#### Arpeggio 1 — A
+
+| Exercise | Diagram |
+| -------- | ------- |
+| **Ex 1** — up to the 5th and back | ![[Assets/PIX Series YouTube Course/Lesson 07/lesson07-arp1-ex1-a.svg\|360]] |
+
+#### Arpeggio 1 — B
+
+| Exercise | Diagram |
+| -------- | ------- |
+| **Ex 1** — up to the 5th and back | ![[Assets/PIX Series YouTube Course/Lesson 07/lesson07-arp1-ex1-b.svg\|360]] |
+
 ## Arpeggio 2 — grouped rhythm
 
 Left hand groups the 3rd and 5th together (shown in brackets); right hand plays just the first 3 notes of the scale:
@@ -70,6 +155,38 @@ Left hand groups the 3rd and 5th together (shown in brackets); right hand plays 
 | G | G (B D) (B D) | G – A – B |
 | A | A (C E) (C E) | A – B – C |
 | B | B (D F) (D F) | B – C – D |
+
+### Arpeggio 2 — keyboard diagrams by root
+
+Each ( ) group is one step, so both notes in it share a badge number; the RH note with the same number lines up under that group in the source PDF.
+
+#### Arpeggio 2 — C
+
+![[Assets/PIX Series YouTube Course/Lesson 07/lesson07-arp2-c.svg|360]]
+
+#### Arpeggio 2 — D
+
+![[Assets/PIX Series YouTube Course/Lesson 07/lesson07-arp2-d.svg|360]]
+
+#### Arpeggio 2 — E
+
+![[Assets/PIX Series YouTube Course/Lesson 07/lesson07-arp2-e.svg|360]]
+
+#### Arpeggio 2 — F
+
+![[Assets/PIX Series YouTube Course/Lesson 07/lesson07-arp2-f.svg|360]]
+
+#### Arpeggio 2 — G
+
+![[Assets/PIX Series YouTube Course/Lesson 07/lesson07-arp2-g.svg|360]]
+
+#### Arpeggio 2 — A
+
+![[Assets/PIX Series YouTube Course/Lesson 07/lesson07-arp2-a.svg|360]]
+
+#### Arpeggio 2 — B
+
+![[Assets/PIX Series YouTube Course/Lesson 07/lesson07-arp2-b.svg|360]]
 
 ## Exercises / Practice
 > [!tip] Practice with a [[Metronome]]

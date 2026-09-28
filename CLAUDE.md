@@ -15,6 +15,7 @@ An [Obsidian](https://obsidian.md) vault used as a personal learning journal for
 - `Glossary/` — atomic, single-concept reference notes (e.g. `Alankar.md`, `Sargam.md`) that lesson notes link to via `[[wikilink]]` instead of re-explaining the concept every time.
 - `Templates/Lesson Note Template.md` — starting point for a new lesson note.
 - `Assets/` — images referenced by notes (e.g. keyboard diagrams), embedded via `![[full/relative/path.svg]]`. Prefer self-drawn SVG diagrams over fetched/downloaded images to avoid licensing issues. Organized into subfolders mirroring the note structure — `Assets/<Course Name>/Lesson NN/` for lesson-specific diagrams, `Assets/Glossary/` for concept diagrams shared across notes — rather than one flat folder. **Always embed with the full vault-relative path** (e.g. `![[Assets/PIX Series YouTube Course/Lesson 03/lesson03-c-major.svg]]`), not a bare filename — Obsidian *can* resolve a unique bare filename across the whole vault, but that resolution depends on Obsidian's own link cache having caught up, which isn't guaranteed right after files are moved outside the app (e.g. via `git mv`/a script). A full path always resolves regardless of cache state.
+- `Scripts/` — Python generators for keyboard SVGs (e.g. `gen_arpeggio_svgs.py` draws every Lesson 07/08 arpeggio diagram). Re-run a script after changing it rather than hand-editing its SVG output.
 - `Paid Course/` — not created yet. Add it (see below) once a paid course actually starts.
 
 ## Note conventions (must stay Obsidian-compatible)
