@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 338" font-family="sans-serif">
+  <rect width="500" height="338" fill="#fafafa"/>
+  <text x="250" y="20" text-anchor="middle" font-size="14" font-weight="bold" fill="#243447">Part 1 — The Iconic Riff (rolled, then held)</text>
+  <text x="250" y="44" text-anchor="middle" font-size="12" fill="#243447"><tspan fill="#c9622a" font-weight="bold">LH:</tspan> C# F# G#   <tspan fill="#3a8f5c" font-weight="bold">then RH:</tspan> C# F</text>
+  <path d="M14 92 V86 H226 V92" fill="none" stroke="#c9622a" stroke-width="2"/>
+  <text x="120" y="80" text-anchor="middle" font-size="12" font-weight="bold" fill="#c9622a">LH</text>
+  <path d="M314 92 V86 H446 V92" fill="none" stroke="#3a8f5c" stroke-width="2"/>
+  <text x="380" y="80" text-anchor="middle" font-size="12" font-weight="bold" fill="#3a8f5c">RH</text>
+  <g transform="translate(0,96)">
+    <g stroke="#333" stroke-width="1.5">
+      <rect x="10" y="0" width="40" height="180" fill="#ffffff"/><rect x="50" y="0" width="40" height="180" fill="#ffffff"/><rect x="90" y="0" width="40" height="180" fill="#ffffff"/><rect x="130" y="0" width="40" height="180" fill="#ffffff"/><rect x="170" y="0" width="40" height="180" fill="#ffffff"/><rect x="210" y="0" width="40" height="180" fill="#ffffff"/><rect x="250" y="0" width="40" height="180" fill="#ffffff"/><rect x="290" y="0" width="40" height="180" fill="#ffffff"/><rect x="330" y="0" width="40" height="180" fill="#ffffff"/><rect x="370" y="0" width="40" height="180" fill="#ffffff"/><rect x="410" y="0" width="40" height="180" fill="#ffffff"/><rect x="450" y="0" width="40" height="180" fill="#ffffff"/>
+    </g>
+    <g stroke="#000" stroke-width="1" fill="#222222">
+      <rect x="38" y="0" width="24" height="110"/><rect x="78" y="0" width="24" height="110"/><rect x="158" y="0" width="24" height="110"/><rect x="198" y="0" width="24" height="110"/><rect x="238" y="0" width="24" height="110"/><rect x="318" y="0" width="24" height="110"/><rect x="358" y="0" width="24" height="110"/><rect x="438" y="0" width="24" height="110"/>
+    </g>
+    <g>
+      <circle cx="50" cy="96" r="10" fill="#3a8f5c" stroke="#ffffff" stroke-width="1"/><circle cx="170" cy="96" r="10" fill="#2c6fbb" stroke="#ffffff" stroke-width="1"/><circle cx="210" cy="96" r="10" fill="#2c6fbb" stroke="#ffffff" stroke-width="1"/><circle cx="330" cy="96" r="10" fill="#2c6fbb" stroke="#ffffff" stroke-width="1"/><circle cx="430" cy="166" r="10" fill="#2c6fbb" stroke="#ffffff" stroke-width="1"/>
+    </g>
+    <g fill="#ffffff" font-size="11" font-weight="bold" text-anchor="middle">
+      <text x="50" y="100">1</text><text x="170" y="100">2</text><text x="210" y="100">3</text><text x="330" y="100">4</text><text x="430" y="170">5</text>
+    </g>
+    <g fill="#888" font-size="12" text-anchor="middle">
+      <text x="30" y="196">C</text><text x="70" y="196">D</text><text x="110" y="196">E</text><text x="150" y="196">F</text><text x="190" y="196">G</text><text x="230" y="196">A</text><text x="270" y="196">B</text><text x="310" y="196">C</text><text x="350" y="196">D</text><text x="390" y="196">E</text><text x="430" y="196">F</text><text x="470" y="196">G</text>
+    </g>
+  </g>
+  <text x="250" y="314" text-anchor="middle" font-size="10" fill="#52616b">Starts on the C# one octave above middle C. Play 1→5 one after another, evenly,</text>
+  <text x="250" y="328" text-anchor="middle" font-size="10" fill="#52616b">keep every key held down so the notes ring together. Green = start note.</text>
+</svg>

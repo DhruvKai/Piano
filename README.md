@@ -9,6 +9,7 @@ Personal notes and practice log from my piano learning journey, kept as an [Obsi
 
 ## Structure
 - `PIX Series YouTube Course/` — notes from the free [PIX Series](https://pixseries.com) YouTube playlist I'm currently following.
+- `Songs/` — single-song tutorials (e.g. video game themes) outside any course.
 - `Glossary/` — atomic reference notes for recurring terms (Alankar, Sargam, fingering notation, ...), linked from lesson notes instead of repeating explanations.
 - `Templates/` — starting template for new lesson notes.
 - `Home.md` — vault dashboard / map of content.

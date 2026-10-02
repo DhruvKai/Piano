@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 340 352" font-family="sans-serif">
+  <rect width="340" height="352" fill="#fafafa"/>
+  <text x="170" y="20" text-anchor="middle" font-size="14" font-weight="bold" fill="#243447">Part 2 — LH C Major Chord</text>
+  <text x="170" y="44" text-anchor="middle" font-size="12" fill="#243447"><tspan fill="#c9622a" font-weight="bold">LH:</tspan> C + E + G  (press together)</text>
+  <g transform="translate(0,96)">
+    <g stroke="#333" stroke-width="1.5">
+      <rect x="10" y="0" width="40" height="180" fill="#ffffff"/><rect x="50" y="0" width="40" height="180" fill="#ffffff"/><rect x="90" y="0" width="40" height="180" fill="#ffffff"/><rect x="130" y="0" width="40" height="180" fill="#ffffff"/><rect x="170" y="0" width="40" height="180" fill="#ffffff"/><rect x="210" y="0" width="40" height="180" fill="#ffffff"/><rect x="250" y="0" width="40" height="180" fill="#ffffff"/><rect x="290" y="0" width="40" height="180" fill="#ffffff"/>
+    </g>
+    <g stroke="#000" stroke-width="1" fill="#222222">
+      <rect x="38" y="0" width="24" height="110"/><rect x="78" y="0" width="24" height="110"/><rect x="158" y="0" width="24" height="110"/><rect x="198" y="0" width="24" height="110"/><rect x="238" y="0" width="24" height="110"/>
+    </g>
+    <g>
+      <circle cx="30" cy="166" r="10" fill="#3a8f5c" stroke="#ffffff" stroke-width="1"/><circle cx="110" cy="166" r="10" fill="#2c6fbb" stroke="#ffffff" stroke-width="1"/><circle cx="190" cy="166" r="10" fill="#2c6fbb" stroke="#ffffff" stroke-width="1"/>
+    </g>
+    <g fill="#ffffff" font-size="11" font-weight="bold" text-anchor="middle">
+      <text x="30" y="170">1</text><text x="110" y="170">3</text><text x="190" y="170">5</text>
+    </g>
+    <g fill="#888" font-size="12" text-anchor="middle">
+      <text x="30" y="196">C</text><text x="70" y="196">D</text><text x="110" y="196">E</text><text x="150" y="196">F</text><text x="190" y="196">G</text><text x="230" y="196">A</text><text x="270" y="196">B</text><text x="310" y="196">C</text>
+    </g>
+    <text x="310" y="210" text-anchor="middle" font-size="9" font-weight="bold" fill="#c9622a">middle C</text>
+  </g>
+  <text x="170" y="328" text-anchor="middle" font-size="10" fill="#52616b">The octave just below middle C. Badges = chord tones: 1 = root (green), 3 = 3rd, 5 = 5th.</text>
+  <text x="170" y="342" text-anchor="middle" font-size="10" fill="#52616b">All three keys go down at the same time.</text>
+</svg>

@@ -12,6 +12,9 @@ Dashboard for my piano notes. Start here.
 - [[PIX Series - Course Overview|PIX Series YouTube Course]] — free YouTube playlist, in progress
 - Paid course — not started yet
 
+## Songs
+- [[Songs - Overview|Songs]] — single-song tutorials ([[Clash Royale Intro]])
+
 ## Glossary
 - [[Alankar]]
 - [[Sargam]]
@@ -30,6 +33,7 @@ Dashboard for my piano notes. Start here.
 - [[Scale Fingering Technique]]
 - [[Gold Silver Bronze Chords]]
 - [[Remembering Chord Notes]]
+- [[Middle C]]
 
 ## Practice Log
 <!-- running log of practice sessions, one line per session -->
@@ -40,3 +44,4 @@ Dashboard for my piano notes. Start here.
 - 2026-08-22 — added [[Scale Fingering Technique]] (ascending/descending fingering reference + thumb-crossing practice guide) — struggling with reverse fingering, revisit after a few practice sessions
 - 2026-08-22 — added [[Gold Silver Bronze Chords]] (practice-priority tiers for all 24 major/minor chords, fact-checked against real key-popularity data)
 - 2026-08-22 — added [[Remembering Chord Notes]] (1-5-8 / 1-4-8 key-counting trick, verified against the interval math and 4 worked examples)
+- 2026-10-02 — added first song, [[Clash Royale Intro]] (Amosdoll Music): riff + melody + chords with keyboard diagrams, new [[Middle C]] glossary note
