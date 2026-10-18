@@ -26,6 +26,9 @@ This course plays triads as **RH: 1 3 5** (thumb-middle-pinky) and **LH: 5 3 1**
 > [!tip] Trouble recalling a chord's notes? See [[Remembering Chord Notes]]
 > The "1-5-8 / 1-4-8" key-counting trick — count every key from the root instead of tracking semitones.
 
+> [!tip] Going beyond 3 notes? See [[Extended Chords]]
+> 7th, 9th, 11th and 13th chords: keep stacking thirds on top of the triad.
+
 ## Used in
 - [[Lesson 05 - Chords]]
 - [[Arpeggio]]
@@ -33,3 +36,4 @@ This course plays triads as **RH: 1 3 5** (thumb-middle-pinky) and **LH: 5 3 1**
 - [[Remembering Chord Fingering]]
 - [[Gold Silver Bronze Chords]]
 - [[Remembering Chord Notes]]
+- [[Extended Chords]]

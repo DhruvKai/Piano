@@ -42,8 +42,11 @@ def whites_between(lo, hi):
             i, o = 0, o + 1
 
 
-def render(lo, hi, title, lines, brackets, badges, captions):
-    """badges: list of (note, label, is_green); a key with several badges stacks them upward."""
+def render(lo, hi, title, lines, brackets, badges, captions, r=R):
+    """badges: list of (note, label, is_green); a key with several badges stacks them upward.
+
+    is_green may also be a fill colour string, and r the badge radius (longer labels
+    such as chord degrees like "♭13" need a bigger badge)."""
     whites = whites_between(lo, hi)
     n_white = len(whites)
     W = n_white * WK_W + 2 * PAD
@@ -88,9 +91,11 @@ def render(lo, hi, title, lines, brackets, badges, captions):
     for note, items in stacks.items():
         x = x_of(note)
         for k, (label, green) in enumerate(items):
-            cy = bottom_of(note) - 14 - k * (2 * R + 2)
-            circles.append(f'<circle cx="{x:g}" cy="{cy}" r="{R}" fill="{GREEN if green else BLUE}" stroke="#ffffff" stroke-width="1"/>')
-            labels.append(f'<text x="{x:g}" y="{cy + 4}">{label}</text>')
+            cy = bottom_of(note) - 4 - r - k * (2 * r + 2)
+            fill = green if isinstance(green, str) else GREEN if green else BLUE
+            circles.append(f'<circle cx="{x:g}" cy="{cy}" r="{r}" fill="{fill}" stroke="#ffffff" stroke-width="1"/>')
+            size = '' if len(label) <= 2 else ' font-size="9"'
+            labels.append(f'<text x="{x:g}" y="{cy + 4}"{size}>{label}</text>')
     o.append('    <g>')
     o.append("      " + "".join(circles))
     o.append('    </g>')

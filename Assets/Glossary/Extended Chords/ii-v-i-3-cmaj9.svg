@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 352" font-family="sans-serif">
+  <rect width="700" height="352" fill="#fafafa"/>
+  <text x="350" y="20" text-anchor="middle" font-size="14" font-weight="bold" fill="#243447">ii–V–I in C · 3. Cmaj9 (I)</text>
+  <text x="350" y="44" text-anchor="middle" font-size="12" fill="#243447"><tspan fill="#c9622a" font-weight="bold">LH:</tspan> C   <tspan fill="#3a8f5c" font-weight="bold">RH:</tspan> E G B D</text>
+  <path d="M14 92 V86 H286 V92" fill="none" stroke="#c9622a" stroke-width="2"/>
+  <text x="150" y="80" text-anchor="middle" font-size="12" font-weight="bold" fill="#c9622a">LH — root</text>
+  <path d="M294 92 V86 H686 V92" fill="none" stroke="#3a8f5c" stroke-width="2"/>
+  <text x="490" y="80" text-anchor="middle" font-size="12" font-weight="bold" fill="#3a8f5c">RH — rootless voicing</text>
+  <g transform="translate(0,96)">
+    <g stroke="#333" stroke-width="1.5">
+      <rect x="10" y="0" width="40" height="180" fill="#ffffff"/><rect x="50" y="0" width="40" height="180" fill="#ffffff"/><rect x="90" y="0" width="40" height="180" fill="#ffffff"/><rect x="130" y="0" width="40" height="180" fill="#ffffff"/><rect x="170" y="0" width="40" height="180" fill="#ffffff"/><rect x="210" y="0" width="40" height="180" fill="#ffffff"/><rect x="250" y="0" width="40" height="180" fill="#ffffff"/><rect x="290" y="0" width="40" height="180" fill="#ffffff"/><rect x="330" y="0" width="40" height="180" fill="#ffffff"/><rect x="370" y="0" width="40" height="180" fill="#ffffff"/><rect x="410" y="0" width="40" height="180" fill="#ffffff"/><rect x="450" y="0" width="40" height="180" fill="#ffffff"/><rect x="490" y="0" width="40" height="180" fill="#ffffff"/><rect x="530" y="0" width="40" height="180" fill="#ffffff"/><rect x="570" y="0" width="40" height="180" fill="#ffffff"/><rect x="610" y="0" width="40" height="180" fill="#ffffff"/><rect x="650" y="0" width="40" height="180" fill="#ffffff"/>
+    </g>
+    <g stroke="#000" stroke-width="1" fill="#222222">
+      <rect x="38" y="0" width="24" height="110"/><rect x="78" y="0" width="24" height="110"/><rect x="158" y="0" width="24" height="110"/><rect x="198" y="0" width="24" height="110"/><rect x="238" y="0" width="24" height="110"/><rect x="318" y="0" width="24" height="110"/><rect x="358" y="0" width="24" height="110"/><rect x="438" y="0" width="24" height="110"/><rect x="478" y="0" width="24" height="110"/><rect x="518" y="0" width="24" height="110"/><rect x="598" y="0" width="24" height="110"/><rect x="638" y="0" width="24" height="110"/>
+    </g>
+    <g>
+      <circle cx="30" cy="163" r="13" fill="#3a8f5c" stroke="#ffffff" stroke-width="1"/><circle cx="390" cy="163" r="13" fill="#2c6fbb" stroke="#ffffff" stroke-width="1"/><circle cx="470" cy="163" r="13" fill="#2c6fbb" stroke="#ffffff" stroke-width="1"/><circle cx="550" cy="163" r="13" fill="#2c6fbb" stroke="#ffffff" stroke-width="1"/><circle cx="630" cy="163" r="13" fill="#2c6fbb" stroke="#ffffff" stroke-width="1"/>
+    </g>
+    <g fill="#ffffff" font-size="11" font-weight="bold" text-anchor="middle">
+      <text x="30" y="167">R</text><text x="390" y="167">3</text><text x="470" y="167">5</text><text x="550" y="167">7</text><text x="630" y="167">9</text>
+    </g>
+    <g fill="#888" font-size="12" text-anchor="middle">
+      <text x="30" y="196">C</text><text x="70" y="196">D</text><text x="110" y="196">E</text><text x="150" y="196">F</text><text x="190" y="196">G</text><text x="230" y="196">A</text><text x="270" y="196">B</text><text x="310" y="196">C</text><text x="350" y="196">D</text><text x="390" y="196">E</text><text x="430" y="196">F</text><text x="470" y="196">G</text><text x="510" y="196">A</text><text x="550" y="196">B</text><text x="590" y="196">C</text><text x="630" y="196">D</text><text x="670" y="196">E</text>
+    </g>
+    <text x="310" y="210" text-anchor="middle" font-size="9" font-weight="bold" fill="#c9622a">middle C</text>
+  </g>
+  <text x="350" y="328" text-anchor="middle" font-size="10" fill="#52616b">From G13 every RH key slides down to its nearest chord tone.</text>
+  <text x="350" y="342" text-anchor="middle" font-size="10" fill="#52616b">Badges = chord degree. Green = root (LH). RH fingers 1-2-3-5 or 1-2-4-5, low to high.</text>
+</svg>
