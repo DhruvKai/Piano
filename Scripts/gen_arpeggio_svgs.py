@@ -23,7 +23,7 @@ PAD = 10
 KB_Y = 96
 R = 10
 W = N_WHITE * WK_W + 2 * PAD
-H = KB_Y + WK_H + 62
+H = KB_Y + WK_H + 86  # room for note names, the finger row and 3 caption lines
 GREEN, BLUE = "#3a8f5c", "#2c6fbb"
 LH_COL, RH_COL, HIGH_COL = "#c9622a", "#3a8f5c", "#d64545"
 ASSETS = os.path.join("Assets", "PIX Series YouTube Course")
@@ -37,8 +37,9 @@ def cx(tile):
     return PAD + tile * WK_W + WK_W / 2
 
 
-def render(root, title, lines, brackets, events, captions):
-    """events: list of steps, each a list of tiles (0 = root) played in that step."""
+def render(root, title, lines, brackets, events, captions, fingers):
+    """events: list of steps, each a list of tiles (0 = root) played in that step.
+    fingers: {tile: (finger label, colour)}, drawn in a row under the note names."""
     whites = [letter(root, i) for i in range(N_WHITE)]
     badges = {}
     for step, tiles in enumerate(events, 1):
@@ -82,6 +83,10 @@ def render(root, title, lines, brackets, events, captions):
     o.append('    <g fill="#888" font-size="12" text-anchor="middle">')
     o.append("      " + "".join(f'<text x="{cx(i):g}" y="{WK_H + 16}">{n}</text>' for i, n in enumerate(whites)))
     o.append('    </g>')
+    o.append('    <g font-size="12" font-weight="bold" text-anchor="middle">')
+    o.append("      " + "".join(f'<text x="{cx(t):g}" y="{WK_H + 33}" fill="{col}">{f}</text>'
+                                for t, (f, col) in sorted(fingers.items())))
+    o.append('    </g>')
     o.append('  </g>')
     for k, cap in enumerate(captions):
         y = H - 10 - 14 * (len(captions) - 1 - k)
@@ -109,6 +114,16 @@ L07_TABLE = {
 }
 L07_BRACKETS = (("LH", LH_COL, 0, 4), ("RH", RH_COL, 7, 11))
 RH_OFF = 7  # RH plays one octave above the LH
+# Not in the PDF: both hands stay in a five-finger position, so each key keeps
+# one finger. LH 5-3-1 on root/3rd/5th; RH thumb on the root up to pinky on the 5th.
+L07_LH_FINGER = {0: 5, 2: 3, 4: 1}
+FINGER_CAPTION = "Coloured numbers under the keys = finger (1 = thumb … 5 = pinky), orange LH / green RH."
+
+
+def l07_fingers(rh_degrees):
+    f = {t: (str(n), LH_COL) for t, n in L07_LH_FINGER.items()}
+    f.update({RH_OFF + d: (str(d + 1), RH_COL) for d in rh_degrees})
+    return f
 
 
 def l07_arp1(ex, root):
@@ -123,7 +138,8 @@ def l07_arp1(ex, root):
         L07_BRACKETS,
         [[l, RH_OFF + r] for l, r in zip(L07_LH, rh)],
         ["Numbers = playing order; stacked badges = same key played again.",
-         "Same number in LH &amp; RH = play together. Green = root."])
+         "Same number in LH &amp; RH = play together. Green = root.", FINGER_CAPTION],
+        l07_fingers(set(rh)))
 
 
 def l07_arp2(root):
@@ -135,7 +151,8 @@ def l07_arp2(root):
         L07_BRACKETS,
         [[0, RH_OFF + 0], [2, 4, RH_OFF + 1], [2, 4, RH_OFF + 2]],
         ["Numbers = playing order. Notes in ( ) are grouped and share one number.",
-         "Same number in LH &amp; RH = play together. Green = root."])
+         "Same number in LH &amp; RH = play together. Green = root.", FINGER_CAPTION],
+        l07_fingers({0, 1, 2}))
 
 
 # ---------------------------------------------------------------- Lesson 08
@@ -151,6 +168,15 @@ L08 = {
 # The PDF only writes out the C chord; every other root reuses the same shape
 # on its own white-key chord (root/3rd/5th), the same roots as Lesson 07.
 L08_ROOTS = "CDEFGAB"
+# Suggested LH fingering (not in the PDF), by tile: root 5, 5th 2, octave 1.
+# Pattern 1 stretches the thumb up to the 10th; patterns 3/4 jump the hand up
+# for the (C' E' G') triad (5-3-1), so C' is 1 in the (G C') groups but 5 there.
+L08_FINGERS = {
+    1: {0: "5", 4: "2", 7: "1", 9: "1"},
+    2: {0: "5", 4: "2", 7: "1"},
+    3: {0: "5", 4: "2", 7: "1/5", 9: "3", 11: "1"},
+    4: {0: "5", 4: "2", 7: "1/5", 9: "3", 11: "1"},
+}
 
 
 def transpose_l08(pattern, root):
@@ -185,7 +211,9 @@ def l08(n, root):
         (("Normal octave", LH_COL, 0, 4), ("Octave higher (′ = red in PDF)", HIGH_COL, 7, 11)),
         parse_l08(pattern),  # tiles count from the root, so C's shape fits every root
         ["Numbers = playing order; stacked badges = same key played again.",
-         "Notes in ( ) are grouped and share one number. LH only. Green = root."])
+         "Notes in ( ) are grouped and share one number. LH only. Green = root.",
+         "Orange numbers under the keys = LH finger (1 = thumb … 5 = pinky)."],
+        {t: (f, LH_COL) for t, f in L08_FINGERS[n].items()})
 
 
 def write(path, svg):

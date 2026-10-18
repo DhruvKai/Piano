@@ -53,10 +53,18 @@ Left hand plays a broken chord ([[Arpeggio]]) built from root-3rd-5th-3rd, repea
 - LH pattern is always **Root – 3rd – 5th – 3rd**, played twice per bar (e.g. C: `C-E-G-E-C-E-G-E`) — see [[Chord]] for where root/3rd/5th come from.
 - RH plays a different melodic shape in each of the 3 exercises below, echoing the palta-style patterns from [[Lesson 01 - Basics of Piano & Alankars]] and [[Lesson 02 - Western Notes & Right Hand Exercises]].
 - The source only fully tables out a handful of roots per exercise before trailing off — treat these as the template, same as [[Lesson 06 - Playing With Both Hands]].
+- **Fingering:** both hands stay in a **five-finger position**, one finger per key with no crossing, so the same finger numbers work for every root (see [[Fingering Notation]]):
+  - **LH:** pinky **5** on the root, middle **3** on the 3rd, thumb **1** on the 5th.
+  - **RH:** thumb **1** on the root up to pinky **5** on the 5th, so the finger number = the note's position in the scale.
+
+> [!info] Fingering is a suggestion
+> The PDF doesn't print finger numbers. These are the standard five-finger-position fingerings for these shapes, the same hand position as the [[Lesson 06 - Playing With Both Hands|Lesson 06]] exercises and the [[Chord|triad]] fingering (LH 5-3-1). Each diagram shows them as coloured numbers under the keys.
 
 ## Arpeggio 1
 
 **Exercise 1** — RH: up to the 5th, then partway back down
+
+Fingering (every root): **LH** `5-3-1-3-5-3-1-3` · **RH** `1-2-3-4-5-4-3-2`
 
 | <span style="background-color:#2c6fbb;color:#fff;padding:1px 6px;border-radius:3px;">Root</span> | <span style="background-color:#c9622a;color:#fff;padding:1px 6px;border-radius:3px;">LH</span> | <span style="background-color:#3a8f5c;color:#fff;padding:1px 6px;border-radius:3px;">RH</span> |
 |---|---|---|
@@ -70,6 +78,8 @@ Left hand plays a broken chord ([[Arpeggio]]) built from root-3rd-5th-3rd, repea
 
 **Exercise 2** — RH: zigzag shape
 
+Fingering (every root): **LH** `5-3-1-3-5-3-1-3` · **RH** `1-3-2-4-3-2-1-2`
+
 | <span style="background-color:#2c6fbb;color:#fff;padding:1px 6px;border-radius:3px;">Root</span> | <span style="background-color:#c9622a;color:#fff;padding:1px 6px;border-radius:3px;">LH</span> | <span style="background-color:#3a8f5c;color:#fff;padding:1px 6px;border-radius:3px;">RH</span> |
 |---|---|---|
 | C | C-E-G-E-C-E-G-E | C-E-D-F-E-D-C-D |
@@ -80,6 +90,8 @@ Left hand plays a broken chord ([[Arpeggio]]) built from root-3rd-5th-3rd, repea
 
 **Exercise 3** — RH: wide skip-and-step shape
 
+Fingering (every root): **LH** `5-3-1-3-5-3-1-3` · **RH** `1-5-4-3-2-1-2-3`
+
 | <span style="background-color:#2c6fbb;color:#fff;padding:1px 6px;border-radius:3px;">Root</span> | <span style="background-color:#c9622a;color:#fff;padding:1px 6px;border-radius:3px;">LH</span> | <span style="background-color:#3a8f5c;color:#fff;padding:1px 6px;border-radius:3px;">RH</span> |
 |---|---|---|
 | C | C-E-G-E-C-E-G-E | C-G-F-E-D-C-D-E |
@@ -89,7 +101,7 @@ Left hand plays a broken chord ([[Arpeggio]]) built from root-3rd-5th-3rd, repea
 
 ### Arpeggio 1 — keyboard diagrams by root
 
-Each diagram shows **every note of the bar** for both hands: LH on the lower octave, RH on the octave above. Badge numbers are the playing order (1–8); a key played more than once gets a stack of badges. The same number in LH and RH means both hands play it **together**.
+Each diagram shows **every note of the bar** for both hands: LH on the lower octave, RH on the octave above. Badge numbers are the playing order (1–8); a key played more than once gets a stack of badges. The same number in LH and RH means both hands play it **together**. The coloured numbers under the keys are the **finger** to use (orange = LH, green = RH; 1 = thumb … 5 = pinky).
 
 #### Arpeggio 1 — C
 
@@ -146,6 +158,8 @@ Each diagram shows **every note of the bar** for both hands: LH on the lower oct
 
 Left hand groups the 3rd and 5th together (shown in brackets); right hand plays just the first 3 notes of the scale:
 
+Fingering (every root): **LH** `5 (3 1) (3 1)` · **RH** `1 – 2 – 3`
+
 | <span style="background-color:#2c6fbb;color:#fff;padding:1px 6px;border-radius:3px;">Root</span> | <span style="background-color:#c9622a;color:#fff;padding:1px 6px;border-radius:3px;">LH</span> | <span style="background-color:#3a8f5c;color:#fff;padding:1px 6px;border-radius:3px;">RH</span> |
 |---|---|---|
 | C | C (E G) (E G) | C – D – E |
@@ -158,7 +172,7 @@ Left hand groups the 3rd and 5th together (shown in brackets); right hand plays 
 
 ### Arpeggio 2 — keyboard diagrams by root
 
-Each ( ) group is one step, so both notes in it share a badge number; the RH note with the same number lines up under that group in the source PDF.
+Each ( ) group is one step, so both notes in it share a badge number; the RH note with the same number lines up under that group in the source PDF. Finger numbers sit under the keys as above.
 
 #### Arpeggio 2 — C
 

@@ -51,6 +51,13 @@ Four increasingly complex **left-hand-only** [[Arpeggio]] rhythm patterns, all b
 - All 4 patterns use only C, E, G — see [[Chord]].
 - `′` after a note = play it one octave higher (the PDF's red notes).
 - Parentheses `( )` in the patterns below mark notes grouped/played closer together rhythmically (as shown in the source).
+- **Fingering (LH):** pinky **5** on the root, index **2** on the 5th, thumb **1** on the octave (`′`). The same numbers work for every root, since all seven are white-key chords.
+
+> [!info] Fingering is a suggestion
+> The PDF doesn't print finger numbers. These are the standard choices for an open root–5th–octave LH pattern. Each diagram shows them as orange numbers under the keys.
+> - **Root → 5th → octave = 5 – 2 – 1.** This spans a full octave, so keep the hand open and relaxed. If the octave stretch is uncomfortable, use **3** instead of 2 on the 5th.
+> - **Arpeggio 1's E′ (the 10th)** is too far to hold the hand still. Keep finger **2** anchored on G, and let the **thumb** move from C′ up to E′ and back.
+> - **Arpeggio 3/4's (C′ E′ G′)** is a full triad an octave up, so the **whole hand jumps up** and plays it **5-3-1** (like any [[Chord|triad]]), then jumps back down for (G C′) = 2-1. C′ is therefore thumb in the (G C′) groups but pinky in the triad (shown as `1/5` in the diagrams).
 
 ## The 4 Patterns
 
@@ -58,6 +65,8 @@ Four increasingly complex **left-hand-only** [[Arpeggio]] rhythm patterns, all b
 > The PDF only writes the patterns out for the **C chord**. The D–B rows below move the same shape onto each root's own chord (root, 3rd, 5th on the white keys), the same seven chords as [[Lesson 07 - Basic Arpeggios]]. Root → 5th → octave stays the same and only the letter names change.
 
 ### Arpeggio 1 — 4/4
+
+Fingering (every root): **LH** `5 – 2 – 1 – 2 – 1 – 2 – 1 – 2` (the thumb moves between the octave and the 10th; finger 2 stays on the 5th)
 
 | <span style="background-color:#2c6fbb;color:#fff;padding:1px 6px;border-radius:3px;">Root</span> | <span style="background-color:#c9622a;color:#fff;padding:1px 6px;border-radius:3px;">Chord</span> | <span style="background-color:#3a8f5c;color:#fff;padding:1px 6px;border-radius:3px;">LH</span> |
 |---|---|---|
@@ -70,6 +79,8 @@ Four increasingly complex **left-hand-only** [[Arpeggio]] rhythm patterns, all b
 | B | B-D-F | B – F – B′ – F – D′ – F – B′ – F |
 
 ### Arpeggio 2 — 4/4
+
+Fingering (every root): **LH** `5 (2 1) 5 (2 1) · 5 (2 1) (2 1) · 5 (2 1)`, no hand movement at all
 
 | <span style="background-color:#2c6fbb;color:#fff;padding:1px 6px;border-radius:3px;">Root</span> | <span style="background-color:#c9622a;color:#fff;padding:1px 6px;border-radius:3px;">Chord</span> | <span style="background-color:#3a8f5c;color:#fff;padding:1px 6px;border-radius:3px;">LH</span> |
 |---|---|---|
@@ -85,6 +96,8 @@ Four increasingly complex **left-hand-only** [[Arpeggio]] rhythm patterns, all b
 
 Arpeggio 3 and 4 use exactly the same notes. Only the time signature changes (4/4 vs 3/4), which moves where the emphasis and counting fall.
 
+Fingering (every root): **LH** `5 (2 1) (2 1) · (5 3 1) (2 1)`. Jump the hand up an octave for the triad, then back down.
+
 | <span style="background-color:#2c6fbb;color:#fff;padding:1px 6px;border-radius:3px;">Root</span> | <span style="background-color:#c9622a;color:#fff;padding:1px 6px;border-radius:3px;">Chord</span> | <span style="background-color:#3a8f5c;color:#fff;padding:1px 6px;border-radius:3px;">LH</span> |
 |---|---|---|
 | C | C-E-G | C (G C′) (G C′) · (C′ E′ G′) (G C′) |
@@ -97,7 +110,7 @@ Arpeggio 3 and 4 use exactly the same notes. Only the time signature changes (4/
 
 ## Keyboard diagrams by root
 
-Left hand only. The lower octave is the normal octave; the upper octave holds the `′` (red) notes. Badge numbers are the playing order, stacked when a key is played again; notes inside ( ) share one number.
+Left hand only. The lower octave is the normal octave; the upper octave holds the `′` (red) notes. Badge numbers are the playing order, stacked when a key is played again; notes inside ( ) share one number. Orange numbers under the keys are the **LH finger** (1 = thumb … 5 = pinky; `1/5` = thumb in the (G C′) groups, pinky in the high triad).
 
 ### C chord
 
