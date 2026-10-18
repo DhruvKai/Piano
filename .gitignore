@@ -15,3 +15,7 @@
 .DS_Store
 Thumbs.db
 desktop.ini
+
+# Python bytecode cache, regenerated whenever a Scripts/ generator runs
+__pycache__/
+*.pyc
