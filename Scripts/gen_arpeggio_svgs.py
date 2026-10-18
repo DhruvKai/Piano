@@ -8,6 +8,7 @@ badges upward. Notes grouped in ( ) share one step number.
   Lesson 07: LH on the lower root..5th, RH on the octave above.
   Lesson 08: LH only; the lower octave is the normal octave, the upper one is
              the source's red "play an octave higher" notes (written C' etc.).
+             The PDF's C-chord patterns are transposed to every root C..B.
 
 Usage: python Scripts/gen_arpeggio_svgs.py          (writes every diagram)
 """
@@ -147,6 +148,16 @@ L08 = {
 }
 
 
+# The PDF only writes out the C chord; every other root reuses the same shape
+# on its own white-key chord (root/3rd/5th), the same roots as Lesson 07.
+L08_ROOTS = "CDEFGAB"
+
+
+def transpose_l08(pattern, root):
+    """Rewrite the C-chord pattern for another root, keeping ( ) and '."""
+    return "".join(letter(root, LETTERS.index(ch)) if ch in LETTERS else ch for ch in pattern)
+
+
 def parse_l08(pattern):
     """'C (G C') E' ...' -> list of steps, each a list of tiles (C = 0, ' = +7)."""
     steps, group = [], None
@@ -165,13 +176,14 @@ def parse_l08(pattern):
     return steps
 
 
-def l08(n):
+def l08(n, root):
     time_sig, pattern = L08[n]
+    assert transpose_l08(pattern, "C") == pattern
     return render(
-        "C", f"Advanced Arpeggio {n} — C chord · {time_sig}",
-        [("LH", LH_COL, pattern.replace("'", "′"), W / 2)],
+        root, f"Advanced Arpeggio {n} — {root} chord · {time_sig}",
+        [("LH", LH_COL, transpose_l08(pattern, root).replace("'", "′"), W / 2)],
         (("Normal octave", LH_COL, 0, 4), ("Octave higher (′ = red in PDF)", HIGH_COL, 7, 11)),
-        parse_l08(pattern),
+        parse_l08(pattern),  # tiles count from the root, so C's shape fits every root
         ["Numbers = playing order; stacked badges = same key played again.",
          "Notes in ( ) are grouped and share one number. LH only. Green = root."])
 
@@ -191,7 +203,8 @@ def main():
     for root in L07_ARP2_ROOTS:
         write(os.path.join(d07, f"lesson07-arp2-{root.lower()}.svg"), l07_arp2(root))
     for n in L08:
-        write(os.path.join(ASSETS, "Lesson 08", f"lesson08-arp{n}.svg"), l08(n))
+        for root in L08_ROOTS:
+            write(os.path.join(ASSETS, "Lesson 08", f"lesson08-arp{n}-{root.lower()}.svg"), l08(n, root))
 
 
 if __name__ == "__main__":
