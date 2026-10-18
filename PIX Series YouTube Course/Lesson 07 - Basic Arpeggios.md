@@ -18,23 +18,41 @@ tags: [piano, arpeggio, two-hands, beginner]
 
 ## Index
 
-**Sections:** [[#Overview]] · [[#Key Concepts]] · [[#Arpeggio 1]] · [[#Arpeggio 2 — grouped rhythm]] · [[#Exercises / Practice]]
+**Contents**
 
-**Arpeggio 1** — LH broken chord + RH melody
+1. [[#Overview]]
+2. [[#Key Concepts]]: the LH pattern and the fingering
+3. [[#Arpeggio 1]]: LH broken chord + RH melody
+   - [[#Exercise 1 — up to the 5th and back|Exercise 1 — up to the 5th and back]] · [[#Exercise 2 — zigzag|Exercise 2 — zigzag]] · [[#Exercise 3 — skip-and-step|Exercise 3 — skip-and-step]]
+   - [[#Arpeggio 1 — keyboard diagrams by root|Diagrams]]: [[#Arpeggio 1 — C|C]] · [[#Arpeggio 1 — D|D]] · [[#Arpeggio 1 — E|E]] · [[#Arpeggio 1 — F|F]] · [[#Arpeggio 1 — G|G]] · [[#Arpeggio 1 — A|A]] · [[#Arpeggio 1 — B|B]]
+4. [[#Arpeggio 2 — grouped rhythm]]
+   - [[#Arpeggio 2 — keyboard diagrams by root|Diagrams]]: [[#Arpeggio 2 — C|C]] · [[#Arpeggio 2 — D|D]] · [[#Arpeggio 2 — E|E]] · [[#Arpeggio 2 — F|F]] · [[#Arpeggio 2 — G|G]] · [[#Arpeggio 2 — A|A]] · [[#Arpeggio 2 — B|B]]
+5. [[#Exercises / Practice]] · [[#My Reflections]] · [[#Related]]
+
+**Quick reference** (shown on C; fingering is the same for every root)
+
+| Exercise | LH | RH | Fingering LH · RH | Roots in source |
+| -------- | -- | -- | ----------------- | --------------- |
+| [[#Exercise 1 — up to the 5th and back\|Arp 1 · Ex 1]] | C-E-G-E-C-E-G-E | C-D-E-F-G-F-E-D | `5-3-1-3` · `1-2-3-4-5-4-3-2` | all 7 |
+| [[#Exercise 2 — zigzag\|Arp 1 · Ex 2]] | C-E-G-E-C-E-G-E | C-E-D-F-E-D-C-D | `5-3-1-3` · `1-3-2-4-3-2-1-2` | C D E F G |
+| [[#Exercise 3 — skip-and-step\|Arp 1 · Ex 3]] | C-E-G-E-C-E-G-E | C-G-F-E-D-C-D-E | `5-3-1-3` · `1-5-4-3-2-1-2-3` | C D E F |
+| [[#Arpeggio 2 — grouped rhythm\|Arp 2]] | C (E G) (E G) | C – D – E | `5 (3 1) (3 1)` · `1-2-3` | all 7 |
+
+**Arpeggio 1 by root**: click ✓ for the exercise table, or the root for its diagrams
 
 | Root | LH chord notes | Ex 1 — up to the 5th and back | Ex 2 — zigzag | Ex 3 — skip-and-step | Diagrams |
 | ---- | -------------- | ----------------------------- | ------------- | -------------------- | -------- |
-| C | C-E-G | ✓ | ✓ | ✓ | [[#Arpeggio 1 — C\|C diagrams]] |
-| D | D-F-A | ✓ | ✓ | ✓ | [[#Arpeggio 1 — D\|D diagrams]] |
-| E | E-G-B | ✓ | ✓ | ✓ | [[#Arpeggio 1 — E\|E diagrams]] |
-| F | F-A-C | ✓ | ✓ | ✓ | [[#Arpeggio 1 — F\|F diagrams]] |
-| G | G-B-D | ✓ | ✓ | – | [[#Arpeggio 1 — G\|G diagrams]] |
-| A | A-C-E | ✓ | – | – | [[#Arpeggio 1 — A\|A diagrams]] |
-| B | B-D-F | ✓ | – | – | [[#Arpeggio 1 — B\|B diagrams]] |
+| C | C-E-G | [[#Exercise 1 — up to the 5th and back\|✓]] | [[#Exercise 2 — zigzag\|✓]] | [[#Exercise 3 — skip-and-step\|✓]] | [[#Arpeggio 1 — C\|C diagrams]] |
+| D | D-F-A | [[#Exercise 1 — up to the 5th and back\|✓]] | [[#Exercise 2 — zigzag\|✓]] | [[#Exercise 3 — skip-and-step\|✓]] | [[#Arpeggio 1 — D\|D diagrams]] |
+| E | E-G-B | [[#Exercise 1 — up to the 5th and back\|✓]] | [[#Exercise 2 — zigzag\|✓]] | [[#Exercise 3 — skip-and-step\|✓]] | [[#Arpeggio 1 — E\|E diagrams]] |
+| F | F-A-C | [[#Exercise 1 — up to the 5th and back\|✓]] | [[#Exercise 2 — zigzag\|✓]] | [[#Exercise 3 — skip-and-step\|✓]] | [[#Arpeggio 1 — F\|F diagrams]] |
+| G | G-B-D | [[#Exercise 1 — up to the 5th and back\|✓]] | [[#Exercise 2 — zigzag\|✓]] | – | [[#Arpeggio 1 — G\|G diagrams]] |
+| A | A-C-E | [[#Exercise 1 — up to the 5th and back\|✓]] | – | – | [[#Arpeggio 1 — A\|A diagrams]] |
+| B | B-D-F | [[#Exercise 1 — up to the 5th and back\|✓]] | – | – | [[#Arpeggio 1 — B\|B diagrams]] |
 
 – = not given in the source for that root.
 
-**Arpeggio 2** — grouped rhythm
+**Arpeggio 2 by root**: grouped rhythm
 
 | Root | LH | RH | Diagram |
 | ---- | -- | -- | ------- |
@@ -62,7 +80,9 @@ Left hand plays a broken chord ([[Arpeggio]]) built from root-3rd-5th-3rd, repea
 
 ## Arpeggio 1
 
-**Exercise 1** — RH: up to the 5th, then partway back down
+### Exercise 1 — up to the 5th and back
+
+RH goes up to the 5th, then partway back down.
 
 Fingering (every root): **LH** `5-3-1-3-5-3-1-3` · **RH** `1-2-3-4-5-4-3-2`
 
@@ -76,7 +96,9 @@ Fingering (every root): **LH** `5-3-1-3-5-3-1-3` · **RH** `1-2-3-4-5-4-3-2`
 | A | A-C-E-C-A-C-E-C | A-B-C-D-E-D-C-B |
 | B | B-D-F-D-B-D-F-D | B-C-D-E-F-E-D-C |
 
-**Exercise 2** — RH: zigzag shape
+### Exercise 2 — zigzag
+
+RH plays a zigzag shape.
 
 Fingering (every root): **LH** `5-3-1-3-5-3-1-3` · **RH** `1-3-2-4-3-2-1-2`
 
@@ -88,7 +110,9 @@ Fingering (every root): **LH** `5-3-1-3-5-3-1-3` · **RH** `1-3-2-4-3-2-1-2`
 | F | F-A-C-A-F-A-C-A | F-A-G-B-A-G-F-G |
 | G | G-B-D-B-G-B-D-B | G-B-A-C-B-A-G-A |
 
-**Exercise 3** — RH: wide skip-and-step shape
+### Exercise 3 — skip-and-step
+
+RH plays a wide skip-and-step shape.
 
 Fingering (every root): **LH** `5-3-1-3-5-3-1-3` · **RH** `1-5-4-3-2-1-2-3`
 

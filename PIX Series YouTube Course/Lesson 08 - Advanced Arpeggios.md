@@ -18,26 +18,36 @@ tags: [piano, arpeggio, rhythm, beginner]
 
 ## Index
 
-**Sections:** [[#Overview]] · [[#Key Concepts]] · [[#The 4 Patterns]] · [[#Keyboard diagrams by root]] · [[#Exercises / Practice]]
+**Contents**
 
-| Pattern | Time | LH pattern (C chord) |
-| ------- | ---- | -------------------- |
-| [[#Arpeggio 1 — 4/4\|Arpeggio 1]] | 4/4 | C – G – C′ – G – E′ – G – C′ – G |
-| [[#Arpeggio 2 — 4/4\|Arpeggio 2]] | 4/4 | C (G C′) C (G C′) · C (G C′) (G C′) · C (G C′) |
-| [[#Arpeggio 3 and 4 — same notes\|Arpeggio 3]] | 4/4 | C (G C′) (G C′) · (C′ E′ G′) (G C′) |
-| [[#Arpeggio 3 and 4 — same notes\|Arpeggio 4]] | **3/4** | C (G C′) (G C′) · (C′ E′ G′) (G C′) |
+1. [[#Overview]]: octave markings (the red notes)
+2. [[#Key Concepts]]: grouping, `′` notation, LH fingering
+3. [[#The 4 Patterns]]: tables for all 7 roots
+   - [[#Arpeggio 1 — 4/4|Arpeggio 1 — 4/4]] · [[#Arpeggio 2 — 4/4|Arpeggio 2 — 4/4]] · [[#Arpeggio 3 and 4 — same notes|Arpeggio 3 (4/4) and 4 (3/4)]]
+4. [[#Keyboard diagrams by root]]
+   - [[#C chord|C]] · [[#D chord|D]] · [[#E chord|E]] · [[#F chord|F]] · [[#G chord|G]] · [[#A chord|A]] · [[#B chord|B]]
+5. [[#Exercises / Practice]] · [[#My Reflections]] · [[#Related]]
 
-**By root** — every pattern on every root
+**Quick reference** (shown on C; LH only, fingering is the same for every root)
+
+| Pattern | Time | LH pattern (C chord) | LH fingering |
+| ------- | ---- | -------------------- | ------------ |
+| [[#Arpeggio 1 — 4/4\|Arpeggio 1]] | 4/4 | C – G – C′ – G – E′ – G – C′ – G | `5-2-1-2-1-2-1-2` (thumb reaches up to E′) |
+| [[#Arpeggio 2 — 4/4\|Arpeggio 2]] | 4/4 | C (G C′) C (G C′) · C (G C′) (G C′) · C (G C′) | `5 (2 1) 5 (2 1) · 5 (2 1) (2 1) · 5 (2 1)` |
+| [[#Arpeggio 3 and 4 — same notes\|Arpeggio 3]] | 4/4 | C (G C′) (G C′) · (C′ E′ G′) (G C′) | `5 (2 1) (2 1) · (5 3 1) (2 1)` (hand jumps up for the triad) |
+| [[#Arpeggio 3 and 4 — same notes\|Arpeggio 4]] | **3/4** | C (G C′) (G C′) · (C′ E′ G′) (G C′) | same as Arpeggio 3 |
+
+**By root**: every pattern on every root. Click ✓ for that pattern's table, or the root for its diagrams
 
 | Root | Chord notes | Arp 1 | Arp 2 | Arp 3 | Arp 4 | Diagrams |
 | ---- | ----------- | ----- | ----- | ----- | ----- | -------- |
-| C | C-E-G | ✓ | ✓ | ✓ | ✓ | [[#C chord\|C diagrams]] |
-| D | D-F-A | ✓ | ✓ | ✓ | ✓ | [[#D chord\|D diagrams]] |
-| E | E-G-B | ✓ | ✓ | ✓ | ✓ | [[#E chord\|E diagrams]] |
-| F | F-A-C | ✓ | ✓ | ✓ | ✓ | [[#F chord\|F diagrams]] |
-| G | G-B-D | ✓ | ✓ | ✓ | ✓ | [[#G chord\|G diagrams]] |
-| A | A-C-E | ✓ | ✓ | ✓ | ✓ | [[#A chord\|A diagrams]] |
-| B | B-D-F | ✓ | ✓ | ✓ | ✓ | [[#B chord\|B diagrams]] |
+| C | C-E-G | [[#Arpeggio 1 — 4/4\|✓]] | [[#Arpeggio 2 — 4/4\|✓]] | [[#Arpeggio 3 and 4 — same notes\|✓]] | [[#Arpeggio 3 and 4 — same notes\|✓]] | [[#C chord\|C diagrams]] |
+| D | D-F-A | [[#Arpeggio 1 — 4/4\|✓]] | [[#Arpeggio 2 — 4/4\|✓]] | [[#Arpeggio 3 and 4 — same notes\|✓]] | [[#Arpeggio 3 and 4 — same notes\|✓]] | [[#D chord\|D diagrams]] |
+| E | E-G-B | [[#Arpeggio 1 — 4/4\|✓]] | [[#Arpeggio 2 — 4/4\|✓]] | [[#Arpeggio 3 and 4 — same notes\|✓]] | [[#Arpeggio 3 and 4 — same notes\|✓]] | [[#E chord\|E diagrams]] |
+| F | F-A-C | [[#Arpeggio 1 — 4/4\|✓]] | [[#Arpeggio 2 — 4/4\|✓]] | [[#Arpeggio 3 and 4 — same notes\|✓]] | [[#Arpeggio 3 and 4 — same notes\|✓]] | [[#F chord\|F diagrams]] |
+| G | G-B-D | [[#Arpeggio 1 — 4/4\|✓]] | [[#Arpeggio 2 — 4/4\|✓]] | [[#Arpeggio 3 and 4 — same notes\|✓]] | [[#Arpeggio 3 and 4 — same notes\|✓]] | [[#G chord\|G diagrams]] |
+| A | A-C-E | [[#Arpeggio 1 — 4/4\|✓]] | [[#Arpeggio 2 — 4/4\|✓]] | [[#Arpeggio 3 and 4 — same notes\|✓]] | [[#Arpeggio 3 and 4 — same notes\|✓]] | [[#A chord\|A diagrams]] |
+| B | B-D-F | [[#Arpeggio 1 — 4/4\|✓]] | [[#Arpeggio 2 — 4/4\|✓]] | [[#Arpeggio 3 and 4 — same notes\|✓]] | [[#Arpeggio 3 and 4 — same notes\|✓]] | [[#B chord\|B diagrams]] |
 
 ′ = one octave higher (red in the PDF).
 

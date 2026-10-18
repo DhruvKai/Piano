@@ -21,17 +21,53 @@ An **extended chord** is a [[Chord|triad]] with more notes stacked on top. You k
 
 ## Index
 
-**Sections:** [[#Building chords by stacking thirds]] · [[#Why 9, 11 and 13]] · [[#Step 1 — 7th chords]] · [[#Reading chord symbols]] · [[#9th chords]] · [[#11th chords]] · [[#13th chords]] · [[#Altered extensions]] · [[#6, add and sus chords]] · [[#Master formula table]] · [[#What to leave out]] · [[#How to play them on piano]] · [[#Extended chords inside a key]] · [[#Progressions to practise]] · [[#All 12 keys]] · [[#Common mistakes]] · [[#Practice plan]]
+**Contents**
 
-| Family | Chords covered | Diagrams |
+1. **The idea**
+   - [[#Building chords by stacking thirds]]: triad → 7th → 9th → 11th → 13th
+   - [[#Why 9, 11 and 13]]: counting past the octave (9 = 2, 11 = 4, 13 = 6)
+2. **The chords**
+   - [[#Step 1 — 7th chords]]: the foundation, the 7th-chord ladder, C7 vs Cmaj7
+   - [[#Reading chord symbols]]: maj / m / add / sus / slash, and the other ways each chord is written
+   - [[#9th chords]] · [[#11th chords]] · [[#13th chords]]
+   - [[#Altered extensions]]: ♭9, #9, #11, ♭13, 7alt
+   - [[#6, add and sus chords]]: the close relatives
+3. **Playing them**
+   - [[#What to leave out]]: which notes to drop first
+   - [[#How to play them on piano]]: four ways to split notes between the hands
+     - [[#Worked example — ii–V–I in C]]: Dm9 → G13 → Cmaj9
+   - [[#Extended chords inside a key]]: which extensions fit each chord in C, and the notes to avoid
+   - [[#Progressions to practise]]
+4. **Reference and practice**
+   - [[#Master formula table]]: every chord's degrees, semitones and key count
+   - [[#All 12 keys]]: maj7 · 7 · m7 · m7♭5 · maj9 · 9 · m9 in every key
+   - [[#Common mistakes]] · [[#Practice plan]] · [[#My Reflections]] · [[#Related]]
+
+**Find a chord**: every chord is diagrammed on C in its section
+
+| Family | Chords | Go to |
 |---|---|---|
-| 7th chords | maj7 · 7 · m7 · m7♭5 · dim7 · m(maj7) | [[#Step 1 — 7th chords\|C diagrams]] |
-| 9th chords | add9 · m(add9) · maj9 · 9 · m9 | [[#9th chords\|C diagrams]] |
-| 11th chords | 11 · m11 · maj7#11 · 7#11 | [[#11th chords\|C diagrams]] |
-| 13th chords | 13 · maj13 · m13 | [[#13th chords\|C diagrams]] |
-| Altered | 7♭9 · 7#9 · 7#11 · 7♭13 · 7alt | [[#Altered extensions\|C diagrams]] |
-| Related | 6 · m6 · 6/9 · sus2 · sus4 · 7sus4 | [[#6, add and sus chords\|C diagrams]] |
-| In practice | ii–V–I with rootless voicings | [[#Worked example — ii–V–I in C\|3 diagrams]] |
+| 7th chords | Cmaj7 · C7 · Cm7 · Cm7♭5 (Cø) · Cdim7 (C°7) · Cm(maj7) | [[#Step 1 — 7th chords\|7th chords]] |
+| 9th chords | Cadd9 · Cm(add9) · Cmaj9 · C9 · Cm9 | [[#9th chords\|9th chords]] |
+| 11th chords | C11 · Cm11 · Cmaj7#11 · C7#11 | [[#11th chords\|11th chords]] |
+| 13th chords | C13 · Cmaj13 · Cm13 | [[#13th chords\|13th chords]] |
+| Altered dominants | C7♭9 · C7#9 · C7#11 · C7♭13 · C7alt | [[#Altered extensions\|Altered extensions]] |
+| 6, add and sus | C6 · Cm6 · C6/9 · Csus2 · Csus4 · C7sus4 | [[#6, add and sus chords\|6, add and sus]] |
+| Any chord, in one table | all of the above with formulas | [[#Master formula table\|Master formula table]] |
+| Any root, not just C | the 7 most common types × 12 keys | [[#All 12 keys\|All 12 keys]] |
+
+**I want to…**
+
+| Goal | Go to |
+|---|---|
+| Understand what "9", "11", "13" mean | [[#Why 9, 11 and 13]] |
+| Tell C7, Cmaj7 and Cm7 apart | [[#Step 1 — 7th chords]] |
+| Read a chord off a song chart | [[#Reading chord symbols]] |
+| Know which notes I can skip | [[#What to leave out]] |
+| Make chords sound jazzy / neo-soul right now | [[#Worked example — ii–V–I in C]] · [[#Progressions to practise]] |
+| Pick extensions that fit the song's key | [[#Extended chords inside a key]] |
+| Find a chord's notes in another key | [[#All 12 keys]] |
+| Know what to practise today | [[#Practice plan]] |
 
 ---
 
