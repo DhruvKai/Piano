@@ -29,6 +29,9 @@ This course plays triads as **RH: 1 3 5** (thumb-middle-pinky) and **LH: 5 3 1**
 > [!tip] Going beyond 3 notes? See [[Extended Chords]]
 > 7th, 9th, 11th and 13th chords: keep stacking thirds on top of the triad.
 
+> [!tip] Leaving the 3rd out? See [[Power Chord]]
+> Root + 5th + octave (C G C′), PIX's "extended chord". It's the same for major and minor.
+
 ## Used in
 - [[Lesson 05 - Chords]]
 - [[Arpeggio]]

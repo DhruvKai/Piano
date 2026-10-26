@@ -25,7 +25,7 @@ Free YouTube playlist by **PIX Series** ("Drift Into Music"), Beginner to Advanc
 - [[Lesson 08 - Advanced Arpeggios]]
 
 > [!warning] Boilerplate pass
-> Lessons 4–8 were built from the companion PDFs only (all verified, downloaded locally) — exact YouTube video links for these aren't confirmed, since their titles don't follow the "Lesson #N" pattern lessons 1–3 used and didn't surface reliably in search. Each note flags this individually. Content, tables, and structure are ready to be reviewed/edited.
+> Lessons 4–7 were built from the companion PDFs only (all verified, downloaded locally) — exact YouTube video links for these aren't confirmed, since their titles don't follow the "Lesson #N" pattern lessons 1–3 used and didn't surface reliably in search. Each note flags this individually. Lesson 8's video is now confirmed ([Lesson #8](https://www.youtube.com/watch?v=f2KTNqaWP3Q)) and its note was rebuilt from it. Content, tables, and structure are ready to be reviewed/edited.
 
 ## Companion PDFs (on pixseries.com)
 Free notation sheets PIX Series publishes per lesson — linking out rather than storing copies here, since they're PIX Series' own branded material.
