@@ -11,6 +11,8 @@ A **metronome** is a tool that produces a steady, repeating click (or beep, or f
 ## BPM (Beats Per Minute)
 Metronome speed is measured in **BPM**: how many clicks happen in one minute. 60 BPM = one click per second. Higher BPM = faster.
 
+Many metronomes also let you set **beats per bar**, which makes beat 1 sound different. Match it to the music's [[Time Signature]] (4 for 4/4, 3 for 3/4).
+
 ## Why it matters for these exercises
 [[Alankar]]s and the [[Lesson 02 - Western Notes & Right Hand Exercises|right-hand exercises]] are built on repeating a pattern evenly. Playing the right notes isn't the whole exercise — playing them **in even time** is, and a metronome is what actually proves whether that's happening, since the ear alone tends not to notice small drifts in tempo.
 
@@ -34,3 +36,5 @@ flowchart TD
 - [[Alankar]]
 - [[Lesson 01 - Basics of Piano & Alankars]]
 - [[Lesson 02 - Western Notes & Right Hand Exercises]]
+- [[Lesson 08 - Advanced Arpeggios]]
+- [[Time Signature]]

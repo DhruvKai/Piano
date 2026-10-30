@@ -7,7 +7,7 @@ channel: PIX Series
 lesson_number: 8
 date: 2026-08-19
 status: in-progress
-tags: [piano, arpeggio, rhythm, beginner, power-chord]
+tags: [piano, arpeggio, rhythm, beginner, power-chord, theory, time-signature]
 ---
 
 # Lesson 08 — Advanced Arpeggios
@@ -20,41 +20,49 @@ tags: [piano, arpeggio, rhythm, beginner, power-chord]
 
 **Contents**
 
-1. [[#Overview]]: the extended (power) chord, octave markings
-2. [[#Key Concepts]]: grouping, `′` notation, major vs minor, LH fingering
-3. [[#The 4 Patterns]]: tables for all 12 roots, major and minor
+1. **The idea**
+   - [[#Overview]]: four LH patterns built on the extended (power) chord, octave markings
+   - [[#Key Concepts]]: grouping, `′` notation, major vs minor, LH fingering
+2. **Theory**: why the patterns work and how to rebuild them on any root
+   - [[#Chord tones by distance from the root]]: root, 5th, octave and 10th in semitones and key counts
+   - [[#The patterns as formulas]]: each arpeggio written in chord-tone numbers instead of note names
+   - [[#Why the 3rd sits up high]]: open voicing, and why 3rds sound muddy in the bass
+   - [[#Major vs minor — one key]]: only the 10th moves; Arpeggio 2 is neutral
+   - [[#4/4 vs 3/4 — why Arpeggio 3 and 4 differ]]: same notes, different beat
+   - [[#Which pattern when]]: side-by-side comparison of all four
+3. **The patterns**: [[#The 4 Patterns]], tables for all 12 roots, major and minor
    - [[#Arpeggio 1 — 4/4|Arpeggio 1 — 4/4]] · [[#Arpeggio 2 — 4/4|Arpeggio 2 — 4/4]] · [[#Arpeggio 3 and 4 — same notes|Arpeggio 3 (4/4) and 4 (3/4)]]
-4. [[#Keyboard diagrams by root]]
+4. **Diagrams**: [[#Keyboard diagrams by root]]
    - [[#C chord|C]] · [[#C♯ chord|C♯]] · [[#D chord|D]] · [[#D♯ chord|D♯]] · [[#E chord|E]] · [[#F chord|F]] · [[#F♯ chord|F♯]] · [[#G chord|G]] · [[#G♯ chord|G♯]] · [[#A chord|A]] · [[#A♯ chord|A♯]] · [[#B chord|B]]
-5. [[#Songs from the video]] · [[#Exercises / Practice]] · [[#My Reflections]] · [[#Related]]
+5. **Practice**: [[#Songs from the video]] · [[#Exercises / Practice]] · [[#My Reflections]] · [[#Related]]
 
 **Quick reference** (shown on C; LH only, fingering is the same for every root)
 
-| Pattern | Time | LH pattern (C chord) | LH fingering |
-| ------- | ---- | -------------------- | ------------ |
-| [[#Arpeggio 1 — 4/4\|Arpeggio 1]] | 4/4 | C – G – C′ – G – E′ – G – C′ – G | `5-2-1-2-1-2-1-2` (thumb reaches up to E′) |
-| [[#Arpeggio 2 — 4/4\|Arpeggio 2]] | 4/4 | C (G C′) C (G C′) · C (G C′) (G C′) · C (G C′) | `5 (2 1) 5 (2 1) · 5 (2 1) (2 1) · 5 (2 1)` |
-| [[#Arpeggio 3 and 4 — same notes\|Arpeggio 3]] | 4/4 | C (G C′) (G C′) · (C′ E′ G′) (G C′) | `5 (2 1) (2 1) · (5 3 1) (2 1)` (hand jumps up for the triad) |
-| [[#Arpeggio 3 and 4 — same notes\|Arpeggio 4]] | **3/4** | C (G C′) (G C′) · (C′ E′ G′) (G C′) | same as Arpeggio 3 |
+| Pattern | Time | LH pattern (C chord) | Chord tones | LH fingering |
+| ------- | ---- | -------------------- | ----------- | ------------ |
+| [[#Arpeggio 1 — 4/4\|Arpeggio 1]] | 4/4 | C – G – C′ – G – E′ – G – C′ – G | R 5 8 5 10 5 8 5 | `5-2-1-2-1-2-1-2` (thumb reaches up to E′) |
+| [[#Arpeggio 2 — 4/4\|Arpeggio 2]] | 4/4 | C (G C′) C (G C′) · C (G C′) (G C′) · C (G C′) | R 5 8 only | `5 (2 1) 5 (2 1) · 5 (2 1) (2 1) · 5 (2 1)` |
+| [[#Arpeggio 3 and 4 — same notes\|Arpeggio 3]] | 4/4 | C (G C′) (G C′) · (C′ E′ G′) (G C′) | R 5 8 + high triad 8 10 12 | `5 (2 1) (2 1) · (5 3 1) (2 1)` (hand jumps up for the triad) |
+| [[#Arpeggio 3 and 4 — same notes\|Arpeggio 4]] | **3/4** | C (G C′) (G C′) · (C′ E′ G′) (G C′) | same as Arpeggio 3 | same as Arpeggio 3 |
 
-For **C minor**, swap E′ for **D#′** (the minor 3rd). Arpeggio 2 has no 3rd, so it doesn't change.
+For **C minor**, swap E′ for **D#′** (the minor 3rd). Arpeggio 2 has no 3rd, so it doesn't change. The chord-tone numbers are explained in [[#Theory]].
 
-**By root**: chord notes for every root. Click the root for its diagrams
+**By root**: chord notes for every root. Click a major or minor chord to open it in [[Lesson 05 - Chords]], an extended chord for the [[Power Chord]] table, or the diagrams link for this lesson's keyboard diagrams
 
-| Root | Major chord | Minor chord | Extended chord (both) | Diagrams |
+| Root | Major chord ([[Lesson 05 - Chords#Major Chords\|Lesson 05]]) | Minor chord ([[Lesson 05 - Chords#Minor Chords\|Lesson 05]]) | Extended chord, both ([[Power Chord#All 12 keys\|Power Chord]]) | Diagrams |
 | ---- | ----------- | ----------- | --------------------- | -------- |
-| C | C-E-G | C-D#-G | C-G-C′ | [[#C chord\|C diagrams]] |
-| C# | C#-F-G# | C#-E-G# | C#-G#-C#′ | [[#C♯ chord\|C♯ diagrams]] |
-| D | D-F#-A | D-F-A | D-A-D′ | [[#D chord\|D diagrams]] |
-| D# | D#-G-A# | D#-F#-A# | D#-A#-D#′ | [[#D♯ chord\|D♯ diagrams]] |
-| E | E-G#-B | E-G-B | E-B-E′ | [[#E chord\|E diagrams]] |
-| F | F-A-C | F-G#-C | F-C-F′ | [[#F chord\|F diagrams]] |
-| F# | F#-A#-C# | F#-A-C# | F#-C#-F#′ | [[#F♯ chord\|F♯ diagrams]] |
-| G | G-B-D | G-A#-D | G-D-G′ | [[#G chord\|G diagrams]] |
-| G# | G#-C-D# | G#-B-D# | G#-D#-G#′ | [[#G♯ chord\|G♯ diagrams]] |
-| A | A-C#-E | A-C-E | A-E-A′ | [[#A chord\|A diagrams]] |
-| A# | A#-D-F | A#-C#-F | A#-F-A#′ | [[#A♯ chord\|A♯ diagrams]] |
-| B | B-D#-F# | B-D-F# | B-F#-B′ | [[#B chord\|B diagrams]] |
+| C | [[Lesson 05 - Chords#C Major\|C-E-G]] | [[Lesson 05 - Chords#C Minor\|C-D#-G]] | [[Power Chord#All 12 keys\|C-G-C′]] | [[#C chord\|C diagrams]] |
+| C# | [[Lesson 05 - Chords#C♯ Major\|C#-F-G#]] | [[Lesson 05 - Chords#C♯ Minor\|C#-E-G#]] | [[Power Chord#All 12 keys\|C#-G#-C#′]] | [[#C♯ chord\|C♯ diagrams]] |
+| D | [[Lesson 05 - Chords#D Major\|D-F#-A]] | [[Lesson 05 - Chords#D Minor\|D-F-A]] | [[Power Chord#All 12 keys\|D-A-D′]] | [[#D chord\|D diagrams]] |
+| D# | [[Lesson 05 - Chords#D♯ Major\|D#-G-A#]] | [[Lesson 05 - Chords#D♯ Minor\|D#-F#-A#]] | [[Power Chord#All 12 keys\|D#-A#-D#′]] | [[#D♯ chord\|D♯ diagrams]] |
+| E | [[Lesson 05 - Chords#E Major\|E-G#-B]] | [[Lesson 05 - Chords#E Minor\|E-G-B]] | [[Power Chord#All 12 keys\|E-B-E′]] | [[#E chord\|E diagrams]] |
+| F | [[Lesson 05 - Chords#F Major\|F-A-C]] | [[Lesson 05 - Chords#F Minor\|F-G#-C]] | [[Power Chord#All 12 keys\|F-C-F′]] | [[#F chord\|F diagrams]] |
+| F# | [[Lesson 05 - Chords#F♯ Major\|F#-A#-C#]] | [[Lesson 05 - Chords#F♯ Minor\|F#-A-C#]] | [[Power Chord#All 12 keys\|F#-C#-F#′]] | [[#F♯ chord\|F♯ diagrams]] |
+| G | [[Lesson 05 - Chords#G Major\|G-B-D]] | [[Lesson 05 - Chords#G Minor\|G-A#-D]] | [[Power Chord#All 12 keys\|G-D-G′]] | [[#G chord\|G diagrams]] |
+| G# | [[Lesson 05 - Chords#G♯ Major\|G#-C-D#]] | [[Lesson 05 - Chords#G♯ Minor\|G#-B-D#]] | [[Power Chord#All 12 keys\|G#-D#-G#′]] | [[#G♯ chord\|G♯ diagrams]] |
+| A | [[Lesson 05 - Chords#A Major\|A-C#-E]] | [[Lesson 05 - Chords#A Minor\|A-C-E]] | [[Power Chord#All 12 keys\|A-E-A′]] | [[#A chord\|A diagrams]] |
+| A# | [[Lesson 05 - Chords#A♯ Major\|A#-D-F]] | [[Lesson 05 - Chords#A♯ Minor\|A#-C#-F]] | [[Power Chord#All 12 keys\|A#-F-A#′]] | [[#A♯ chord\|A♯ diagrams]] |
+| B | [[Lesson 05 - Chords#B Major\|B-D#-F#]] | [[Lesson 05 - Chords#B Minor\|B-D-F#]] | [[Power Chord#All 12 keys\|B-F#-B′]] | [[#B chord\|B diagrams]] |
 
 ′ = one octave higher (red in the video and the PDF).
 
@@ -79,6 +87,92 @@ Four increasingly complex **left-hand-only** [[Arpeggio]] rhythm patterns. They'
 > - **Arpeggio 1's E′ (the 3rd, an octave up)** is too far to hold the hand still. Keep finger **2** anchored on G, and let the **thumb** move from C′ up to E′ and back.
 > - **Arpeggio 3/4's (C′ E′ G′)** is a full triad an octave up, so the **whole hand jumps up** and plays it **5-3-1** (like any [[Chord|triad]]), then jumps back down for (G C′) = 2-1. C′ is therefore thumb in the (G C′) groups but pinky in the triad (shown as `1/5` in the diagrams).
 > - On black-key roots the thumb sometimes lands on a black key (e.g. C#′). That's fine here, because the hand is spread open rather than crossing under.
+
+## Theory
+
+The video teaches these patterns as note names on C. This section explains the theory under them: which chord tones they use, why those tones sit where they do, and how the time signature changes the feel. With that, you can rebuild any pattern on any root without the tables.
+
+### Chord tones by distance from the root
+
+Every note in all four patterns is one of the chord tones below. Each is a fixed distance above the root, counted in [[Sharps & Flats|semitones]] (root = 0) or in keys with the [[Remembering Chord Notes|1-5-8 counting trick]] (root = 1, count every key, black and white).
+
+| Chord tone | Number | Semitones up | Key count | On C | On A | Used in |
+| ---------- | ------ | ------------ | --------- | ---- | ---- | ------- |
+| [[Root Note\|Root]] | R | 0 | 1 | C | A | all four |
+| Perfect 5th | 5 | 7 | 8 | G | E | all four |
+| [[Octave]] (root again) | 8 | 12 | 13 | C′ | A′ | all four |
+| Major 3rd, an octave up (major 10th) | 10 | 16 | 17 | E′ | C#′ | Arp 1, 3, 4 (major) |
+| Minor 3rd, an octave up (minor 10th) | ♭10 | 15 | 16 | D#′ | C′ | Arp 1, 3, 4 (minor) |
+| 5th, an octave up (12th) | 12 | 19 | 20 | G′ | E′ | Arp 3, 4 (top of the triad) |
+
+A note an octave up gets a number 7 higher, because an octave spans 7 letter names. So the 3rd an octave up is the **10th** (3 + 7) and the 5th an octave up is the **12th** (5 + 7). It's still the same note letter, just higher.
+
+> [!tip] Rebuild any root in four steps
+> 1. Put the LH pinky on the root.
+> 2. Count **7 semitones** up for the 5th, then **12** for the octave. That's the [[Power Chord]], and it's the same for major and minor.
+> 3. From the octave, count **4 more** for the major 3rd′ or **3 more** for the minor 3rd′. That's the 10th.
+> 4. For Arpeggio 3/4's high triad, count **3 more** above a major 10th, or **4 more** above a minor 10th, to reach the 12th. It always lands 7 semitones above the octave.
+>
+> Check on A major: A → **E** (+7) → **A′** (+12) → **C#′** (+16) → **E′** (+19). Same as the [[#Arpeggio 1 — 4/4|Arpeggio 1 table]].
+
+### The patterns as formulas
+
+Written in chord-tone numbers, each pattern is one formula that fits every root. That's why the fingering never changes: the hand shape matches the formula, not the note names.
+
+| Pattern | Formula (major) | Formula (minor) |
+| ------- | --------------- | --------------- |
+| [[#Arpeggio 1 — 4/4\|Arpeggio 1]] | R 5 8 5 **10** 5 8 5 | R 5 8 5 **♭10** 5 8 5 |
+| [[#Arpeggio 2 — 4/4\|Arpeggio 2]] | R (5 8) R (5 8) · R (5 8) (5 8) · R (5 8) | same, no 3rd |
+| [[#Arpeggio 3 and 4 — same notes\|Arpeggio 3 / 4]] | R (5 8) (5 8) · (8 **10** 12) (5 8) | R (5 8) (5 8) · (8 **♭10** 12) (5 8) |
+
+Patterns worth noticing:
+- In Arpeggio 1 the **5th comes back after every other note**. It's the pivot the hand turns on, which is why finger 2 never leaves it.
+- In Arpeggio 3/4 the high group **(8 10 12)** is a plain [[Chord|triad]] in root position, the same shape as in [[Lesson 05 - Chords]], played an octave above the bass root.
+
+### Why the 3rd sits up high
+
+None of the patterns plays the 3rd in the low octave. That's on purpose:
+- **Low down, close intervals sound muddy.** A 3rd is only 3–4 semitones wide, and in the bass the two notes blur into a boomy rumble. Wide intervals like the 5th (7 semitones) and the octave (12) stay clear at any height.
+- So the bass gets the **root, 5th and octave** (the [[Power Chord]]), which sounds solid and full. The **3rd**, the note that decides major or minor, goes up an octave, where it rings clearly as the 10th.
+- Spreading a chord across more than an octave like this is called an **open (spread) voicing**. Packing the notes as close as possible (C E G) is a **close voicing**. Arpeggio 3/4 uses both: an open root–5th–octave bass, then a close triad on top. See [[Extended Chords#How to play them on piano]], where "spread / open voicing" (LH root + 5th or root + 10th) is the same idea.
+
+### Major vs minor — one key
+
+The only difference between a major and a minor [[Chord]] is the 3rd. Here that means the 10th, which moves **down one semitone** (E′ → D#′ on C, C#′ → C′ on A). Everything else stays put. ([[Minor Scale]] covers where the minor sound comes from.)
+
+Arpeggio 2 has no 3rd at all, so it's **neutral**: it fits a major or a minor chord. That makes it the safe choice when you're accompanying a song by ear and haven't worked out yet whether a chord is major or minor.
+
+### 4/4 vs 3/4 — why Arpeggio 3 and 4 differ
+
+A [[Time Signature]] tells you how many beats are in each bar, and so where the strong beat (**1**) comes back:
+
+| Time | Beats per bar | Accent pattern | Count it | Feel |
+| ---- | ------------- | -------------- | -------- | ---- |
+| **4/4** | 4 | **STRONG** – weak – medium – weak | **1** 2 3 4 · **1** 2 3 4 | steady, march/pop |
+| **3/4** | 3 | **STRONG** – weak – weak | **1** 2 3 · **1** 2 3 | swaying, waltz |
+
+Arpeggio 3 and 4 have the **same notes in the same order**. What changes is the beat they sit on, so the accent lands on different notes and the pattern swings instead of marching. The video plays Arpeggio 4 under 3/4 songs (*Lag Jaa Gale*, *Dilbar Mere*). Pick the pattern whose time signature matches the song: a 4/4 pattern under a 3/4 song fights the beat every bar.
+
+> [!example] Counting Arpeggio 1
+> The PDF doesn't print note lengths. Played as 8 even notes, though, Arpeggio 1 fills exactly one bar of 4/4 counted **1 & 2 & 3 & 4 &**:
+>
+> | Count | **1** | & | **2** | & | **3** | & | **4** | & |
+> | ----- | ----- | - | ----- | - | ----- | - | ----- | - |
+> | Note (C) | **C** | G | **C′** | G | **E′** | G | **C′** | G |
+>
+> The root lands on the strong beat 1, the 5th (G) falls on every "&", and the 3rd′ lands on beat 3.
+
+### Which pattern when
+
+| | Arpeggio 1 | Arpeggio 2 | Arpeggio 3 | Arpeggio 4 |
+| - | ---------- | ---------- | ---------- | ---------- |
+| Time | 4/4 | 4/4 | 4/4 | **3/4** |
+| Chord tones | R 5 8 10 | R 5 8 | R 5 8 + triad (8 10 12) | same as 3 |
+| Major/minor versions? | yes | **no, one fits both** | yes | yes |
+| Hand movement | thumb shifts 8 ↔ 10 | none | whole hand jumps for the triad | same as 3 |
+| Demonstrated under | Kya Mujhe Pyaar Hai, Gulabi Aankhein, Soch Na Sake | Gulabi Aankhein, Soch Na Sake | Soch Na Sake | Lag Jaa Gale, Dilbar Mere |
+
+Suggested learning order: **2 → 1 → 3 → 4**. Arpeggio 2 builds the root–5th–octave hand shape with nothing else to think about. Arpeggio 1 adds the thumb's reach to the 10th. Arpeggio 3 adds the jump to the high triad. Arpeggio 4 changes only the count.
 
 ## The 4 Patterns
 
@@ -301,7 +395,7 @@ After each pattern the video plays it under a song, with a keyboard beat that su
 
 ## Exercises / Practice
 > [!tip] Practice with a [[Metronome]]
-> Set the metronome to the pattern's actual time signature (4/4 or 3/4) — that's the whole point of this lesson.
+> Set the metronome to the pattern's actual [[Time Signature|time signature]] (4/4 or 3/4), with the accent on beat 1. That's the whole point of this lesson.
 
 - [ ] Arpeggio 1 at a slow tempo, LH only — C and C# first (as in the video), then all 12 roots, major then minor
 - [ ] Arpeggio 2 at a slow tempo, LH only — all 12 roots (one version covers major and minor)
@@ -316,5 +410,5 @@ After each pattern the video plays it under a song, with a keyboard beat that su
 ## Related
 - [[PIX Series - Course Overview]]
 - [[Lesson 07 - Basic Arpeggios]]
-- [[Arpeggio]] · [[Power Chord]] · [[Chord]]
+- [[Arpeggio]] · [[Power Chord]] · [[Chord]] · [[Time Signature]] · [[Remembering Chord Notes]]
 - [[Home]]

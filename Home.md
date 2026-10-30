@@ -36,6 +36,7 @@ Dashboard for my piano notes. Start here.
 - [[Middle C]]
 - [[Extended Chords]]
 - [[Power Chord]]
+- [[Time Signature]]
 
 ## Practice Log
 <!-- running log of practice sessions, one line per session -->
@@ -49,3 +50,4 @@ Dashboard for my piano notes. Start here.
 - 2026-10-02 — added first song, [[Clash Royale Intro]] (Amosdoll Music): riff + melody + chords with keyboard diagrams, new [[Middle C]] glossary note
 - 2026-10-18 — added [[Extended Chords]] (7ths → 13ths, altered tones, voicings, ii–V–I, all 12 keys) with keyboard diagrams; finger numbers on the Lesson 07/08 arpeggios
 - 2026-10-26 — [[Lesson 08 - Advanced Arpeggios|PIX Series Lesson 08]]: video confirmed; all 4 patterns diagrammed in all 12 keys, major and minor (60 diagrams); new [[Power Chord]] glossary note (PIX's "extended chord")
+- 2026-10-30 — [[Lesson 08 - Advanced Arpeggios|Lesson 08]]: grouped index + Theory section (chord-tone formulas, open voicing, 4/4 vs 3/4); new [[Time Signature]] glossary note
